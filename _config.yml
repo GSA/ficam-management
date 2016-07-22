@@ -1,0 +1,97 @@
+# Site settings
+title: Program Management Playbook
+name: Program Management Playbook
+email: icam@gsa.gov
+author:
+    name: FICAM
+description: Program Management Guidance
+baseurl: '/program-guides'
+#url: "http://yourdomain.com" # the base hostname & protocol for your site
+#twitter_username: jekyllrb
+github_username:  lachellel
+highlighter: rouge
+branch: master
+
+# Point the logo URL at a file in your repo or hosted elsewhere by your organization
+logourl: /program-guides/img/logo.png
+logoalt: Federal Identity Credential and Access Management
+
+ficam_playbooks_url: /ficam-guides/
+
+# Repo list
+# List repos that you would like to appear on the homepage here
+repos:
+- name: program-guides
+  description: FICAM Playbook - Program Management Guidance
+  url: https://github.com/gsa/program-guides
+
+# Build settings
+markdown: kramdown
+
+exclude:
+- bin
+- config.rb
+- Gemfile
+- Gemfile.lock
+- gems
+- Procfile
+- Rakefile
+- README.md
+- script
+- vendor
+
+navigation:
+- text: Home
+  url: index.html
+  internal: true
+  coll: false
+- text: Program Organization and Management
+  url: prog-mgmt/index/
+  internal: true
+  coll: true
+  collname: prog-mgmt
+- text: Acquisition Planning
+  url: acq-plan
+  internal: true
+  coll: false
+- text: Performance Reporting
+  url: perf-rept
+  internal: true
+  coll: false
+- text: Incorporating ICAM into Existing Agency Processes
+  url: incorp/index/
+  internal: true
+  coll: true
+  collname: incorp
+- text: Privacy Considerations
+  url: privacy/index/
+  internal: true
+  coll: true
+  collname: privacy
+- text: Contribute
+  url: contribute
+  internal: true
+  coll: false
+
+collections:
+  prog-mgmt: 
+    label: "Program Organization and Management"
+    permalink: /prog-mgmt/:path/
+    output: true
+  incorp:
+    label: "Incorporating ICAM into Existing Agency Processes"
+    permalink: /incorp/:path/
+    output: true
+  privacy:
+    label: "Privacy Considerations"
+    permalink: /privacy/:path/
+    output: true
+
+include:
+- _stylesheets
+- _javascript
+
+
+
+# Custom site configuration
+lang: en
