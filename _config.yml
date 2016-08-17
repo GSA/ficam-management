@@ -5,7 +5,7 @@ email: icam@gsa.gov
 author:
     name: FICAM
 description: Program Management Guidance
-baseurl: '/program-guides'
+baseurl: '/ficam-management'
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  lachellel
@@ -13,7 +13,7 @@ highlighter: rouge
 branch: master
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
-logourl: /program-guides/img/logo.png
+logourl: /ficam-management/img/logo.png
 logoalt: Federal Identity Credential and Access Management
 
 ficam_playbooks_url: /ficam-guides/
@@ -21,7 +21,7 @@ ficam_playbooks_url: /ficam-guides/
 # Repo list
 # List repos that you would like to appear on the homepage here
 repos:
-- name: program-guides
+- name: ficam-management
   description: FICAM Playbook - Program Management Guidance
   url: https://github.com/gsa/program-guides
 
