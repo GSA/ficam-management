@@ -3,31 +3,46 @@
 
 Welcome to the Program Management Playbook, where you will find general information and best practices to support management of an ICAM program, stakeholders, and other related topics. This playbook is intended for ICAM Program Managers who may be looking for agency-level planning considerations that drive the overall success and adoption of ICAM within their organization.
 
-The content in this guide heavily leverages and replaces guidance that existed in Chapter 6 of the *FICAM Roadmap and Implementation Guide v2.0*. 
+This playbook will provide you with an overview of best practices related to general agency governance, work streams and activities, and important stakeholders to consider.
 
-<br>
+### How is the playbook structured?
 
-**How should I structure my ICAM Program?**
-<br>
+We developed this playbook into 12 steps or activities. Within each step, you will find a checklist to help you perform that activity and additional guidance, like frequently asked questions (FAQs), implementation tips, lessons learned, and privacy considerations. 
 
-[The Program Organization and Management](../program-guides/prog-mgmt/index/) section will provide you with an overview of best practices related to general agency governance, work streams and activities, and important stakeholders to consider.
 
-<br>
+### How was the playbook developed?
 
-**How do I measure ICAM Program success?**
-<br>
+The playbook was created using updated content that was previously found in the FICAM Roadmap and Implementation Guidance v2.0. We hope that the new format encourages you and your agency to contribute to additional content to support the management of ICAM programs across the Federal government. 
 
-[The Performance Reporting](../program-guides/perf-rept/) section provides performance and metrics considerations. While reporting metrics can often measure compliance rather than performance, the current ICAM-specific list of the FY16 FISMA metrics serve as a foundation for agency measurement.
+### Where can I find additional content?
 
-<br>
+The FICAM Architecture provides a high-level overview of identity management and a description of the services that deliver identity management capabilities. We recommend that you visit the <a href="http://gsa.github.io/ficam-arch/" target="_blank"> FICAM Architecture</a> site to gain a basic understanding of identity management and how its role in broader federal Identity, Credential, and Access Management (ICAM).
 
-**Is ICAM Program Management the same as ICAM Governance?**
-<br>
 
-[Program Management](../program-guides/prog-mgmt/3_management/) as outlined in this playbook focuses on supporting the general lifecycle methodologies that agencies employ to plan and execute programs. [Governance](../program-guides/prog-mgmt/1_governance/), as defined in the FICAM Architecture, focuses on administering capabilities necessary to ensure successful service operations. Successful ICAM Program Management within an enterprise involves the successful deployment of Governance Services, as outlined in the FICAM Architecture Services Framework.
+### How can I contribute to this playbook?
 
-To learn more about other FICAM topics, visit the [Playbook Homepage.](https://bnbuckler.github.io/ficam-guides/)
+We look forward to your use and contribution to this playbook. Please visit our  <a href="http://bnbuckler.github.io/ficam-management/contribute/" target =" _blank"> Contribute page </a> to learn how to post questions and contribute content. Toe learn more about other FICAM topics, visit the <a href="https://bnbuckler.github.io/ficam-guides/" target=" _blank">Playbook Homepage. </a>. This playbook will be periodically updated to provide additional information based on your feedback.
 
-This playbook will be periodically updated to provide additional information based on your feedback.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 

@@ -41,51 +41,55 @@ exclude:
 - vendor
 
 navigation:
+navigation:
 - text: Home
   url: index.html
   internal: true
   coll: false
-- text: Program Organization and Management
-  url: prog-mgmt/index/
-  internal: true
-  coll: true
-  collname: prog-mgmt
-- text: Acquisition Planning
-  url: acq-plan
+- text: Step 1 - Estbalish Program Governance
+  url: 1_step-1
   internal: true
   coll: false
-- text: Performance Reporting
-  url: perf-rept
+- text: Step 2 - Establish Project Management Office
+  url: 2_step-2
   internal: true
   coll: false
-- text: Incorporating ICAM into Existing Agency Processes
-  url: incorp/index/
+- text: Step 3 - Establish Work streams
+  url: 3_step-3
   internal: true
-  coll: true
-  collname: incorp
-- text: Privacy Considerations
-  url: privacy/index/
+  coll: false
+- text: Step 4 - Develop ICAM Program Communications Plan
+  url: 4_step-4
   internal: true
-  coll: true
-  collname: privacy
+  coll: false
+- text: Step 5 - Identify Program Stakeholders
+  url: 5_step-5
+  internal: true
+  coll: false
+- text: Step 6 - Manage Stakeholders
+  url: 6_step-6
+  internal: true
+- text: Step 7 - Establish ICAM Privacy Requirements 
+  url: 7_step-7
+  internal: true
+- text: Step 8 - Manage Program Risk 
+  url: 8_step-8
+  internal: true
+- text: Step 9 - Conduct Capital Planning for ICAM
+  url: 9_step-9
+  internal: true
+- text: Step 10 - Plan and Conduct Acquisition
+  url: 10_step-10
+  internal: true
+- text: Step 11 - Measure and Report Performance 
+  url: 11_step-11
+  internal: true
+- text: Step 12 - Manage Accountability and Control  
+  url: 12_step-12
+  internal: true
 - text: Contribute
   url: contribute
   internal: true
-  coll: false
-
-collections:
-  prog-mgmt: 
-    label: "Program Organization and Management"
-    permalink: /prog-mgmt/:path/
-    output: true
-  incorp:
-    label: "Incorporating ICAM into Existing Agency Processes"
-    permalink: /incorp/:path/
-    output: true
-  privacy:
-    label: "Privacy Considerations"
-    permalink: /privacy/:path/
-    output: true
 
 include:
 - _stylesheets
