@@ -46,40 +46,46 @@ navigation:
   url: index.html
   internal: true
   coll: false
-- text: Step 1 - 
+- text: Step 1 - Estbalish Program Governance
   url: 1_step-1
   internal: true
   coll: false
-- text: Step 2 -
+- text: Step 2 - Establish Project Management Office
   url: 2_step-2
   internal: true
   coll: false
-- text: Step 3 -
+- text: Step 3 - Establish Work streams
   url: 3_step-3
   internal: true
   coll: false
-- text: Step 4 -
+- text: Step 4 - Develop ICAM Program Communications Plan
   url: 4_step-4
   internal: true
   coll: false
-- text: Step 5 -
+- text: Step 5 - Identify Program Stakeholders
   url: 5_step-5
   internal: true
   coll: false
-- text: Step 6 -
+- text: Step 6 - Manage Stakeholders
   url: 6_step-6
   internal: true
-- text: Step 7 -
+- text: Step 7 - Establish ICAM Privacy Requirements 
   url: 7_step-7
   internal: true
-- text: Step 8 -
+- text: Step 8 - Manage Program Risk 
   url: 8_step-8
   internal: true
-- text: Step 9 -
+- text: Step 9 - Conduct Capital Planning for ICAM
   url: 9_step-9
   internal: true
-- text: Step 10 -
+- text: Step 10 - Plan and Conduct Acquisition
   url: 10_step-10
+  internal: true
+- text: Step 11 - Measure and Report Performance 
+  url: 11_step-11
+  internal: true
+- text: Step 12 - Manage Accountability and Control  
+  url: 12_step-12
   internal: true
 - text: Contribute
   url: contribute
