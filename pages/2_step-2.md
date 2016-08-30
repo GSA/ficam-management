@@ -51,7 +51,7 @@ The PMO will typically be responsible for the following functions:
 
 > The figure below represents a sample ICAM PMO structure. An agency should design its ICAM PMO structure in a way that fosters communication, coordinates efforts, and appropriately aligns with the agency‘s overall organizational structure.
 
-<div style="text-align:center"><img src="{{site.baseurl}}/img/pmo.png"/></div>
+<div style="text-align:center"><img src="{{site.baseurl}}/img/PMO.png"/></div>
 
 
 
