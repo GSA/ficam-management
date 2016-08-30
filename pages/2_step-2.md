@@ -34,6 +34,8 @@ The PMO will typically be responsible for the following functions:
 
 > * Managing program risks and issues to resolution across agency office/component/bureau boundaries
 
+<br>
+
 <div style="background-color: #edf1f3;color: black;margin: 10px;padding: 10px">
 
 <h3><span>FAQ</span></h3>
@@ -43,7 +45,13 @@ The PMO will typically be responsible for the following functions:
 
 </div>
 
+<br>
 
+> <i class="fa fa-check-square-o"></i> &nbsp;**Establish PMO Governance Structure.** PMOs generally follow standardized project management policies, processes, and methods. Within ICAM, a PMO provides opportunities to share lessons learned both within an agency and across agencies. It may serve as an advisor to other agency offices or programs impacted by the ICAM program on addressing ICAM as appropriate within other agency-wide capabilities. An ICAM PMO acts as a single, centralized point of contact for the agency‘s ICAM program. The PMO is the primary authority for performing acquisition planning tasks and making procurement decisions. 
+
+> The figure below represents a sample ICAM PMO structure. An agency should design its ICAM PMO structure in a way that fosters communication, coordinates efforts, and appropriately aligns with the agency‘s overall organizational structure.
+
+<div style="text-align:center"><img src="ficam-management/img/pmo.png"/></div>
 
 
 

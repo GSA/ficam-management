@@ -64,7 +64,7 @@ The following checklist shows government-wide external stakeholders and agency s
 
 ## <span style="color: #0C5C89">**Checklist**</span>
 
-> <i class="fa fa-check-square-o"></i> &nbsp;**Identify Federal Governance Bodies.**
+> <i class="fa fa-check-square-o"></i> &nbsp;**Federal Governance Bodies**
 
 <div id="accordion" markdown="1">
 
@@ -96,7 +96,7 @@ The following checklist shows government-wide external stakeholders and agency s
 </div>
 </div>
 
-> <i class="fa fa-check-square-o"></i> &nbsp;**Internal Standards Body.**
+> <i class="fa fa-check-square-o"></i> &nbsp;**Internal Standards Body**
 
 <div id="accordion_2" markdown="1">
 
@@ -164,7 +164,7 @@ The following checklist shows government-wide external stakeholders and agency s
 </div>
 </div>
 
-> <i class="fa fa-check-square-o"></i> &nbsp;**Identify Internal Service Customers**
+> <i class="fa fa-check-square-o"></i> &nbsp;**Internal Service Customers**
 
 <div id="accordion_6" markdown="1">
 
@@ -180,7 +180,7 @@ The following checklist shows government-wide external stakeholders and agency s
 </div>
 </div>
 
-> <i class="fa fa-check-square-o"></i> &nbsp;**Identify External Service Customers**
+> <i class="fa fa-check-square-o"></i> &nbsp;**External Service Customers**
 
 <div id="accordion_7" markdown="1">
 
@@ -196,7 +196,7 @@ The following checklist shows government-wide external stakeholders and agency s
 </div>
 </div>
 
-> <i class="fa fa-check-square-o"></i> &nbsp;**Identify Agency-Level Stakeholders**
+> <i class="fa fa-check-square-o"></i> &nbsp;**Agency-Level Stakeholders**
 
 <div id="accordion_8" markdown="1">
 
