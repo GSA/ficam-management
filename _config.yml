@@ -54,7 +54,7 @@ navigation:
   url: 2_step-2
   internal: true
   coll: false
-- text: Step 3 - Establish Work streams
+- text: Step 3 - Establish Workstreams
   url: 3_step-3
   internal: true
   coll: false
