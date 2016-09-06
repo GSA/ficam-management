@@ -5,7 +5,7 @@ email: icam@gsa.gov
 author:
     name: FICAM
 description: Program Management Guidance
-baseurl: '/program-guides'
+baseurl: '/ficam-management'
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 github_username:  lachellel
@@ -13,7 +13,7 @@ highlighter: rouge
 branch: master
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
-logourl: /program-guides/img/logo.png
+logourl: /ficam-management/img/logo.png
 logoalt: Federal Identity Credential and Access Management
 
 ficam_playbooks_url: /ficam-guides/
@@ -21,7 +21,7 @@ ficam_playbooks_url: /ficam-guides/
 # Repo list
 # List repos that you would like to appear on the homepage here
 repos:
-- name: program-guides
+- name: ficam-management
   description: FICAM Playbook - Program Management Guidance
   url: https://github.com/gsa/program-guides
 
@@ -41,51 +41,55 @@ exclude:
 - vendor
 
 navigation:
+navigation:
 - text: Home
   url: index.html
   internal: true
   coll: false
-- text: Program Organization and Management
-  url: prog-mgmt/index/
-  internal: true
-  coll: true
-  collname: prog-mgmt
-- text: Acquisition Planning
-  url: acq-plan
+- text: Step 1 - Establish Program Governance
+  url: 1_step-1
   internal: true
   coll: false
-- text: Performance Reporting
-  url: perf-rept
+- text: Step 2 - Establish Project Management Office
+  url: 2_step-2
   internal: true
   coll: false
-- text: Incorporating ICAM into Existing Agency Processes
-  url: incorp/index/
+- text: Step 3 - Establish Workstreams
+  url: 3_step-3
   internal: true
-  coll: true
-  collname: incorp
-- text: Privacy Considerations
-  url: privacy/index/
+  coll: false
+- text: Step 4 - Develop ICAM Program Communications Plan
+  url: 4_step-4
   internal: true
-  coll: true
-  collname: privacy
+  coll: false
+- text: Step 5 - Identify Program Stakeholders
+  url: 5_step-5
+  internal: true
+  coll: false
+- text: Step 6 - Manage Stakeholders
+  url: 6_step-6
+  internal: true
+- text: Step 7 - Establish ICAM Privacy Requirements 
+  url: 7_step-7
+  internal: true
+- text: Step 8 - Manage Program Risk 
+  url: 8_step-8
+  internal: true
+- text: Step 9 - Conduct Capital Planning for ICAM
+  url: 9_step-9
+  internal: true
+- text: Step 10 - Plan and Conduct Acquisition
+  url: 10_step-10
+  internal: true
+- text: Step 11 - Measure and Report Performance 
+  url: 11_step-11
+  internal: true
+- text: Step 12 - Manage Accountability and Control  
+  url: 12_step-12
+  internal: true
 - text: Contribute
   url: contribute
   internal: true
-  coll: false
-
-collections:
-  prog-mgmt: 
-    label: "Program Organization and Management"
-    permalink: /prog-mgmt/:path/
-    output: true
-  incorp:
-    label: "Incorporating ICAM into Existing Agency Processes"
-    permalink: /incorp/:path/
-    output: true
-  privacy:
-    label: "Privacy Considerations"
-    permalink: /privacy/:path/
-    output: true
 
 include:
 - _stylesheets
