@@ -1,3 +1,5 @@
+### Contribute
+
 This site is for the collaborative development of the Federal Identity, Credential and Access Management (FICAM) Program's Program Management Playbook
 
 We encourage you to read our [LICENSE](LICENSE.md) and our [README](README.md), which exist within this repository.
@@ -41,8 +43,6 @@ If you have identified an open issue suggesting a new topic for the site and wou
 * Be sure to follow the progress of the issue that you opened stating what content you intended to add! This will allow you to see if others have comments or contributing information for the process, or if the site admin has responded with an updated status on your new page.
 
 If at any point you have a question during the contribution process, do not hesitate to open an issue requesting clarification.
-
-We encourage you to read our [LICENSE]({{site.baseurl}}/license/) and our [README]({{site.github.repository_url}}/tree/{{site.branch}}/README.md), which exist within this repository.  
 
 ###  General Practices
 
