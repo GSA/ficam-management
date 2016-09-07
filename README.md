@@ -1,7 +1,9 @@
 This work is in early Alpha stage and is led by the GSA FICAM Program in coordination with the ICAM Subcommittee of the Federal CIO Council.
 
 # FICAM Guides
-This repository is for the collaborative development of the Federal Identity, Credential, and Access Management **Program Management Guides**:   
+This repository is for the collaborative development of the Federal Identity, Credential, and Access Management **Program Management Playbook**. The content is supporting the creation and future versions of program management guidance, previously found in the <a href="https://www.idmanagement.gov/IDM/servlet/fileField?entityId=ka0t0000000TNNBAA4&field=File__Body__s" target="_blank"> FICAM Roadmap and Implementation Guidance v2.0, Section 6 </a>.
+
+Additional repositories are under development for contributors to share ICAM implementation guides, code, reference implementations, and solutions.
 
 
 ## General Practices
@@ -41,3 +43,4 @@ This project is in the worldwide [public domain](LICENSE.md).
 This repository is based on GitHub Pages and Jekyll templates. 
 
 Special thanks to the teams at [18F](https://18f.gsa.gov/), [18F Pages](https://pages.18f.gov/), and [US Digital Services Playbooks](https://playbook.cio.gov/) for their open and transparent model which benefits citizens, government, and technology.
+
