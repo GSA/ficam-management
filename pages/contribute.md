@@ -5,6 +5,12 @@ permalink: /contribute/
 ---
 This site is for the collaborative development of the Federal Identity, Credential and Access Management (FICAM) Program's Program Management Playbook
 
+We encourage you to read our [LICENSE](LICENSE.md) and our [README](README.md), which exist within this repository.
+
+* You can visit the GitHub repository [here](https://github.com/GSA/ficam-management). 
+* If you have any questions, open an issue under the 'Issues' tab. 
+* Opening issues or adding content does require the creation of a GitHub account.
+
 ### How to Contribute
 
 Thank you for considering contributing to the development of open and transparent 
