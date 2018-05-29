@@ -5,12 +5,12 @@ email: icam@gsa.gov
 author:
     name: FICAM
 description: Program Management Guidance
+highlighter: rouge
+repo_url: https://github.com/gsa/program-guides
 baseurl: '/ficam-management'
+branch: master
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
-github_username:  lachellel
-highlighter: rouge
-branch: master
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
 logourl: /ficam-management/img/logo.png
@@ -18,12 +18,24 @@ logoalt: Federal Identity Credential and Access Management
 
 ficam_playbooks_url: /ficam-guides/
 
-# Repo list
-# List repos that you would like to appear on the homepage here
-repos:
-- name: ficam-management
-  description: FICAM Playbook - Program Management Guidance
-  url: https://github.com/gsa/program-guides
+# Links
+# List links that you would like to appear on the top navigation bar here
+navbar:
+- title: IDmanagement.gov
+  description: Idmanagement.gov
+  url: https://www.idmanagement.gov
+#- title: Federal ICAM Architecture
+#  description: Federal ICAM Architecture
+#  url: https://arch.idmanagement.gov
+- title: PIV Guides
+  description: PIV Guides
+  url: https://piv.idmanagement.gov
+- title: Federal PKI Guides
+  description: Federal PKI Guides
+  url: https://fpki.idmanagement.gov
+
+# Put the information about your site's GitHub repository if it is public
+repo_url: https://github.com/gsa/program-guides
 
 # Build settings
 markdown: kramdown
@@ -41,51 +53,50 @@ exclude:
 - vendor
 
 navigation:
-navigation:
-- text: Home
-  url: index.html
+- text: Introduction
+  url: ''
   internal: true
   coll: false
-- text: Step 1 - Establish Program Governance
-  url: 1_step-1
+- text: Establish Program Governance
+  url: program-govern
   internal: true
   coll: false
-- text: Step 2 - Establish Project Management Office
-  url: 2_step-2
+- text: Establish Project Management Office
+  url: pmo
   internal: true
   coll: false
-- text: Step 3 - Establish Workstreams
-  url: 3_step-3
+- text: Establish Workstreams
+  url: workstreams
   internal: true
   coll: false
-- text: Step 4 - Develop ICAM Program Communications Plan
-  url: 4_step-4
+- text: Develop ICAM Program Communications Plan
+  url: comm-plan
   internal: true
   coll: false
-- text: Step 5 - Identify Program Stakeholders
-  url: 5_step-5
+- text: Identify Program Stakeholders
+  url: id-stakeholders
   internal: true
   coll: false
-- text: Step 6 - Manage Stakeholders
-  url: 6_step-6
+- text: Manage Stakeholders
+  url: manage-stakeholders
   internal: true
-- text: Step 7 - Establish ICAM Privacy Requirements 
-  url: 7_step-7
+- text: Establish ICAM Privacy Requirements
+  url: privacy-require
   internal: true
-- text: Step 8 - Manage Program Risk 
-  url: 8_step-8
+- text: Manage Program Risk
+  url: prog-risk
   internal: true
-- text: Step 9 - Conduct Capital Planning for ICAM
-  url: 9_step-9
+- text: Conduct Capital Planning for ICAM
+  url: capital-plan
   internal: true
-- text: Step 10 - Plan and Conduct Acquisition
-  url: 10_step-10
+- text: Plan and Conduct Acquisition
+  url: acquis
   internal: true
-- text: Step 11 - Measure and Report Performance 
-  url: 11_step-11
+- text: Measure and Report Performance
+  url: perform
   internal: true
-- text: Step 12 - Manage Accountability and Control  
-  url: 12_step-12
+- text: Manage Accountability and Control
+  url: accountability
   internal: true
 - text: Contribute
   url: contribute
