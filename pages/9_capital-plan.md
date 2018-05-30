@@ -9,22 +9,22 @@ Capital Planning and Investment Control (CPIC) supports alignment of investments
 
 The primary product of the CPIC process is the Exhibit 300. Exhibit 300s are constructed and reviewed on an annual basis for both new and existing capital investments.
 
+* [Update Agency Approach to ICAM Investment](#update-agency-approach-to-icam-investment)
+* [Include ICAM Requirements into CPIC Processes](#include-icam-requirements-into-cpic-processes)
+
 ### Update Agency Approach to ICAM Investment
 
 Traditionally, some agencies have submitted separate Exhibit 300 investment requests for various ICAM activities (e.g., HSPD-12, E-authentication). However, in future budget submissions, you should consider coordinating your capital planning efforts closely across individual ICAM projects and Exhibit 300 business cases. This coordination effort will help ensure alignment throughout the organization to reduce or eliminate redundant ICAM investments across agency components/bureaus.
 
-### Include ICAM Requirements into CPIC processes
+### Include ICAM Requirements into CPIC Processes
 
 To include ICAM requirements into CPIC and investment request processes, you must identify key criteria for an investment to be considered aligned with FICAM. Be sure to communicate any changes to the relevant stakeholders and CPIC process participants.
 
 The following list highlights several of the key ICAM considerations relevant to each phase of the standard CPIC process.
 
-* **Preselect** Assess the business needs and resource requirements for the investment. Investment business plans should state use of the PIV card or authentication within the security planning and the Educate Investment Review Board on ICAM requirements.
-
+* **Preselect** Assess the business needs and resource requirements for the investment. Investment business plans should state use of the PIV card or authentication within the security planning and educate the Investment Review Board on ICAM requirements.
 * **Select** Ensure the selection of investments that best supports the mission and approach. Review your ICAM investment for alignment with the FICAM architecture relative to accounts, authentication, access control, and auditing capabilities. Remember, investment data architecture should be evaluated to prevent the redundant collection of identify data.
-
 * **Control** Take actions to ensure your ICAM investments will deliver the projected benefits through quality control and executive review. You should make sure your agency’s investment is properly integrated and aligned with your agency’s ICAM infrastructure. You should also oversee the development of investment and integration with enterprise ICAM services.
-
 * **Evaluate** Evaluate and analyze if the investments have delivered what was expected, while remaining cost effective. Remember, investments should document and demonstrate return on investment (ROI) realized through the use of ICAM infrastructure security services. You should also determine opportunities to improve efficiency and update investment as enterprise ICAM capabilities mature.
 
 You should include planning for PIV-enablement and alignment with the FICAM architecture while completing capital planning activities and preparing your budget submissions. As part of its adoption into the Federal Enterprise Architecture (FEA), the FICAM architecture was added and assigned a code in the Enterprise Architecture Segment Report (EASR). Your agency must code relevant ICAM costs to the FICAM code and report them as part of your budget submissions via the Exhibit 53.

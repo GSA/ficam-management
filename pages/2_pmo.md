@@ -29,7 +29,7 @@ The figure below represents a sample ICAM PMO structure. An agency should design
 
 ![ICAM PMO Structure]({{site.baseurl}}/img/PMO.png)
 
-{% include alert-info.html heading = "Agency Example" content="HHS's ICAM PMO Governance Structure has been provided below as an example of what an agency governance structure may look like." %}
+{% include alert-info.html heading = "Agency Example" content="For an example of what an agency governance structure may look like, please view the HHS ICAM PMO Governance structure below." %}
 
 
 ![HHS Governance Structure]({{site.baseurl}}/img/HHS-Govern-Structure.png)

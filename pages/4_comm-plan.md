@@ -5,7 +5,7 @@ permalink: comm-plan
 ---
 ---
 
-To communicate consistently and effectively, you should create a communications plan early in the program life cycle. A Communications Plan will outline the objectives, goals, themes and approach of the overall program.
+To communicate consistently and effectively, you should create a communications plan early in the program life cycle. A communications plan will outline the objectives, goals, themes and approach of the overall program.
 
 We’ve provided you a summary of some common communications that you should include in your ICAM program below.
 

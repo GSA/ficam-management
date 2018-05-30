@@ -8,13 +8,16 @@ You should establish a formal governance structure to ensure your agency’s ICA
 
 Recommendations on how to establish a formal governance structure with your agency have been provided below. Remember, you must create and assign a specific group the responsibility to provide oversight, management, development, and enforcement of agency-specific policies, processes, and performance measures.
 
+* [Create an Executive Steering Committee (ESC)](#create-an-executive-steering-committee-esc)
+* [Establish Bureau/Component Governance](#establish-bureaucomponent-governance)
+
 ### Create an Executive Steering Committee (ESC)
 
 The ESC is chartered by the agency’s executive leadership to govern and align the ICAM program with your agency’s mission. The committee is usually departmental heads, bureau/component leadership, business owners, and application owners. The ESC‘s charter should specify the group‘s authority to enforce changes, when necessary, to align ICAM technology, policy and execution with the agency‘s overall mission.
 
 #### ESC Roles and Responsibilities
 
-The role and responsibilities of each agency‘s ESC are usually governed by its charter. The list below describes some of the ESC’s responsibilities:
+The roles and responsibilities of each agency‘s ESC are usually governed by its charter. The list below describes some of the ESC’s responsibilities:
 
 * Create and approve a process that ensures the review of ICAM program changes and the resolution of disputes between ICAM and individual program offices
 * Provide direction and counsel to the ICAM Program Management Office (PMO)
@@ -25,12 +28,16 @@ The role and responsibilities of each agency‘s ESC are usually governed by its
 * Provide strategic guidance for cost, schedule, performance, and technical solutions to ensure program success
 * Review post-implementation evaluations to ensure that forecasted benefits and outcomes of the ICAM program are met
 * Provide program status information to oversight organizations, such as the Office of Management and Budget (OMB), Office of Inspector General (OIG), and Government Accountability Office (GAO), upon request
-* Establish collaboration to provide guidance, identity common agency challenges, identify best practices, and share solutions
+* Establish collaboration to provide guidance, identify common agency challenges, identify best practices, and share solutions
 
 ### Establish Bureau/Component Governance
 
-The bureau/component interdisciplinary team provides ICAM-related recommendations to the department‘s ESC and help drive the success of the ICAM program. These teams are usually comprised of working-level roles and employ a bottom up approach for managing implementation. An interdisciplinary team at the bureau/component level plays an important risk mitigation role by providing insight into the implementation effort from a functional point of view. This information helps the ESC understand the impact certain decisions may have on program executors and ultimately promote buy-in across various stakeholders. This team should be able to enhance communication and promote cohesion among the various subgroups within an agency.
+The bureau/component interdisciplinary team provides ICAM-related recommendations to the department‘s ESC to help drive the success of the ICAM program. These teams are usually comprised of ICAM-related Program Managers and technical subject matter specialists who play an important role in creating a bottom up approach for driving successful ICAM capability implementation. These groups provide the ESC with:
 
-{% include alert-info.html heading = "Agency Example" content="To view an example of what an agency governance charter may look like, please click on the U.S. Department of Health and Human Services (HHS) ICAM PMO Governance Charter box below." %}
+* Risk mitigation by providing insight and mission context into the feasibility of implementation
+* Insights and lessons learned on the impact that certain decisions may have on program executors
+* Enhanced communication and cohesion to achieve buy-in across the enterprise
+
+{% include alert-info.html heading = "Agency Example" content="To view an example of what an agency governance charter may look like, please click on the U.S. Department of Health and Human Services (HHS) ICAM PMO Governance Charter download button below." %}
 
 <a href="/ficam-management/img/HHS-Governance-Charter.doc"> <button>Download the HHS ICAM PMO Governance Charter</button> </a>

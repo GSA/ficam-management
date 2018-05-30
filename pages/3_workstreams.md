@@ -7,6 +7,21 @@ permalink: workstreams
 
 To further promote the successful execution of the ICAM program initiatives, you may decide to assign separate workstreams in your ICAM PMO to employees who already have an active and steadfast involvement in a particular area outside of the program. A workstream task lead manages the day-to-day activities of his/her individual work stream and provides the ICAM PMO with critical and timely information related to the planning, development, deployment, and activities of their initiatives.
 
+* [Establish Administrative Workstreams](#establish-administrative-workstreams)
+* [Establish Project Workstreams](#establish-project-workstreams)
+
+Additional benefits of establishing workstreams include:
+* Enhanced efficiency
+* Streamlined overhead costs
+* Minimized redundancy of ICAM-related processes
+* Validated alignment with architecture and technical standards
+* Fostered communication and cooperation between interrelated programs
+* Consistent messaging to both internal and external stakeholders
+* Timely and accurate reporting
+* Minimized confusion
+* Facilitated agency-wide adoption
+* Minimized Risks
+
 ### Establish Administrative Workstreams
 
 | <center> Workstream </center> | <center> Description </center> |
@@ -22,22 +37,9 @@ To further promote the successful execution of the ICAM program initiatives, you
 |:-----------------------------:|--------------------------------|
 | **Identity Management** | Responsible for ICAM processes and systems related to the management of digital identity data. This includes management and oversight of efforts to modernize the management of digital identities, such as HR modernization, in accordance with FICAM initiatives. |
 | **Credential Management** | Responsible for ICAM processes and systems related to credential lifecycle management activities. Separate work streams may be identified for various credential types, including agency PIV cards and local facility access cards. |
-| **Physical Access** | Responsible for ICAM processes and systems related to physical access control, including modernization efforts in accordance with the FICAM initiatives. |
-| **Logical Access** | Responsible for ICAM processes and systems related to logical access control, including modernization efforts in accordance with the FICAM initiatives. |
+| **Physical Access** | Responsible for ICAM processes and systems related to physical access control, including modernization efforts and security priorities in accordance with FICAM and Interagency Security Committee (ISC) initiatives. |
+| **Logical Access** | Responsible for ICAM processes and systems related to logical access control, including access policies, provisioning, and authentication technologies. |
 
-## <span style="color: #0C5C89">**Benefits**</span>
-
-* Enhanced efficiency
-* Streamlined overhead costs
-* Minimized redundancy of ICAM-related processes
-* Validated alignment with architecture and technical standards
-* Fostered communication and cooperation between interrelated programs
-* Consistent messaging to both internal and external stakeholders
-* Timely and accurate reporting
-* Minimized confusion
-* Facilitated agency-wide adoption
-* Minimized Risks
-
-{% include alert-info.html heading = "Agency Example" content="For an example of what an agency PMO workstream may look like, please view HHS's ICAM PMO workstream figure  below." %}
+{% include alert-info.html heading = "Agency Example" content="For an example of what an agency's PMO workstreams may look like, please view HHS's ICAM PMO workstream figure  below." %}
 
 ![HHS Governance Workstream]({{site.baseurl}}/img/HHS-workstream.png)

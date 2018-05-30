@@ -8,6 +8,9 @@ permalink: perform
 Assigning performance measurements to your agency‘s ICAM program provides decision makers and stakeholders with a useful tool to monitor progress, determine program effectiveness, and identify areas that need more funding or process improvement.
 Performance reporting for ICAM programs has traditionally focused on external reporting requirements (e.g., OMB HSPD-12 implementation status reports).
 
+* [Leverage Peformance Reporting](#leverage-performance-reporting)
+* [Include Agency ICAM Metrics](#include-agency-icam-metrics)
+
 ### Leverage Performance Reporting
 
 Determine how to use performance reporting to improve alignment with your ICAM segment architecture to drive progress on ICAM programs internal to the agency.

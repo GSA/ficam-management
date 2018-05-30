@@ -5,11 +5,16 @@ permalink: id-stakeholders
 ---
 ---
 
-A stakeholder is an individual or organization that is either actively involved in a program or who might be affected by the program’s execution or completion. It’s critical that you, identify all stakeholders, and not just those who may be positively affected by the project, in order to understand the needs, responsibilities, and potential impacts of program decisions.
+A stakeholder is an individual or organization that is either actively involved in a program or who might be affected by the program’s execution or completion. It’s critical that you identify all stakeholders, and not just those who may be positively affected by the project, in order to understand the needs, responsibilities, and potential impacts of program decisions. We’ve identified key ICAM stakeholders at the federal and agency level for consideration. This list is not exhaustive and agencies will need to identify the unique stakeholders for their mission delivery.
 
-We’ve identified key ICAM stakeholders at the federal and agency level. We’ve also included the approach for managing and engaging stakeholders to support your ICAM programs’ success.  Depending on your agency and mission needs, you may have other stakeholders not identified below.
-
-The following list shows government-wide external stakeholders and agency stakeholders you should identify.
+* [Federal Governance Bodies](#federal-governance-bodies)
+* [Internal Standards Body](#internal-standards-body)
+* [External Industry Guidance and Standards Bodies](#external-industry-guidance-and-standards-bodies)
+* [Internal ICAM Service Providers](#internal-icam-service-providers)
+* [External Service Providers](#external-service-providers)
+* [Internal Service Customers](#internal-service-customers)
+* [External Service Customers](#external-service-customers)
+* [Agency-Level Stakeholders](#agency-level-stakeholders)
 
 ### Federal Governance Bodies
 
@@ -19,23 +24,24 @@ The following list shows government-wide external stakeholders and agency stakeh
 | Federal Chief Information Officers (CIO) Council | • Principal interagency forum for improving practices in the design, modernization, use, sharing, and performance of Federal Government agency information resources <br><br> • Chartered the work of the Federal Identity Credentialing Committee (FICC), E-authentication initiative, and the Federal PKI Policy Authority, which have been consolidated into the newly chartered Information Security and Identity Management Committee (ISIMC) and Identity Credential and Access Management Subcommittee (ICAMSC) <br><br> • Also includes the Privacy Committee. |
 | Information Security and Identity Management Committee (ISIMC) | Principal interagency forum for identifying high priority security and identity management initiatives and developing recommendations for policies, procedures, and standards to address those initiatives that enhance the security posture and protection afforded to Federal Government networks, information, and information systems. |
 | Identity Credential and Access Management Subcommittee (ICAMSC) | Subcommittee of the ISIMC focused on initiatives related to Identity, Credential, and Access Management |
-| Privacy Committee | • Principal interagency forum to improve agency practices for the protection of privacy <br><br> • Interagency coordination group for Senior Agency Officials for Privacy and Chief Privacy Officers in the Federal Government, promoting adherence to the letter and spirit of laws and best practices advancing privacy. |
+| Federal Privacy Council | • Principal interagency forum to improve agency practices for the protection of privacy <br><br> • Interagency coordination group for Senior Agency Officials for Privacy and Chief Privacy Officers in the Federal Government, promoting adherence to the letter and spirit of laws and best practices advancing privacy. |
 | Department of Homeland Security (DHS) | Oversees government-wide and agency-specific cybersecurity implementation and reporting with respect to information systems that fall under FISMA to provide adequate, risk-based, and cost- effective cybersecurity. |
 | General Services Administration (GSA) <br> NOTE: GSA is also an Internal Service Provider | • Managing partner for ICAM initiatives <br><br> • Establishes and maintains vehicles and products for HSPD-12 deployment and provides USAccess HSPD-12 Managed Service Offering. |
-| Office of Personnel Management (OPM) <br> NOTE: OPM is also an Internal Service Provider | • Develops and implements policies and procedures to ensure the effective, efficient, and timely completions of investigations and adjudications relating to determination of suitability and eligibly for logical and physical access <br><br> • Owns the automated systems to support investigative processing <br>< • Serves as the suitability executive agent for the Federal Government
-| Suitability and Security Clearance Performance Accountability Council | • Develops and implements uniform and consistent policies and procedures related to suitability, fitness, and clearance determination activities and processes <br><br> • Serves as the most senior policy-making entity for the security and suitability reform effort and provides final determinations for resulting reports |
+| Office of Personnel Management (OPM) <br> NOTE: OPM is also an Internal Service Provider | • Develops and implements policies and procedures to ensure the effective, efficient, and timely completions of investigations and adjudications relating to determination of suitability and eligibly for logical and physical access <br><br> • Owns the automated systems to support investigative processing <br><br> • Serves as the suitability executive agent for the Federal Government
+| Suitability and Security Clearance Performance Accountability Council (PAC) | • Develops and implements uniform and consistent policies and procedures related to suitability, fitness, and clearance determination activities and processes <br><br> • Serves as the most senior policy-making entity for the security and suitability reform effort and provides final determinations for resulting reports |
 | Federal PKI Policy Authority | Established under the CIO Council to enforce digital certificate standards for trusted identity authentication across the federal agencies, as well as between federal agencies and outside bodies (e.g., universities, state and local governments, and commercial entities) |
 | Interagency Security Committee (ISC) | Develops standards, policies, and best practices for enhancing the quality and effectiveness of physical security in, and the protection of, nonmilitary federal facilities in the United States |
 | National Science and Technology Council (NSTC) | Cabinet-level Council that coordinates science and technology policy across the federal research and development enterprise |
 | Federal Enterprise Architecture (FEA) Interagency Group | Community of federal enterprise architects that support the development of the FEA practices, models and other assets |
 | Office of the National Coordinator for Health IT | Provides counsel to the Secretary of Health and Human Services (HHS) and departmental leadership for the development and nationwide implementation of an interoperable health IT infrastructure |
 | Federal Cloud Computing Advisory Council | • Provides oversight to the Cloud Computing Initiative and Program Management Office (PMO), formerly ITI LOB PMO. <br><br> • Goal is to achieve an optimized, cost-effective, government-wide IT infrastructure that supports agency mission, while providing reliability and security in service delivery |
-| Information and Communications Infrastructure Interagency Policy Committee (ICI- IPC) | • The government’s primary policy coordination body for secured global information and communications infrastructure <br><br> • Focus is to achieve an assured, reliable, secure, and survivable global information and communications infrastructure and related capabilities <br> • Policy forum for cybersecurity matters.
+| Information and Communications Infrastructure Interagency Policy Committee (ICI - IPC) | • The government’s primary policy coordination body for secured global information and communications infrastructure <br><br> • Focus is to achieve an assured, reliable, secure, and survivable global information and communications infrastructure and related capabilities <br> • Policy forum for cybersecurity matters.
 | Information Sharing and Access Policy Interagency Policy Committee (IPC) | • Reviews matters related to the improvement of sharing terrorist information <br><br> • Advises the President and the Program Manager on the development of Information Sharing Environment (ISE) policies, procedures, guidelines, and standards <br><br> • Ensures proper coordination among federal agencies participating in the ISE. |
 | National Security Staff (NSS) | Advises and assists the President on national security and foreign policies |
 | Committee of National Security Systems (CNSS) | Provides a forum for the discussion of policy issues in regards to the protection of national security systems. |
 
 ### Internal Standards Body
+
 
 | <center> Stakeholder Name </center> | <center> Stakeholder Role </center> |
 |-------------------------------------|-------------------------|
