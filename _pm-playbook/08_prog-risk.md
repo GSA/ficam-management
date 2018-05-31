@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Manage Program Risk
-permalink: prog-risk
+permalink: /pm-playbook/prog-risk/
+collection: pm-playbook
 ---
 ---
 

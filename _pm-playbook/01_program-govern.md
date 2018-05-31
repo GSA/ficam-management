@@ -1,19 +1,19 @@
 ---
 layout: default
 title: Establish Program Governance
-permalink: /program-govern/
+permalink: /pm-playbook/program-govern/
+collection: pm-playbook
 ---
 ---
-You should establish a formal governance structure to ensure your agency’s ICAM programs meet compliance standards by using an existing program structure or by establishing new governance as necessary. The governance structure is responsible for aligning and consolidating your agency‘s various ICAM investments, monitoring programs for alignment with organizational objectives, and ensuring broad awareness and understanding. Program governance should also establish goals, mission priorities, organization, accountability, metrics, and management controls within an agency.
 
-Recommendations on how to establish a formal governance structure with your agency have been provided below. Remember, you must create and assign a specific group the responsibility to provide oversight, management, development, and enforcement of agency-specific policies, processes, and performance measures.
+Per M-18-XY, "establishing effective ICAM governance is an important part of the federal government's continual efforts to promote robust cybersecurity." Recommendations on how to establish a formal governance structure with your agency have been provided below. Remember, you must create and assign a specific group the responsibility to provide oversight, management, development, and enforcement of agency-specific policies, processes, and performance measures.
 
 * [Create an Executive Steering Committee (ESC)](#create-an-executive-steering-committee-esc)
 * [Establish Bureau/Component Governance](#establish-bureaucomponent-governance)
 
 ### Create an Executive Steering Committee (ESC)
 
-The ESC is chartered by the agency’s executive leadership to govern and align the ICAM program with your agency’s mission. The committee is usually departmental heads, bureau/component leadership, business owners, and application owners. The ESC‘s charter should specify the group‘s authority to enforce changes, when necessary, to align ICAM technology, policy and execution with the agency‘s overall mission.
+The ESC is chartered by the agency’s executive leadership to govern and align the ICAM program with your agency’s mission. M-18-XY states that, "agencies shall designate an integrated ICAM office, team, or other governance structure in support of its Enterprise Risk Management capability that includes personnel from the offices of the Chief Information Officer, Chief Security Officer, Human Resources, General Counsel, Senior Agency Official for Privacy, and component organizations that manage ICAM programs and capabilities." The ESC‘s charter should specify the group‘s authority to enforce changes, when necessary, to align ICAM technology, policy and execution with the agency‘s overall mission.
 
 #### ESC Roles and Responsibilities
 
@@ -39,5 +39,4 @@ The bureau/component interdisciplinary team provides ICAM-related recommendation
 * Enhanced communication and cohesion to achieve buy-in across the enterprise
 
 {% include alert-info.html heading = "Agency Example" content="To view an example of what an agency governance charter may look like, please click on the U.S. Department of Health and Human Services (HHS) ICAM PMO Governance Charter download button below." %}
-
 <a href="/ficam-management/img/HHS-Governance-Charter.doc"> <button>Download the HHS ICAM PMO Governance Charter</button> </a>

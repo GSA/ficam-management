@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Manage Stakeholders
-permalink: manage-stakeholders/
+permalink: /pm-playbook/manage-stakeholders/
+collection: pm-playbook
 ---
 ---
 

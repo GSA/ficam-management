@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Establish Project Management Office
-permalink: pmo/
+permalink: /pm-playbook/pmo/
+collection: pm-playbook
 ---
 ---
 

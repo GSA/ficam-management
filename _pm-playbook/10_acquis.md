@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Plan and Conduct Acquisition
-permalink: acquis
+permalink: /pm-playbook/acquis/
+collection: pm-playbook
 ---
 ---
 
@@ -67,7 +68,7 @@ In addition to determining funding needs and obtaining funding, a key aspect of 
 
 ### Review the Approved Products List (APL)
 
-<a href="https://www.idmanagement.gov/IDM/IDMFicamProductSearchPage"> The APL</a> is a list of HSPD-12 related products and services that have been tested through an approved National Institute of Standards and Technology (NIST) test procedure. You can use multiple GSA Schedules to purchase a resource that’s included on the APL. When purchasing products and services for HSPD-12 implementation, you must a follow OMB M-06-18 and use the FIPS 201 Evaluation Program APL. The APL is continuously updated with approved products and technologies. It’s your responsibility to stay current on these changes and incorporate them into your planning during regular technology refresh cycles as part of the capital planning and budget process. You find a complete inventory of Government Certified and Approved Services and Products Listings on GSA’s website.
+[The APL](https://www.idmanagement.gov/IDM/IDMFicamProductSearchPage){:target="_blank"} is a list of HSPD-12 related products and services that have been tested through an approved National Institute of Standards and Technology (NIST) test procedure. You can use multiple GSA Schedules to purchase a resource that’s included on the APL. When purchasing products and services for HSPD-12 implementation, you must a follow OMB M-06-18 and use the FIPS 201 Evaluation Program APL. The APL is continuously updated with approved products and technologies. It’s your responsibility to stay current on these changes and incorporate them into your planning during regular technology refresh cycles as part of the capital planning and budget process. You find a complete inventory of Government Certified and Approved Services and Products Listings on GSA’s website.
 
 
 {% include alert-warning.html heading = "Implementation Tip" content="Purchasing products off of the Homeland Security Presidential Directive 12 (HSPD-12) Approved Products List (APL) does not ensure interoperability or appropriateness for your agency’s implementation. Products bought from the APL must be properly integrated and configured to be interoperable with other ICAM programs and services. Prior to acquiring, agencies should determine if the products are appropriate for the risk level and/or design of the ICAM solution." %}

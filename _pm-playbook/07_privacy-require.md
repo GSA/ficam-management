@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Establish ICAM Privacy Requirements
-permalink: privacy-require/
+permalink: /pm-playbook/privacy-require/
+collection: pm-playbook
 ---
 ---
 

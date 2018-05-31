@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Conduct Capital Planning for ICAM
-permalink: capital-plan
+permalink: /pm-playbook/capital-plan/
+collection: pm-playbook
 ---
 ---
 

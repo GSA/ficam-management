@@ -53,54 +53,36 @@ exclude:
 - vendor
 
 navigation:
-- text: Introduction
-  url: ''
+- text: Program Management Playbook
+  url: pm-playbook
   internal: true
-  coll: false
-- text: Establish Program Governance
-  url: program-govern
-  internal: true
-  coll: false
-- text: Establish Project Management Office
-  url: pmo
-  internal: true
-  coll: false
-- text: Establish Workstreams
-  url: workstreams
-  internal: true
-  coll: false
-- text: Develop ICAM Program Communications Plan
-  url: comm-plan
-  internal: true
-  coll: false
-- text: Identify Program Stakeholders
-  url: id-stakeholders
-  internal: true
-  coll: false
-- text: Manage Stakeholders
-  url: manage-stakeholders
-  internal: true
-- text: Establish ICAM Privacy Requirements
-  url: privacy-require
-  internal: true
-- text: Manage Program Risk
-  url: prog-risk
-  internal: true
-- text: Conduct Capital Planning for ICAM
-  url: capital-plan
-  internal: true
-- text: Plan and Conduct Acquisition
-  url: acquis
-  internal: true
-- text: Measure and Report Performance
-  url: perform
-  internal: true
-- text: Manage Accountability and Control
-  url: accountability
-  internal: true
+  coll: true
+  collname: pm-playbook
 - text: Contribute
   url: contribute
   internal: true
+  coll: false
+
+
+  #https://github.com/jekyll/jekyll/issues/2346
+#- text: Developer Guides
+#  url: devconfig/index/
+#  internal: true
+#  coll: true
+#  collname: devconfig
+#- text: User Guides
+#  url: userconfig/index/
+#  internal: true
+#  coll: true
+#  collname: userconfig
+
+collections:
+  pm-playbook:
+    label: "Program Management Playbook"
+    permalink: /pm-playbook/:path/
+    output: true
+
+  #https://github.com/jekyll/jekyll/issues/2346
 
 include:
 - _stylesheets

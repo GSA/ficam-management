@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Manage Accountability and Control
-permalink: accountability
+permalink: /pm-playbook/accountability/
+collection: pm-playbook
 ---
 ---
 

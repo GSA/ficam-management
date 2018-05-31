@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Develop ICAM Program Communications Plan
-permalink: comm-plan
+permalink: /pm-playbook/comm-plan/
+collection: pm-playbook
 ---
 ---
 
