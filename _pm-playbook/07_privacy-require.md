@@ -12,7 +12,7 @@ All Federal agencies and programs that collect, retain, or use personal informat
 * [Complete a System of Records Notice (SORN)](#complete-a-system-of-records-notice-sorn)
 * [Conduct a Privacy Impact Assessment (PIA)](#conduct-a-privacy-impact-assessment-pia)
 * [Establishment of Redress Procedures](#establishment-of-redress-procedures)
-* [Apply NIST 800-53 rev4 (Appendix J) Privacy Controls](#apply-nist-800-53-rev4-appendix-j-privacy-controls)
+* [Apply specific NIST 800-53 rev4 (Appendix J) Privacy Controls](#apply-nist-800-53-rev4-appendix-j-privacy-controls)
 
 
 
@@ -48,6 +48,9 @@ Procedures to allow an individual to review his record in an IT system upon requ
 
 ### Apply NIST 800-53 rev4 (Appendix J) Privacy Controls
 
-Based on FIPPs, the privacy controls outlined in NIST 800-53 r4 were built to help organization leaders determine the best ways to incorporate effective privacy protections and practices for programs and/or systems that collect, use, maintain, share, or dispose of PII.
+Privacy controls developed to help organization leaders determine the best ways to incorporate effective privacy protections and practices for programs and/or systems that collect, use, maintain, share, or dispose of PII.
+
+Specific privacy controls that address processes and procedures for consent, individual access, redress, and complaint management can be found in [NIST SP 800-53 Revision 4 - Appendix J](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf){:target="_blank"}.
+
 
 {% include alert-warning.html heading = "Privacy Tip" content="It is encouraged that ICAM implementers provide redress mechanisms even when not required by the Privacy Act. Allowing users to file complaints and comments regarding an ICAM program and rectify this if their information is inaccurate, lost, or compromised will promote confidence in their interaction with the government." %}
