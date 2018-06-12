@@ -13,7 +13,7 @@ To contribute to this site, you can:
 - [Open an Issue](#open-an-issue)
 - [Edit an existing page](#edit-an-existing-page)
 
-Information is provided below and you can visit the GitHub repository [here]({{site.repo_url}}).
+Information is provided below and you can visit the GitHub repository [here](https://github.com/GSA/ficam-management).
 
 ### Open an Issue
 
