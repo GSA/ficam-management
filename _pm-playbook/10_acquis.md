@@ -6,10 +6,10 @@ collection: pm-playbook
 ---
 ---
 
-Your agency must comply with specified regulations and policies, mainly the Federal Acquisition Regulation (FAR), when planning for the acquisition of ICAM products and services. The FAR sets the rules governing the federal acquisition process and includes several clauses particularly relevant to your agency’s ICAM program.
-M-06-18 provides guidance to federal agencies related to the acquisition of products and services for HSPD-12 implementations. It introduced several amendments to the FAR, which were codified in 48 C.F.R Subpart 4.13, that require agencies to comply with HSPD-12 and FIPS 201 for contractors who require routine logical or physical access and include language to this effect in applicable solicitations and contracts.
+Your agency must comply with specified regulations and policies, mainly the [Federal Acquisition Regulation (FAR)](https://www.acquisition.gov/browsefar){:target="blank"}, when planning for the acquisition of ICAM products and services. The FAR sets the rules governing the federal acquisition process and includes several clauses particularly relevant to your agency’s ICAM program. OMB Memorandum
+[M-06-18](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2006/m06-18.pdf){:target="blank"} provides guidance to federal agencies related to the acquisition of products and services for HSPD-12 implementations. It introduced several amendments to the FAR, which were codified in 48 C.F.R Subpart 4.13, that require agencies to comply with HSPD-12 and FIPS 201 for contractors who require routine logical or physical access and include language to this effect in applicable solicitations and contracts.
 
-The addition to the FAR also requires that agencies purchase only approved products and services in support of their HSPD-12 implementations. The FIPS 201 Evaluation Program was developed to organize and define a standard approval process for these products and services. All required NIST validation and GSA testing must be met to be an approved product or service for HSPD-12 purchases. Approved products and services, which have been demonstrated to meet NIST validation and GSA testing and have been qualified by the Evaluation Program, can be found on the FIPS 201 APL.
+The addition to the FAR also requires that agencies purchase only approved products and services in support of their HSPD-12 implementations. The [FIPS 201 Evaluation Program](https://www.idmanagement.gov/fips201/){:target="blank"} was developed to organize and define a standard approval process for these products and services. All required NIST validation and GSA testing must be met to be an approved product or service for HSPD-12 purchases. Approved products and services, which have been demonstrated to meet NIST validation and GSA testing and have been qualified by the Evaluation Program, can be found on the [FIPS 201 APL](https://www.idmanagement.gov/IDM/IDMFicamProductSearchPage){:target="_blank"}.
 
 * [Evaluate factors to estimate cost of solution](#evaluate-factors-to-estimate-cost-of-solution)
 * [Determine funding for ICAM solution](#determine-funding-for-icam-solution)
@@ -18,7 +18,7 @@ The addition to the FAR also requires that agencies purchase only approved produ
 
 ### Evaluate factors to estimate cost of solution
 
-Once you’ve determined a solution, you should evaluate a number of factors to estimate the costs that will be incurred. We’ve provided common characteristics that you should examine to not only determine costs, but to also compare the potential cost savings of various solution.
+Once you’ve determined a solution, you should evaluate a number of factors to estimate the costs that will be incurred. We’ve provided common characteristics that you should examine to not only determine costs, but to also compare the potential cost savings of various solutions.
 
 #### PACS Evaluation Factors
 >
@@ -68,7 +68,7 @@ In addition to determining funding needs and obtaining funding, a key aspect of 
 
 ### Review the Approved Products List (APL)
 
-[The APL](https://www.idmanagement.gov/IDM/IDMFicamProductSearchPage){:target="_blank"} is a list of HSPD-12 related products and services that have been tested through an approved National Institute of Standards and Technology (NIST) test procedure. You can use multiple GSA Schedules to purchase a resource that’s included on the APL. When purchasing products and services for HSPD-12 implementation, you must a follow OMB M-06-18 and use the FIPS 201 Evaluation Program APL. The APL is continuously updated with approved products and technologies. It’s your responsibility to stay current on these changes and incorporate them into your planning during regular technology refresh cycles as part of the capital planning and budget process. You find a complete inventory of Government Certified and Approved Services and Products Listings on GSA’s website.
+[The APL](https://www.idmanagement.gov/IDM/IDMFicamProductSearchPage){:target="_blank"} is a list of HSPD-12 related products and services that have been tested through an approved National Institute of Standards and Technology (NIST) test procedure. You can use multiple GSA Schedules to purchase a resource that’s included on the APL. When purchasing products and services for HSPD-12 implementation, you must follow OMB Memorandum M-06-18 and use the FIPS 201 Evaluation Program APL. The APL is continuously updated with approved products and technologies. It’s your responsibility to stay current on these changes and incorporate them into your planning during regular technology refresh cycles as part of the capital planning and budget process. You find a complete inventory of Government Certified and Approved Services and Products Listings on [IDManagement.gov](https://www.idmanagement.gov/){:target="blank"}.
 
 
 {% include alert-warning.html heading = "Implementation Tip" content="Purchasing products off of the Homeland Security Presidential Directive 12 (HSPD-12) Approved Products List (APL) does not ensure interoperability or appropriateness for your agency’s implementation. Products bought from the APL must be properly integrated and configured to be interoperable with other ICAM programs and services. Prior to acquiring, agencies should determine if the products are appropriate for the risk level and/or design of the ICAM solution." %}
@@ -79,16 +79,16 @@ GSA Schedules are purchasing vehicles for a broad range of products and services
 
 #### IT Schedule 70
 
-IT Schedule 70 is under the Multiple Award Schedule (MAS) program and gives agencies direct access to commercial experts who are able to address the needs of the government IT Community through a series of Special Item Number (SINs). These SINs cover most of the general purpose commercial IT hardware, software, and services and should be used by agencies as needed to meet their mission objectives as well as ICAM initiatives.
+[IT Schedule 70](https://www.gsa.gov/technology/technology-purchasing-programs/it-schedule-70){:target="blank"} is under the Multiple Award Schedule (MAS) program and gives agencies direct access to commercial experts who are able to address the needs of the government IT Community through a series of Special Item Number (SINs). These SINs cover most of the general purpose commercial IT hardware, software, and services and should be used by agencies as needed to meet their mission objectives as well as ICAM initiatives.
 
 * Refer to SINs 132-60 through 152-62, to find procurement needs to your agency’s ICAM program. These schedules include electronic credentials, PKI services, and HSPD-12 product and services.
 * If you agency uses an acquisition vehicle other than GSA IT Schedule 70, your agency will take responsibility for ensuring compliance with the applicable federal standards and requirements.
 
-#### IT Schedule 84
+#### IT Schedule 84:
 
-ICAM implementations often require the acquisition of security products and services, particularly items related to Physical Access Control Systems (PACS). These items may be procured using Schedule 84, which includes a full suite of solutions for law enforcement, security, facilities management, fire, rescue, clothing, marine craft, and emergency/disaster response. Agency procurement personnel may purchase resources off of both schedules to meet their ICAM implementation needs. For example, an agency trying to modernize their PACS could purchase new PIV card readers for access control points off of Schedule 84 and purchase services from the system integrator off of Schedule 70.
+ICAM implementations often require the acquisition of security products and services, particularly items related to Physical Access Control Systems (PACS). These items may be procured using [IT Schedule 84](https://www.gsa.gov/acquisition/purchasing-programs/gsa-schedules/list-of-gsa-schedules/schedule-84security-fire-law-enforcement){:target="blank"}, which includes a full suite of solutions for law enforcement, security, facilities management, fire, rescue, clothing, marine craft, and emergency/disaster response. Agency procurement personnel may purchase resources off of both schedules to meet their ICAM implementation needs. For example, an agency trying to modernize their PACS could purchase new PIV card readers for access control points off of Schedule 84 and purchase services from the system integrator off of Schedule 70.
 
-When purchasing products and services for its HSPD-12 implementation, an agency must also follow OMB M-06-18 and leverage the Federal Information Processing Standards 201 (FIPS 201) Evaluation Program Approved Products List (APL). In addition to the requirements governing federal acquisitions, an agency has other resources at its disposal to support acquisition for its ICAM program, including the GSA Schedules.
+When purchasing products and services for its HSPD-12 implementation, an agency must also follow M-06-18 and leverage the FIPS 201 Evaluation Program APL. In addition to the requirements governing federal acquisitions, an agency has other resources at its disposal to support acquisition for its ICAM program, including GSA Schedules and the [Physical Access Control Systems (PACS) Customer Ordering Guide](https://www.gsa.gov/cdnstatic/Guide_to_PACS_-_REVISED_060717.pdf){:target="blank"}, developed by GSA, to serve as a PACS products and services ordering guide.
 
 ## Benefits
 ---
