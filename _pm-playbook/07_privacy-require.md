@@ -61,11 +61,11 @@ To manage and maintain privacy risks, it is important that your agency establish
 
 #### - NIST 800-63 Rev3 - Digital Identity Guidelines
 
-A four volume set of Digital Identity Guidelines for privacy requirements and considerations to help mitigate potential associated privacy risks. Combines risk management for security and privacy with mission needs by having agencies select assurance levels for individual functions being performed.
+Digital Identity Guidelines for privacy requirements and considerations to help mitigate potential associated privacy risks. The four volume set of guidelines combines risk management for security and privacy with mission needs by having agencies select assurance levels for individual functions being performed.
 
-To view the privacy requirements and considerations for each volume, please select the relevant link below.
+#### - Privacy Considerations
 
-| **Volume** | **Name** | **Location** |
+| **Volume** | **Guidance Name** | **Location in Document** |
 | [NIST 800-63-3](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63-3.pdf){:target="blank"}  | Digital Identity Guidelines |
 | [NIST 800-63-3A](https://doi.org/10.6028/NIST.SP.800-63a){:target="blank"} | Enrollment and Identity Proofing Requirements | Section 8 |
 | [NIST 800-63-3B](https://doi.org/10.6028/NIST.SP.800-63b){:target="blank"} | Authentication and Lifecycle Management | Section 9 |
@@ -84,5 +84,3 @@ Privacy controls developed to help organization leaders determine the best ways 
 Specific privacy controls that address processes and procedures for consent, individual access, redress, and complaint management can be found in [NIST SP 800-53 Revision 4 - Appendix J](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf){:target="_blank"}
 
 {% include alert-warning.html heading = "Privacy Tip" content="It is encouraged that ICAM implementers provide redress mechanisms even when not required by the Privacy Act. Allowing users to file complaints and comments regarding an ICAM program and rectify this if their information is inaccurate, lost, or compromised will promote confidence in their interaction with the government." %}
-
-{% include alert-info.html heading = "Agency Example" content="PLACEHOLDER" %}

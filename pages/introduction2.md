@@ -20,7 +20,7 @@ The playbook was created using updated content that was previously found in the 
 
 ### Where can I find additional content?
 
-The FICAM Architecture provides a high-level overview of identity management and a description of the services that deliver identity management capabilities. We recommend that you visit the <a href="https://arch.idmanagement.gov/" target="_blank"> FICAM Architecture</a> site to gain a basic understanding of identity management and how its role in broader federal Identity, Credential, and Access Management (ICAM).
+The FICAM Architecture provides a high-level overview of identity management and a description of the services that deliver identity management capabilities. We recommend that you visit the <a href="https://arch.idmanagement.gov/" target="_blank"> FICAM Architecture</a> site to gain a basic understanding of identity management and its role in broader federal Identity, Credential, and Access Management (ICAM).
 
 ### How can I contribute to this playbook?
 
