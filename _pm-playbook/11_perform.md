@@ -58,6 +58,5 @@ The [FY 2018 CIO FISMA Metrics](https://www.dhs.gov/sites/default/files/publicat
 
 {% include alert-warning.html heading = "Implementation Tips" content="Incorporate relevant metrics into your Exhibit 300 business case submissions for any ICAM investment as a mean of tracking important information and showing investment results and value to your agency.  " %}
 
-{% include alert-info.html heading = "Additional Guidance" content="The GSA FICAM Program has developed guidance for the April-release FY18 CIO FISMA ICAM-related Metrics to help agencies gather and report ICAM metrics. The guidance can be accessed by clicking on the button below." %}
-
+{% include alert-info.html heading = "Agency Example" content="Click on the download button below to view the FY18 FISMA ICAM Metrics Guidance developed by the GSA FICAM Program." %}
  <a href="/ficam-management/img/Draft_April-release FY18 FISMA ICAM Metrics Guidance_20180504.docx"> <button>Download the FY18 ICAM FISMA Metrics Guidance</button> </a>

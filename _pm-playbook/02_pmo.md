@@ -19,7 +19,7 @@ The PMO will typically be responsible for the following functions:
 * Handling communications and outreach to both internal and external stakeholders
 * Managing program risks and issues to resolution across agency office/component/bureau boundaries
 
-{% include alert-info.html heading = "FAQ: What is the difference between an Executive Steering Committee (ESC) and a Program Management Office (PMO)?" content="ESCs traditionally provide top-down leadership support and guidance across the programs within an agency and PMOs provide operational support for the day-to-day execution of a specific implementation." %}
+{% include alert-info.html heading = "FAQ: What is the difference between an Executive Steering Committee and a Program Management Office?" content="Executive Steering Committees traditionally provide top-down leadership support and guidance across the programs within an agency and Project Management Offices provide operational support for the day-to-day execution of a specific implementation." %}
 
 
 ### Establish PMO Governance Structure
@@ -30,7 +30,6 @@ The figure below represents a sample ICAM PMO structure. An agency should design
 
 ![ICAM PMO Structure]({{site.baseurl}}/img/PMO.png)
 
-{% include alert-info.html heading = "Agency Example" content="For an example of what an agency governance structure may look like, please view the HHS ICAM PMO Governance structure below." %}
-
+{% include alert-info.html heading = "Agency Example" content="The figure below provides an example of an ICAM Governance and Program Management Structure implemented by HHS." %}
 
 ![HHS Governance Structure]({{site.baseurl}}/img/HHS-Govern-Structure.png)

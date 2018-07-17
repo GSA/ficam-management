@@ -6,7 +6,7 @@ collection: pm-playbook
 ---
 ---
 
-Risk management involves the identification of policies, procedures, and practices, as well as the analysis, assessment, control, and avoidance of threats to the continuing efficiency, profitability and success of program operations. proactive risk management is paramount within an agency‘s ICAM program. This requires the involvement of the entire program management team and active maintenance of issues. Follow the recommendations below to learn more about developing and managing your ICAM Risk Management Program.
+Risk Management involves the identification of policies, procedures, and practices, as well as the analysis, assessment, control, and avoidance of threats to the continuing efficiency, profitability and success of program operations. proactive risk management is paramount within an agency‘s ICAM program. This requires the involvement of the entire program management team and active maintenance of issues. Follow the recommendations below to learn more about developing and managing your ICAM Risk Management Program.
 
 * [Develop a Risk Management Program](#develop-a-risk-management-program)
 * [Develop a Risk Management Plan](#develop-a-risk-management-plan)
@@ -59,21 +59,6 @@ The table below summarizes some of the common risks faced within an agency ICAM 
 
 Your agency is required to perform a risk assessment on all systems to determine the extent of potential threats associated with it. Risk assessments assist agencies in determining the proper security mechanisms for information systems based on their level of risk. ICAM solutions are capable of supporting innovative approaches for IT risk management. ICAM implementations also offer the ability to support required information system security controls using common services for the entire organization. This will significantly streamline the accreditation process.
 
-### Apply the Risk Management Framework (RMF)
+### Apply RMF
 
-Your agency’s information systems must meet Federal Information Security Management Act (FISMA) requirements. This includes the application of the IT RMF defined in NIST SP-800-37. The RMF is designed to help you build information security capabilities into your agency’s information systems that will better monitor the real-time security status of those systems, and provide relevant information to agency leadership to enable risk-based decisions associated with their operation.
-
-The six steps in the RMF cycle are summarized below. The RMF framework allows you to move between steps as needed and allocate resources to each step as needed. However, equal emphasis should be placed on each step.
-
-1. **Categorize Information System:** <br>
-Categorize information and information systems based on your agency’s mission and business objectives. Describe each information system, including: full name with acronym, location of the system, version number, types of information held in the system, system owner, and other specific agency requirements. Register the information system within specified program offices.
-2. **Select Security Controls:** <br>
-Select the appropriate security controls for the information system and document the controls in the security plan. Develop a continuous monitoring strategy to determine the ongoing effectiveness of security controls and ant changes to information systems. Review the proposed security controls, ensure that the security plan has identified any possible risk to the agency.
-3. **Implement Security Controls:** <br>
-Implement security controls from the security plan (created in Select Security Controls). Document the implementation of the security controls in the security plan.
-4. **Access Security Controls:** <br>
-Create and approve a security assessment plan of the security controls and ensure assessors follow the documented procedures in the plan. Document any problems or recommendations from the assessment in an assessment report and adjust appropriate security controls, in needed.
-5. **Authorize Information Systems:** <br>
-Create a plan of action based on findings from the security assessment report; when completed, submit to the authorizing agency official for review. The authorizing official reviews and determines the risk to the organizational operations, such as mission or assets.
-6. **Monitor Security Controls:** <br>
-Review and determine the security impact of any changes to the information system. Make updates to the security plan, security assessment report, and plan of actions as needed during the continuous monitoring process. Following the monitoring strategy set forth, report the security status on a continual basis.
+Your agency’s information systems must meet Federal Information Security Management Act (FISMA) requirements. This includes the application of the IT RMF defined in [NIST SP-800-37](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-37r1.pdf){:target="blank"}. The RMF is designed to help you build information security capabilities into your agency’s information systems that will better monitor the real-time security status of those systems, and provide relevant information to agency leadership to enable risk-based decisions associated with their operations.

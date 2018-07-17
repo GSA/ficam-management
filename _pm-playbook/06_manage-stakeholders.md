@@ -6,7 +6,7 @@ collection: pm-playbook
 ---
 ---
 
-Stakeholder management, as it relates to ICAM, involves coordination, collaboration, and communication with numerous entities within the agency. Each stakeholder group has a distinct mission requirement and performs a specific set of duties in support of the overall agency mission. These stakeholders will have different viewpoints that may conflict with one another or the overarching ICAM program objectives. Furthermore, decisions made in one program area may impact another.
+Stakeholder management, as it relates to ICAM, involves coordination, collaboration, and communication within the agency. Each stakeholder group has a distinct mission requirement and performs duties in support of the overall agency mission. These stakeholders will have different viewpoints that may conflict with one another or the overarching ICAM program objectives. Furthermore, decisions made in one program area may impact another.
 
 * [Collaborate through formal tiger teams and working groups](#collaborate-through-formal-tiger-teams-and-working-groups)
 * [Stand up focus groups or teams](#stand-up-focus-groups-or-teams)
