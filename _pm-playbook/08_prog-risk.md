@@ -12,7 +12,7 @@ Risk Management involves the identification of policies, procedures, and practic
 * [Develop a Risk Management Plan](#develop-a-risk-management-plan)
 * [Develop a Risk Registry](#develop-a-risk-registry)
 * [Perform a Security and Risk Management Assessment](#perform-a-security-and-risk-management-assessment)
-* [Apply the Risk Management Framework (RMF)](#apply-the-risk-management-framework-rmf)
+* [Apply the Risk Management Framework](#apply-the-risk-management-framework)
 
 ### Develop a Risk Management Program
 
@@ -59,6 +59,6 @@ The table below summarizes some of the common risks faced within an agency ICAM 
 
 Your agency is required to perform a risk assessment on all systems to determine the extent of potential threats associated with it. Risk assessments assist agencies in determining the proper security mechanisms for information systems based on their level of risk. ICAM solutions are capable of supporting innovative approaches for IT risk management. ICAM implementations also offer the ability to support required information system security controls using common services for the entire organization. This will significantly streamline the accreditation process.
 
-### Apply RMF
+### Apply the Risk Management Framework
 
-Your agency’s information systems must meet Federal Information Security Management Act (FISMA) requirements. This includes the application of the IT RMF defined in [NIST SP-800-37](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-37r1.pdf){:target="blank"}. The RMF is designed to help you build information security capabilities into your agency’s information systems that will better monitor the real-time security status of those systems, and provide relevant information to agency leadership to enable risk-based decisions associated with their operations.
+Your agency’s information systems must meet Federal Information Security Management Act (FISMA) requirements. This includes the application of the IT Risk Management Framework (RMF) defined in [NIST SP-800-37](https://nvlpubs.nist.gov/nistpubs/specialpublications/nist.sp.800-37r1.pdf){:target="blank"}. The RMF is designed to help you build information security capabilities into your agency’s information systems that will better monitor the real-time security status of those systems, and provide relevant information to agency leadership to enable risk-based decisions associated with their operations.

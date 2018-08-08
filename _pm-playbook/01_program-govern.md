@@ -52,12 +52,12 @@ The roles and responsibilities of each agency‘s ESC are usually governed by it
 The bureau/component interdisciplinary team provides ICAM-related recommendations to the department‘s ESC to help drive the success of the ICAM program. These teams are usually comprised of ICAM-related program managers and Information Technology experts who play an important role in creating a bottom up approach for driving successful ICAM capability implementation. These groups provide the ESC with:
 
 * Risk strategies and mitigation by providing insight and business context into the feasibility of implementation
-* Insights and lessons learned on the impact that certain decisions may have on program executors
+* Insights and lessons learned based on the impact that certain decisions may have on program executors
 * Enhanced communication and cohesion to achieve buy-in across the enterprise
 
 ### Authorities to Consider
 
-Agencies can leverage the following authorities when establishing ICAM governance and designating roles and responsibilities across an agency enterprise.
+Agencies can leverage existing authorities to establish organizational-level ICAM governance and define roles and responsibilities across the enterprise.
 
 #### Executive Order (EO) 13800 – Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure:
 

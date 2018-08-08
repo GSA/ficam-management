@@ -64,8 +64,6 @@ To manage and maintain privacy risks, it is important that your agency establish
 
 Digital Identity Guidelines for privacy requirements and considerations to help mitigate potential associated privacy risks. The four volume set of guidelines combines risk management for security and privacy with mission needs by having agencies select assurance levels for individual functions being performed.
 
-#### - Privacy Considerations
-
 | **Volume** | **Guidance Name** | **Location in Document** |
 | [NIST 800-63-3](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63-3.pdf){:target="blank"}  | Digital Identity Guidelines |
 | [NIST 800-63-3A](https://doi.org/10.6028/NIST.SP.800-63a){:target="blank"} | Enrollment and Identity Proofing Requirements | Section 8 |

@@ -6,7 +6,7 @@ collection: pm-playbook
 ---
 ---
 
-A communication’s plan should be created early in the program life cycle in order to communicate with users and stakeholders consistently and effectively. A communication’s plan will outline the objectives, goals, themes and approach of the overall program.
+A communication’s plan should be created early in the program life cycle in order to communicate with users and stakeholders consistently and effectively. A communication’s plan will outline the objectives, goals, themes, and approach of the overall program.
 
 We’ve provided a summary of some common communications that should be included in an ICAM program below.
 

@@ -36,7 +36,7 @@ Additional benefits of establishing workstreams include:
 | <center> Workstream </center> | <center> Description </center> |
 |:-----------------------------:|--------------------------------|
 | **Identity Management** | Responsible for ICAM processes and systems related to the management of digital identity data. This includes management and oversight of efforts to modernize the management of digital identities, such as HR modernization, in accordance with FICAM initiatives. |
-| **Credential Management** | Responsible for ICAM processes and systems related to credential lifecycle management activities. Separate work streams may be identified for various credential types, including agency PIV cards and local facility access cards. |
+| **Credential Management** | Responsible for ICAM processes and systems related to credential lifecycle management activities. Separate work streams may be identified for various credential types, including agency Personal Identity Verification (PIV) cards and local facility access cards. |
 | **Physical Access** | Responsible for ICAM processes and systems related to physical access control, including modernization efforts and security priorities in accordance with FICAM and Interagency Security Committee (ISC) initiatives. |
 | **Logical Access** | Responsible for ICAM processes and systems related to logical access control, including access policies, provisioning, and authentication technologies. |
 
