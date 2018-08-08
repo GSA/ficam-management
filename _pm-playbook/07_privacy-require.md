@@ -8,11 +8,12 @@ collection: pm-playbook
 
 All Federal agencies and programs that collect, retain, or use personal information are required to complete and maintain program documents to support these activities.
 
- <center><i> “Federal information is a strategic asset subject to risks that must be managed to minimize harm; Protecting an individual’s privacy is of utmost importance. The Federal Government shall consider and protect an individual’s privacy throughout the information life cycle; While security and privacy are independent and separate disciplines, they are closely related, and it is essential for agencies to take a coordinated approach to identifying and managing security and privacy risks and complying with applicable requirements.” </i></center>
+<blockquote>
+<h3><p><i> "Federal information is a strategic asset subject to risks that must be managed to minimize harm; Protecting an individual’s privacy is of utmost importance. The Federal Government shall consider and protect an individual’s privacy throughout the information life cycle; While security and privacy are independent and separate disciplines, they are closely related, and it is essential for agencies to take a coordinated approach to identifying and managing security and privacy risks and complying with applicable requirements.” </i></p></h3>
+<center> - OMB Circular A-130 </center>
+</blockquote>
 
-<center><b>- OMB Circular A-130</b></center>
-
-OMB Circular A-130 – Appendices I and II, establish requirements and provide guidance on how agencies can coordinate information security and privacy programs to interact cohesively and lay out responsibilities for protecting federal information resources and managing PII, giving agency heads the ultimate responsibility of meeting the requirements in this circular. Agency ICAM leaders should coordinate with their Senior Agency Official for Privacy (SAOP) and privacy office to review and implement privacy principles, procedures, and guidelines. To learn more about the processes you should complete so your agency can meet key privacy requirements, please view [OMB Circular A-130](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A130/a130revised.pdf){:target="blank"}.
+OMB Circular A-130 – Appendices I and II, provide requirements and guidance on how agencies can coordinate information security and privacy programs to interact cohesively. The policy gives agency heads the ultimate responsibility of meeeting the requirements of this Circular in protecting federal information resources and managing PII. Agency ICAM leaders should coordinate with their Senior Agency Official for Privacy (SAOP) and privacy office to review and implement privacy principles, procedures, and guidelines. To learn more about the processes you should complete so your agency can meet key privacy requirements, view [OMB Circular A-130](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A130/a130revised.pdf){:target="blank"}.
 
 * [Apply the Fair Information Practice Principles (FIPPS)](#apply-the-fair-information-practice-principles-fipps)
 * [Complete a System of Records Notice (SORN)](#complete-a-system-of-records-notice-sorn)
@@ -24,7 +25,7 @@ OMB Circular A-130 – Appendices I and II, establish requirements and provide g
 
 ### Apply the Fair Information Practice Principles (FIPPS)
 
-ICAM programs involve the collecting, storing, sharing, and maintenance of Personally Identifiable Information (PII). As such, your agency must implement solutions that actively support privacy protections and the widely-recognized FIPPs. Under the Privacy Act, which is based on FIPPs, your agency is required to have certain processes and procedures governing the use of PII in place. You should first assess those processes and procedures and determine whether the implementation of an ICAM program constitutes a new use of PII that requires adjustment of existing processes and procedures.
+ICAM programs involve the collecting, storing, sharing, and maintenance of PII. As such, your agency must implement solutions that actively support privacy protections and the widely-recognized FIPPs. Under the Privacy Act, which is based on FIPPs, your agency is required to have certain processes and procedures governing the use of PII in place. You should first assess those processes and procedures and determine whether the implementation of an ICAM program constitutes a new use of PII that requires adjustment of existing processes and procedures.
 
 The table below provides a description of each of the FIPPs and gives practical implementation considerations for applying them within an ICAM program.
 
@@ -63,8 +64,6 @@ To manage and maintain privacy risks, it is important that your agency establish
 
 Digital Identity Guidelines for privacy requirements and considerations to help mitigate potential associated privacy risks. The four volume set of guidelines combines risk management for security and privacy with mission needs by having agencies select assurance levels for individual functions being performed.
 
-#### - Privacy Considerations
-
 | **Volume** | **Guidance Name** | **Location in Document** |
 | [NIST 800-63-3](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63-3.pdf){:target="blank"}  | Digital Identity Guidelines |
 | [NIST 800-63-3A](https://doi.org/10.6028/NIST.SP.800-63a){:target="blank"} | Enrollment and Identity Proofing Requirements | Section 8 |
@@ -83,4 +82,4 @@ Privacy controls developed to help organization leaders determine the best ways 
 
 Specific privacy controls that address processes and procedures for consent, individual access, redress, and complaint management can be found in [NIST SP 800-53 Revision 4 - Appendix J](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf){:target="_blank"}
 
-{% include alert-warning.html heading = "Privacy Tip" content="It is encouraged that ICAM implementers provide redress mechanisms even when not required by the Privacy Act. Allowing users to file complaints and comments regarding an ICAM program and rectify this if their information is inaccurate, lost, or compromised will promote confidence in their interaction with the government." %}
+{% include alert-warning.html heading = "Privacy Tip" content="We encourage ICAM implementers to provide redress mechanisms even when not required by the Privacy Act. Allowing users to file complaints and comments regarding an ICAM program and rectify this if their information is inaccurate, lost, or compromised will promote confidence in their interaction with the government." %}

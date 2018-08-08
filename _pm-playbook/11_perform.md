@@ -14,7 +14,7 @@ Performance reporting for ICAM programs has traditionally focused on external re
 
 ### Performance Measurement
 
-M-18-XX identifies two key performance measurements that will help agencies in establishing effective ICAM governance. The two performance measurements are:
+[OMB Memorandum M-18-XX](https://policy.cio.gov/identity-draft/){:target="blank"} identifies two key performance measurements that will help agencies in establishing effective ICAM governance. The two performance measurements are:
 
 * Outline enterprise-level performance expectations for cybersecurity and privacy risk management through each user’s lifecycle, including changes in the user’s access privileges;
 * Develop a mechanism to streamline and automate enterprise-level performance reporting. This mechanism should align with existing and planned reporting and analytics structures and tools, such as the CDM dashboards and FISMA reporting.
@@ -58,6 +58,5 @@ The [FY 2018 CIO FISMA Metrics](https://www.dhs.gov/sites/default/files/publicat
 
 {% include alert-warning.html heading = "Implementation Tips" content="Incorporate relevant metrics into your Exhibit 300 business case submissions for any ICAM investment as a mean of tracking important information and showing investment results and value to your agency.  " %}
 
-{% include alert-info.html heading = "Additional Guidance" content="The GSA FICAM Program has developed guidance for the April-release FY18 CIO FISMA ICAM-related Metrics to help agencies gather and report ICAM metrics. The guidance can be accessed by clicking on the button below." %}
-
+{% include alert-info.html heading = "Agency Example" content="Click on the download button below to view the FY18 FISMA ICAM Metrics Guidance developed by the GSA FICAM Program." %}
  <a href="/ficam-management/img/Draft_April-release FY18 FISMA ICAM Metrics Guidance_20180504.docx"> <button>Download the FY18 ICAM FISMA Metrics Guidance</button> </a>

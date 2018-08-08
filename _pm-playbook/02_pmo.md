@@ -6,20 +6,25 @@ collection: pm-playbook
 ---
 ---
 
-After you have set up the ICAM governance structure, you will need to establish a way to support the execution and operations of the projects and work streams within the ICAM program. This section examines a Program Management Office (PMO) as one possible alternative for providing ICAM program support; however, an agency should evaluate potential program management alternatives and select the option that best fits its needs.
+After you have set up the ICAM governance structure, you will need to establish support for the execution and operations of the projects and work streams. This section examines a Program Management Office (PMO) as an option.
 
-An ICAM PMO serves a complementary role to the ESC and while establishing both an ESC and a PMO may not be strictly necessary, larger organizations may see the need to separate governance and operational responsibility within their ICAM program. A PMO helps ensure that the individual projects and investments that comprise the ICAM program run smoothly and achieve the expected results within the defined budgetary and schedule constraints.
+An ICAM PMO serves a complementary role to the ESC. Establishing both an ESC and a PMO may not be strictly necessary. However, larger agencies may see the need to separate governance and operational responsibility. A PMO helps ensure that the individual projects and investments that comprise the ICAM program operate efficiently and achieve the expected results within the defined budgetary and schedule constraints.
 
 The PMO will typically be responsible for the following functions: 	
 
-* Planning and coordinating implementation efforts across various ICAM stakeholders and component programs (e.g., credentialing, physical access control, logical access control, personnel security, etc.)
+* Planning and coordinating implementation efforts across ICAM stakeholders and component programs. For example:
+>* Identity management
+>* Credentialing
+>* Access management: physical access control systems (PACS)
+>* Access management: application access
+>* Personnel security
 * Maintaining an enterprise ICAM perspective to ensure alignment of all component programs with organizational objectives
 * Serving as a centralized point of contact for ICAM questions, issues, and concerns
 * Planning for and securing program funding to execute ICAM capabilities
 * Handling communications and outreach to both internal and external stakeholders
 * Managing program risks and issues to resolution across agency office/component/bureau boundaries
 
-{% include alert-info.html heading = "FAQ: What is the difference between an Executive Steering Committee (ESC) and a Program Management Office (PMO)?" content="ESCs traditionally provide top-down leadership support and guidance across the programs within an agency and PMOs provide operational support for the day-to-day execution of a specific implementation." %}
+{% include alert-info.html heading = "FAQ: What is the difference between an Executive Steering Committee and a Program Management Office?" content="Executive Steering Committees traditionally provide top-down leadership support and guidance across the programs within an agency and Project Management Offices provide operational support for the day-to-day execution of a specific implementation." %}
 
 
 ### Establish PMO Governance Structure
@@ -30,7 +35,6 @@ The figure below represents a sample ICAM PMO structure. An agency should design
 
 ![ICAM PMO Structure]({{site.baseurl}}/img/PMO.png)
 
-{% include alert-info.html heading = "Agency Example" content="For an example of what an agency governance structure may look like, please view the HHS ICAM PMO Governance structure below." %}
-
+{% include alert-info.html heading = "Agency Example" content="The figure below provides an example of an ICAM Governance and Program Management Structure implemented by HHS." %}
 
 ![HHS Governance Structure]({{site.baseurl}}/img/HHS-Govern-Structure.png)
