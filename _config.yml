@@ -111,12 +111,6 @@ navigation:
 #  coll: true
 #  collname: userconfig
 
-collections:
-  pm-playbook:
-    label: "Program Management Playbook"
-    permalink: /pm-playbook/:path/
-    output: true
-
   #https://github.com/jekyll/jekyll/issues/2346
 
 include:
