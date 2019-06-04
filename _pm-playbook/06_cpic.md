@@ -132,7 +132,6 @@ ICAM implementations often require the acquisition of security products and serv
 When purchasing products and services for its HSPD-12 implementation, an agency must also follow M-06-18 and leverage the FIPS 201 Evaluation Program APL. In addition to the requirements governing federal acquisitions, an agency has other resources at its disposal to support acquisition for its ICAM program, including GSA Schedules and the [Physical Access Control Systems (PACS) Customer Ordering Guide](https://www.gsa.gov/cdnstatic/Guide_to_PACS_-_REVISED_060717.pdf){:target="blank"}, developed by GSA, to serve as a PACS products and services ordering guide.
 
 ### Benefits
----
 
 * **More competitive rates and potentially lower costs** Regardless of the method used to access Schedules 70 and 84, GSA has already negotiated fair and reasonable prices for these products and services.
 * **Shorter procurement time** GSA Schedules offer streamlined procurement over agency-negotiated contracts, which can be cumbersome and costly. Additionally, tools such as eBuy and GSA Advantage are available to assist in ordering from both Schedules.
