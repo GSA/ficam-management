@@ -1,10 +1,11 @@
 ---
 layout: default
-title: Manage Program Risk
-permalink: /pm-playbook/prog-risk/
-collection: pm-playbook
+title: Risk Management
+permalink: /risk/
 ---
 ---
+
+## Manage Program Risk
 
 Risk management involves the identification of policies, procedures, and practices, as well as the analysis, assessment, control, and avoidance of threats to the continuing efficiency, profitability and success of program operations. proactive risk management is paramount within an agency‘s ICAM program. This requires the involvement of the entire program management team and active maintenance of issues. Follow the recommendations below to learn more about developing and managing your ICAM Risk Management Program.
 
@@ -77,3 +78,21 @@ Create and approve a security assessment plan of the security controls and ensur
 Create a plan of action based on findings from the security assessment report; when completed, submit to the authorizing agency official for review. The authorizing official reviews and determines the risk to the organizational operations, such as mission or assets.
 6. **Monitor Security Controls:** <br>
 Review and determine the security impact of any changes to the information system. Make updates to the security plan, security assessment report, and plan of actions as needed during the continuous monitoring process. Following the monitoring strategy set forth, report the security status on a continual basis.
+
+## Manage Accountability and Control
+
+Management accountability is the expectation that managers are responsible for the quality and timeliness of program performance, increasing productivity, controlling costs and mitigating adverse aspects of agency operations. Managers are also responsible for assuring that programs are managed with integrity and in compliance with applicable law.
+
+### Use ICAM-specific evaluation criteria for use by agency independent evaluators to assess ICAM implementations.
+
+The criteria should use the characteristics of the FICAM architecture as a model for controlling ICAM program costs and increase efficiency. The performance architecture defines clear areas for managing and evaluating alignment of programs with the FICAM architecture. In particular, the performance metrics identify quantitative measures for evaluating ICAM program success.
+
+Common topics for evaluation criteria include:
+
+* Elimination of manual, paper-based processes for the collection of identity data
+* Compliance with acquisition guidance for PIV card products and services as a component of acquisition assessments
+* Adoption of standards-based, commercially available products and technologies in ICAM modernization efforts
+* Streamlining of provisioning and authentication services through enterprise capabilities
+* Coordinated ICAM program management and investment across supporting projects
+
+In addition, [OMB Circular A-123](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/memoranda/2016/m-16-17.pdf){:target="blank"} includes, as a control, separation of duties for various functions. An enterprise Logical Access Control System (LACS) service can support this required control by detecting the conflict and allowing the corrective action. Additionally, an automated enterprise auditing capability across agency applications offers enhanced visibility to more easily control access to systems and sensitive information. This capability could be used to support evaluating compliance with policy and applicable law.

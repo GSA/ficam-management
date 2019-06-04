@@ -53,11 +53,46 @@ exclude:
 - vendor
 
 navigation:
-- text: Program Management Playbook
-  url: pm-playbook
+- text: Welcome
+  url: ''
   internal: true
-  coll: true
-  collname: pm-playbook
+  coll: false
+- text: What is ICAM Program Management?
+  url: overview
+  internal: true
+  coll: false
+- text: Program Governance and Leadership
+  url: governance
+  internal: true
+  coll: false
+- text: Workstreams
+  url: workstreams
+  internal: true
+  coll: false
+- text: Program Stakeholder Management
+  url: stakeholders
+  internal: true
+  coll: false
+- text: ICAM Communication Plan
+  url: comm
+  internal: true
+  coll: false
+- text: Risk Management
+  url: risk
+  internal: true
+  coll: false
+- text: Capital Planning and Acquisitions
+  url: cpic
+  internal: true
+  coll: false
+- text: Performance Management
+  url: performance
+  internal: true
+  coll: false
+- text: ICAM Privacy Requirements
+  url: privacy
+  internal: true
+  coll: false
 - text: Contribute
   url: contribute
   internal: true
@@ -75,12 +110,6 @@ navigation:
 #  internal: true
 #  coll: true
 #  collname: userconfig
-
-collections:
-  pm-playbook:
-    label: "Program Management Playbook"
-    permalink: /pm-playbook/:path/
-    output: true
 
   #https://github.com/jekyll/jekyll/issues/2346
 

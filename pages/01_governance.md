@@ -1,8 +1,7 @@
 ---
 layout: default
 title: Establish Program Governance
-permalink: /pm-playbook/program-govern/
-collection: pm-playbook
+permalink: /governance/
 ---
 ---
 
@@ -12,11 +11,11 @@ Per M-18-XX, "Establishing effective ICAM governance is an important part of the
 * [Establish Bureau/Component Governance](#establish-bureaucomponent-governance)
 * [Authorities to Consider](#authorities-to-consider)
 
-### Create an Executive Steering Committee (ESC)
+## Create an Executive Steering Committee (ESC)
 
 The ESC is chartered by the agency’s executive leadership to govern and align the ICAM program with your agency’s mission. M-18-XX states that, "Agencies shall designate an integrated ICAM office, team, or other governance structure in support of its Enterprise Risk Management capability that includes personnel from the offices of the Chief Information Officer, Chief Security Officer, Human Resources, General Counsel, Senior Agency Official for Privacy, and component organizations that manage ICAM programs and capabilities." The ESC‘s charter should specify the group‘s authority to enforce changes, when necessary, to align ICAM technology, policy and execution with the agency‘s overall mission.
 
-#### ESC Roles and Responsibilities
+### ESC Roles and Responsibilities
 
 The roles and responsibilities of each agency‘s ESC are usually governed by its charter. The list below describes some of the ESC’s responsibilities:
 
@@ -39,15 +38,46 @@ The bureau/component interdisciplinary team provides ICAM-related recommendation
 * Insights and lessons learned on the impact that certain decisions may have on program executors
 * Enhanced communication and cohesion to achieve buy-in across the enterprise
 
-### Authorities to Consider
+## Establish Project Management Office
+
+After you have set up the ICAM governance structure, you will need to establish a way to support the execution and operations of the projects and work streams within the ICAM program. This section examines a Program Management Office (PMO) as one possible alternative for providing ICAM program support; however, an agency should evaluate potential program management alternatives and select the option that best fits its needs.
+
+An ICAM PMO serves a complementary role to the ESC and while establishing both an ESC and a PMO may not be strictly necessary, larger organizations may see the need to separate governance and operational responsibility within their ICAM program. A PMO helps ensure that the individual projects and investments that comprise the ICAM program run smoothly and achieve the expected results within the defined budgetary and schedule constraints.
+
+The PMO will typically be responsible for the following functions: 	
+
+* Planning and coordinating implementation efforts across various ICAM stakeholders and component programs (e.g., credentialing, physical access control, logical access control, personnel security, etc.)
+* Maintaining an enterprise ICAM perspective to ensure alignment of all component programs with organizational objectives
+* Serving as a centralized point of contact for ICAM questions, issues, and concerns
+* Planning for and securing program funding to execute ICAM capabilities
+* Handling communications and outreach to both internal and external stakeholders
+* Managing program risks and issues to resolution across agency office/component/bureau boundaries
+
+{% include alert-info.html heading = "FAQ: What is the difference between an Executive Steering Committee (ESC) and a Program Management Office (PMO)?" content="ESCs traditionally provide top-down leadership support and guidance across the programs within an agency and PMOs provide operational support for the day-to-day execution of a specific implementation." %}
+
+
+### Establish PMO Governance Structure
+
+PMOs generally follow standardized project management policies, processes, and methods. Within ICAM, a PMO provides opportunities to share lessons learned both within an agency and across agencies. It may serve as an advisor to other agency offices or programs impacted by the ICAM program on addressing ICAM as appropriate within other agency-wide capabilities. An ICAM PMO acts as a single, centralized point of contact for the agency‘s ICAM program. The PMO is the primary authority for performing acquisition planning tasks and making procurement decisions.
+
+The figure below represents a sample ICAM PMO structure. An agency should design its ICAM PMO structure in a way that fosters communication, coordinates efforts, and appropriately aligns with the agency‘s overall organizational structure.
+
+![ICAM PMO Structure]({{site.baseurl}}/img/PMO.png)
+
+{% include alert-info.html heading = "Agency Example" content="For an example of what an agency governance structure may look like, please view the HHS ICAM PMO Governance structure below." %}
+
+
+![HHS Governance Structure]({{site.baseurl}}/img/HHS-Govern-Structure.png)
+
+## Authorities to Consider
 
 When establishing ICAM governance and designating roles and responsibilities across an agency enterprise, there are multiple authority’s agencies can leverage to drive more integration. Those authorities include:
 
-#### Executive Order 13800 – Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure:
+### Executive Order 13800 – Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure:
 
 [Executive Order 13800 - Section 1, b, v](https://www.whitehouse.gov/presidential-actions/presidential-executive-order-strengthening-cybersecurity-federal-networks-critical-infrastructure/){:target="blank"}, states, “Affective risk management requires agency heads to lead integrated teams of senior executives with expertise in IT, security, budgeting, acquisition, law, privacy, and human resources.”
 
-#### Federal Information Technology Acquisition Reform Act (FITARA):
+### Federal Information Technology Acquisition Reform Act (FITARA):
 
 “Requires the heads of selected agencies to ensure that their respective chief information officers (CIOs) have a significant role in information technology (IT) decisions, including annual and multi-year planning, programming, budgeting, execution, reporting, management, governance, and oversight functions.” The act was released to reduce duplicative and wasteful IT spending.
 
