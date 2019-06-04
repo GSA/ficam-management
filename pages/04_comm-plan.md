@@ -1,7 +1,7 @@
 ---
 layout: default
 title: ICAM Program Communication Plan
-permalink: /comms/
+permalink: /comm/
 ---
 ---
 
