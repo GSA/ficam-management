@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Measure and Report Performance
-permalink: /pm-playbook/perform/
+title: Performance Management
+permalink: /performance/
 collection: pm-playbook
 ---
 ---
