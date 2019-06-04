@@ -74,7 +74,7 @@ navigation:
   internal: true
   coll: false
 - text: ICAM Communication Plan
-  url: comms
+  url: comm
   internal: true
   coll: false
 - text: Risk Management
