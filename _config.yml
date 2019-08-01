@@ -1,12 +1,12 @@
 # Site settings
-title: Program Management Playbook
-name: Program Management Playbook
+title: Federal Identity, Credential, and Access Management Program Management Playbook
+name: Federal Identity, Credential, and Access Management Program Management Playbook
 email: icam@gsa.gov
 author:
     name: FICAM
-description: Program Management Guidance
+description: Federal Identity, Credential, and Access Management Program Management Guidance
 highlighter: rouge
-repo_url: https://github.com/gsa/program-guides
+repo_url: https://github.com/gsa/ficam-management
 baseurl: '/ficam-management'
 branch: master
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
@@ -22,20 +22,23 @@ ficam_playbooks_url: /ficam-guides/
 # List links that you would like to appear on the top navigation bar here
 navbar:
 - title: IDmanagement.gov
-  description: Idmanagement.gov
+  description: IDmanagement.gov
   url: https://www.idmanagement.gov
-#- title: Federal ICAM Architecture
-#  description: Federal ICAM Architecture
-#  url: https://arch.idmanagement.gov
+- title: Federal ICAM Architecture
+  description: Federal ICAM Architecture
+  url: https://arch.idmanagement.gov
 - title: PIV Guides
   description: PIV Guides
   url: https://piv.idmanagement.gov
 - title: Federal PKI Guides
   description: Federal PKI Guides
   url: https://fpki.idmanagement.gov
+- title: PACS Playbook
+  description: Physical Access Control System Playbook
+  url: https://pacs.idmanagement.gov
 
 # Put the information about your site's GitHub repository if it is public
-repo_url: https://github.com/gsa/program-guides
+repo_url: https://github.com/gsa/ficam-management
 
 # Build settings
 markdown: kramdown
