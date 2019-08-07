@@ -116,6 +116,12 @@ navigation:
 #  collname: userconfig
 
   #https://github.com/jekyll/jekyll/issues/2346
+  
+collections:
+  engineer:
+     label: "Program Governance and Leadership"
+     permalink: /governance/:path/
+     output: true
 
 include:
 - _stylesheets
