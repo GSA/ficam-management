@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Program Governance and Leadership
+collection: governance
 permalink: /governance/
 ---
 ---
