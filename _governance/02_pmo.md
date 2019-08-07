@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Create a Program Management Office
-permalink: /governance/pmo/
+collection: governance
+permalink: governance/pmo/
 ---
 ---
 
