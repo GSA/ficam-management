@@ -65,7 +65,7 @@ navigation:
   internal: true
   coll: false
 - text: Program Governance and Leadership
-  url: governance
+  url: governance/
   internal: true
   coll: true
   collname: governance
