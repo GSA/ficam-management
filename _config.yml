@@ -67,7 +67,8 @@ navigation:
 - text: Program Governance and Leadership
   url: governance
   internal: true
-  coll: false
+  coll: true
+  collname: governance
 - text: Workstreams
   url: workstreams
   internal: true
