@@ -118,9 +118,9 @@ navigation:
   #https://github.com/jekyll/jekyll/issues/2346
   
 collections:
-  engineer:
+  governance:
      label: "Program Governance and Leadership"
-     permalink: /governance/:path/
+     permalink: governance/:path/
      output: true
 
 include:
