@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Create an ICAM Executive Steering Committee
-permalink: /governance/esc/
+collection: governance
+permalink: governance/esc/
 ---
 ---
 
