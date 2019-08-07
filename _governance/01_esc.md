@@ -1,5 +1,6 @@
 ---
 layout: default
+navtitle: Create an ICAM Executive Steering Committee
 title: Create an ICAM Executive Steering Committee
 collection: governance
 permalink: governance/esc/
