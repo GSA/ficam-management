@@ -18,7 +18,7 @@ The pages that follow explain how to establish a formal identity management gove
 - [Create an ICAM Executive Steering Committee (ESC)]({{site.baseurl}}/governance/esc/)
 - [Create a Program Management Office (PMO)]({{site.baseurl}}/governance/pmo/)
 
-You don’t have to start from scratch. Instead, model your agency’s ICAM governance structure after existing programs. See the Governance Examples and Guidance section for agency ESC and PMO examples, as well as other authorities to consider.
+You don’t have to start from scratch. Instead, model your agency’s ICAM governance structure after existing programs. See the [Governance Examples and Guidance]({{site.baseurl}}/governance/examples/) section for agency ESC and PMO examples, as well as other authorities to consider.
 
 ### Executive Steering Committee vs. Program Management Office
 
