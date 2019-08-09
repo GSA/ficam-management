@@ -30,3 +30,46 @@ The table below provides a description of each of the FIPPs and gives practical 
 | **Purpose Specification and Use Limitation** | Use PII solely for the purpose(s) specified in the notice. Sharing PII should be for a purpose compatible with the purpose for which the PII was collected. | The Privacy Act generally requires that once a person consents to the collection of his information for a specific, stated purpose, that information can only be used for that purpose. This is important to remember when sharing information between programs. If the programs have different purposes, you likely shouldn’t share information without additional consent from the user. Consider this limitation when you create your agency’s privacy ICAM program notices. |
 | **Security** | Protect PII through safeguards against risks such as loss, unauthorized access or use, destruction, modification, or unintended or inappropriate disclosure. | Your agency must ensure the security of information at all stages (collection, transmission, storage, destruction) in accordance with various legal and policy requirements, such as FISMA and OMB M-07-16. Examples of techniques for securing data include: <br><br> •	Encryption. <br><br> •	Strong authentication procedures. <br><br> •	Time-out functionality. <br><br> •	Minimum security controls to make information unusable by unauthorized individuals. |
 | **Transparency** | Be transparent about the information your agency collects and shares, and notify the individual regarding collection, use, dissemination, and maintenance of PII. | A foundational principle in federal privacy law is that people have the right to know what information the government collects and retains about them and, to a great extent, the right to control how that information is used. Consider this principle and ensure the following before each occurrence of information collection or transmission: <br><br> •	Inform the user about which information elements you’ll collect. <br><br> •	Inform the user who will receive the information. <br><br> •	Inform the user about how you’ll use the information. <br><br> •	Allow the user to affirmatively choose to participate before you transmit any information. |
+
+### Complete a System of Records Notice (SORN)
+
+A notice published by an agency in the Federal Register to notify the public of a system of record, a group of any records under the control of any agency from which information is retrieved by the name of an individual or by some identifying number, symbol, or other identifier assigned to the individual. The SORN includes basic information about the system, including system name, categories of individuals covered by the system, and categories of records in the system and addresses the policies and practices for storing, retrieving, accessing, retaining, and disposing of records in the system.
+
+### Conduct a Privacy Impact Assessment (PIA)
+
+The process used to evaluate the potential ramifications to the protection of privacy within IT systems. The resulting document includes information related to the data in the system, access to the data, attributes of the data, and maintenance of administrative controls for protecting it. An agency must complete a PIA whenever a new system is being introduced or an existing system is substantially modified.
+
+### Establish Redress Procedures
+
+Procedures to allow an individual to review his record in an IT system upon request and permit the individual to request amendment of a record pertaining to him. In addition to enabling an agency to meet the requirements of the Privacy Act of 1974, redress procedures also help enhance transparency, raise the awareness of the mission, and promote user confidence.
+
+### Establish a Risk Assessment Process
+
+lsdjf
+
+#### NIST 800-63 Rev 3: Digital Identity Guidelines
+
+ask;df
+
+#### Privacy Consideraitons
+
+| <center> Volume </center> | <center> Guidance Name </center> | <center> Location in Document </center> |
+|---------------------------|----------------------------------|-----------------------------------------|
+| [NIST 800-63-3](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63-3.pdf){:target="_blank"} | Digital Identity Guidelines |  |
+| [NIST 800-63-3A](https://doi.org/10.6028/NIST.SP.800-63a){:target="_blank"} | Enrollment and Identity Proofing Requirements | Section 8 |
+| [NIST 800-63-3B](https://doi.org/10.6028/NIST.SP.800-63b){:target="_blank"} | Authentication and Lifecycle Management | Section 9 |
+| [NIST 800-63-3C](https://doi.org/10.6028/NIST.SP.800-63c){:target="_blank"} | Federation and Assertions | Section 9 |
+
+#### NISTIR 8062 - An Introduction to Privacy Engineering and Risk Management in Federal Systems
+
+Publication introduces privacy engineering objectives and a privacy risk model developed to help agencies “conduct more consistent privacy risk assessments based on the likelihood that an operation performed by a system would create a problem for individuals when processing PII” and the impact that the problem would have on those individuals. The publication also aligns itself well to the updated OMB Circular A-130 and its privacy requirements/guidance. Please click here to view the full guidance.
+
+### Apply Specific NIST 800-53 rev4 (Appendix J) Privacy Controls
+
+Privacy controls developed to help organization leaders determine the best ways to incorporate effective privacy protections and practices for programs and/or systems that collect, use, maintain, share, or dispose of PII.
+
+Specific privacy controls that address processes and procedures for consent, individual access, redress, and complaint management can be found in NIST SP 800-53 Revision 4 - Appendix J.
+
+### Privacy Tip
+
+We encourage ICAM implementers to provide redress mechanisms even when not required by the Privacy Act. Allowing users to file complaints and comments regarding an ICAM program and rectify this if their information is innacurate, lost, or compromised will promote confidence in their interaction with the government.
