@@ -9,7 +9,7 @@ All federal agencies and programs that collect, retain, or use personally identi
 
 > “Federal information is a strategic asset subject to risks that must be managed to minimize harm; Protecting an individual’s privacy is of utmost importance. The Federal Government shall consider and protect an individual’s privacy throughout the information life cycle; While security and privacy are independent and separate disciplines, they are closely related, and it is essential for agencies to take a coordinated approach to identifying and managing security and privacy risks and complying with applicable requirements.” - *OMB Circular A-130*
 
-OMB Circular A-130 – Appendices I and II, establish requirements and guide agencies on how to coordinate information security and privacy programs to interact cohesively and lay out responsibilities for protecting federal information resources and managing PII, giving agency heads the ultimate responsibility of meeting the requirements in this circular. Agency ICAM leaders should coordinate with their Senior Agency Official for Privacy (SAOP) and privacy office to review and implement privacy principles, procedures, and guidelines. To learn more about the processes you should complete so your agency can meet key privacy requirements, please view OMB Circular A-130.
+OMB Circular A-130 – Appendices I and II, establish requirements and guide agencies on how to coordinate information security and privacy programs to interact cohesively and lay out responsibilities for protecting federal information resources and managing PII, giving agency heads the ultimate responsibility of meeting the requirements in this circular. Agency ICAM leaders should coordinate with their Senior Agency Official for Privacy (SAOP) and privacy office to review and implement privacy principles, procedures, and guidelines. To learn more about the processes you should complete so your agency can meet key privacy requirements, please view [OMB Circular A-130](https://www.whitehouse.gov/sites/whitehouse.gov/files/omb/circulars/A130/a130revised.pdf){:target="_blank"}.
 
 ## Apply Fair Information Practice Principles
 
@@ -45,11 +45,11 @@ Procedures to allow an individual to review his record in an IT system upon requ
 
 ### Establish a Risk Assessment Process
 
-lsdjf
+To manage and maintain privacy risks, it is important that your agency establish a risk assessment process. Review the guidance below to gain a better idea of what is involved in the risk assessment process.
 
 #### NIST 800-63 Rev 3: Digital Identity Guidelines
 
-ask;df
+Digital Identity Guidelines for privacy requirements and considerations to help mitigate potential associated privacy risks. The four volume set of guidelines combines risk management for security and privacy with mission needs by having agencies select assurance levels for individual functions being performed.
 
 #### Privacy Consideraitons
 
@@ -62,7 +62,7 @@ ask;df
 
 #### NISTIR 8062 - An Introduction to Privacy Engineering and Risk Management in Federal Systems
 
-Publication introduces privacy engineering objectives and a privacy risk model developed to help agencies “conduct more consistent privacy risk assessments based on the likelihood that an operation performed by a system would create a problem for individuals when processing PII” and the impact that the problem would have on those individuals. The publication also aligns itself well to the updated OMB Circular A-130 and its privacy requirements/guidance. Please click here to view the full guidance.
+[NISTIR 8062](https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8062.pdf){:target="_blank"} introduces privacy engineering objectives and a privacy risk model developed to help agencies “conduct more consistent privacy risk assessments based on the likelihood that an operation performed by a system would create a problem for individuals when processing PII” and the impact that the problem would have on those individuals. The publication also aligns itself well to the updated OMB Circular A-130 and its privacy requirements/guidance.
 
 ### Apply Specific NIST 800-53 rev4 (Appendix J) Privacy Controls
 
