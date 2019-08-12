@@ -9,10 +9,10 @@ A stakeholder is an individual or organization that has an interest in the progr
 
 This page describes how to work with stakeholders by doing the following:
 
-- [Identify Program Stakeholders](#identify-program-stakeholders) - determine the individuals or agencies that will be involved or actively interested in your Identity, Credential, and Access Management (ICAM) program.
-- [Manage Program Stakeholders](#manage-program-stakeholders) - establish effective communication and processes among your stakeholders.
+- [Identify Stakeholders](#identify-stakeholders) - determine the individuals or agencies that will be involved or actively interested in your Identity, Credential, and Access Management (ICAM) program.
+- [Manage Stakeholders](#manage-stakeholders) - establish effective communication and processes among your stakeholders.
 
-## Identify Program Stakeholders
+## Identify Stakeholders
 
 Stakeholders can be internal or external to the agency. Internal stakeholders may include the program sponsor, steering committee, or governance board, and external stakeholders may include suppliers, investors, community groups, and other government organizations.
 
