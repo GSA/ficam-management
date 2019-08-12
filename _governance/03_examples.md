@@ -13,7 +13,7 @@ The figure below provides an example of an ICAM governance and program managemen
 
 **image**
 
-<a href="/ficam-management/img/HHS-Governance-Charter.doc"> <button>Agency Example: Click here to download the HHS ICAM PMO Governance Charter</button> </a>
+<a href="/ficam-management/img/HHS-Governance-Charter.doc"> <button>Agency Example: Download the HHS ICAM PMO Governance Charter (MS Word, May 2019)</button> </a>
 
 ## Authorities to Consider
 
