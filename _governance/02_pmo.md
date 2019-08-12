@@ -40,3 +40,4 @@ PMOs generally follow standardized project management policies, processes, and m
 
 The figure below represents a sample ICAM PMO structure. An agency should design this structure in a way that fosters communication, coordinates efforts, and aligns appropriately with the agency's overall organizational structure.
 
+![Sample ICAM PMO Structure]({{site.baseurl}}/img/Sample_ICAM_PMO_Structure.png)
