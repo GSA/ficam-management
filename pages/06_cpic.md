@@ -112,7 +112,7 @@ When you write solicitations and contracts, where applicable, include language r
 
 ### Review the Approved Products List
 
-The Approved Products List (APL) is a list of HSPD-12 related products and services that have been tested through procedures approved by the National Institute of Standards and Technology (NIST). You can use multiple GSA Schedules to purchase a resource that’s included on the APL. When you purchase products and services for HSPD-12 implementation, you must follow OMB Memorandum M-06-18 and use the FIPS 201 Evaluation Program APL. The APL is continuously updated with approved products and technologies. It’s your responsibility to stay current on these changes and incorporate them into your planning during regular technology refresh cycles as part of the capital planning and budget process. Find a complete inventory of government certified and approved services and product listings on IDManagement.gov.
+The [Approved Products List (APL)](https://www.idmanagement.gov/approved-products-list/){:target="_blank"} is a list of HSPD-12 related products and services that have been tested through procedures approved by the National Institute of Standards and Technology (NIST). You can use multiple GSA Schedules to purchase a resource that’s included on the APL. When you purchase products and services for HSPD-12 implementation, you must follow OMB Memorandum M-06-18 and use the FIPS 201 Evaluation Program APL. The APL is continuously updated with approved products and technologies. It’s your responsibility to stay current on these changes and incorporate them into your planning during regular technology refresh cycles as part of the capital planning and budget process. Find a complete inventory of government certified and approved services and product listings on [IDManagement.gov](https://www.idmanagement.gov){:target="_blank"}.
 
 #### Implementation Tip
 
@@ -120,20 +120,20 @@ Before you purchase a product listed on the HSPD-12 APL, determine if the produc
 
 ### Identify Contract Vehicles for ICAM Products and Services
 
-In addition to the requirements governing federal acquisitions, there are other resources to support ICAM program acquisition include GSA Schedules and the PACS Customer Ordering Guide.
+In addition to the requirements governing federal acquisitions, there are other resources to support ICAM program acquisition include GSA Schedules and the [PACS Customer Ordering Guide](https://www.gsa.gov/cdnstatic/Guide_to_PACS_-_REVISED_060717.pdf){:target="_blank"}.
 
 GSA Schedules are purchasing vehicles for a broad range of products and services. The resources available on the GSA Schedules have pre-approved vendors and pre-negotiated rates. You are not required to use GSA Schedules for acquisition, but they provide quick, flexible, and cost-effective procurement solutions and assist in compliance by including approved products. Here are some examples of common GSA Schedules:
 
 > #### IT Schedule 70
 
-> IT Schedule 70 is part of the Multiple Award Schedule (MAS) program and gives agencies direct access to commercial experts who can address the needs of the government IT community through a series of Special Item Numbers (SINs). These SINs cover most of the general-purpose commercial IT hardware, software, and services.
+> [IT Schedule 70](https://www.gsa.gov/technology/technology-purchasing-programs/it-schedule-70){:target="_blank"} is part of the Multiple Award Schedule (MAS) program and gives agencies direct access to commercial experts who can address the needs of the government IT community through a series of Special Item Numbers (SINs). These SINs cover most of the general-purpose commercial IT hardware, software, and services.
  
 > - Refer to SINs 132-60 through 152-62, to find procurement needs for your agency’s ICAM program. These schedules include electronic credentials, PKI services, and HSPD-12 products and services.
 > - If your agency uses an acquisition vehicle other than GSA IT Schedule 70, your agency will take responsibility for ensuring compliance with applicable federal standards and requirements.
 
 > #### IT Schedule 84
 
-> IT Schedule 84 offers PACS-related security solutions for law enforcement, security, facility management, fire, rescue, clothing, marine craft, and emergency and disaster response.
+> [IT Schedule 84](https://www.gsa.gov/buying-selling/purchasing-programs/gsa-schedules/list-of-gsa-schedules/schedule-84security-fire-law-enforcement){:target="_blank"} offers PACS-related security solutions for law enforcement, security, facility management, fire, rescue, clothing, marine craft, and emergency and disaster response.
 
 You can purchase resources from both schedules to meet your ICAM implementation needs. For example, you could purchase new PIV card readers for access control points from Schedule 84 and services from the system integrator from Schedule 70.
 
