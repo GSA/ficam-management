@@ -11,7 +11,7 @@ We recommend leveraging existing resources to establish organizational-level Ide
 
 The figure below provides an example of an ICAM governance and program management structure implemented by the Department of Health and Human Services (HHS).
 
-**image**
+![HHS ICAM Governance Structure]({{site.baseurl}}/img/HHS-ICAM-Governance-And-Program-Management-Structure.png)
 
 For an agency example, <a href="/ficam-management/img/HHS-Governance-Charter.doc">download the HHS ICAM PMO Governance Charter</a> (MS Word, May 2019)
 
