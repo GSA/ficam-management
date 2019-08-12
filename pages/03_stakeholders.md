@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Program Stakeholder Management
+title: Stakeholder Management
 permalink: /stakeholders/
 ---
 ---
