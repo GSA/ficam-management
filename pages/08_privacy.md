@@ -45,13 +45,13 @@ Procedures to allow an individual to review his record in an IT system upon requ
 
 ### Establish a Risk Assessment Process
 
-To manage and maintain privacy risks, it is important that your agency establish a risk assessment process. Review the guidance below to gain a better idea of what is involved in the risk assessment process.
+Establish a risk assessment process to manage and maintain privacy risks. The following guidance provides information about the risk assessment process.
 
 #### NIST 800-63 Rev 3: Digital Identity Guidelines
 
-Digital Identity Guidelines for privacy requirements and considerations to help mitigate potential associated privacy risks. The four volume set of guidelines combines risk management for security and privacy with mission needs by having agencies select assurance levels for individual functions being performed.
+NIST 800-63 Rev 3 is a four-volume set of guidelines that offers privacy requirements and considerations to mitigate privacy risks. These guidelines help you select assurance levels for individual agency functions, which combines your mission needs with risk management for security and privacy.
 
-#### Privacy Consideraitons
+#### Privacy Considerations
 
 | <center> Volume </center> | <center> Guidance Name </center> | <center> Location in Document </center> |
 |---------------------------|----------------------------------|-----------------------------------------|
@@ -62,14 +62,16 @@ Digital Identity Guidelines for privacy requirements and considerations to help 
 
 #### NISTIR 8062 - An Introduction to Privacy Engineering and Risk Management in Federal Systems
 
-[NISTIR 8062](https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8062.pdf){:target="_blank"} introduces privacy engineering objectives and a privacy risk model developed to help agencies “conduct more consistent privacy risk assessments based on the likelihood that an operation performed by a system would create a problem for individuals when processing PII” and the impact that the problem would have on those individuals. The publication also aligns itself well to the updated OMB Circular A-130 and its privacy requirements/guidance.
+[NIST Interagency/Internal Report (NISTIR) 8062](https://nvlpubs.nist.gov/nistpubs/ir/2017/NIST.IR.8062.pdf){:target="_blank"} offers privacy engineering objectives and a privacy risk model. These guidelines help agencies align privacy risk assessments with the likelihood and severity of impact on individuals should a problem arise when processing those individuals’ PII.
+
+This publication aligns with OMB Circular A-130’s privacy requirements and guidance.
 
 ### Apply Specific NIST 800-53 rev4 (Appendix J) Privacy Controls
 
-Privacy controls developed to help organization leaders determine the best ways to incorporate effective privacy protections and practices for programs and/or systems that collect, use, maintain, share, or dispose of PII.
+[NIST 800-53, Revision 4 (Appendix J)](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf){:target="_blank"} is a catalog of effective privacy controls and practices that your agency can implement to protect programs and systems that manage and maintain PII.
 
-Specific privacy controls that address processes and procedures for consent, individual access, redress, and complaint management can be found in NIST SP 800-53 Revision 4 - Appendix J.
+These privacy controls address processes and procedures related to consent, individual access, redress, and complaint management.
 
 ### Privacy Tip
 
-We encourage ICAM implementers to provide redress mechanisms even when not required by the Privacy Act. Allowing users to file complaints and comments regarding an ICAM program and rectify this if their information is innacurate, lost, or compromised will promote confidence in their interaction with the government.
+We encourage you to provide redress mechanisms even when they’re not required by the Privacy Act. Promote confidence in your users’ interactions with the government by allowing them to provide feedback and rectify issues with their PII.
