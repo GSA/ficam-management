@@ -73,7 +73,7 @@ The following checklist defines FIPPs for any program that collects PII.
 
 >| <center> Volume </center> | <center> Guidance Name </center> | <center> Location in Document </center> |
 >|---------------------------|----------------------------------|-----------------------------------------|
->| [NIST 800-63-3](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63-3.pdf){:target="_blank"} | Digital Identity Guidelines |  |
+>| [NIST 800-63-3](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-63-3.pdf){:target="_blank"} | Digital Identity Guidelines | N/A |
 >| [NIST 800-63-3A](https://doi.org/10.6028/NIST.SP.800-63a){:target="_blank"} | Enrollment and Identity Proofing Requirements | Section 8 |
 >| [NIST 800-63-3B](https://doi.org/10.6028/NIST.SP.800-63b){:target="_blank"} | Authentication and Lifecycle Management | Section 9 |
 >| [NIST 800-63-3C](https://doi.org/10.6028/NIST.SP.800-63c){:target="_blank"} | Federation and Assertions | Section 9 |
