@@ -31,17 +31,37 @@ The table below provides a description of each of the FIPPs and gives practical 
 | **Security** | Protect PII through safeguards against risks such as loss, unauthorized access or use, destruction, modification, or unintended or inappropriate disclosure. | Your agency must ensure the security of information at all stages (collection, transmission, storage, destruction) in accordance with various legal and policy requirements, such as FISMA and OMB M-07-16. Examples of techniques for securing data include: <br><br> •	Encryption. <br><br> •	Strong authentication procedures. <br><br> •	Time-out functionality. <br><br> •	Minimum security controls to make information unusable by unauthorized individuals. |
 | **Transparency** | Be transparent about the information your agency collects and shares, and notify the individual regarding collection, use, dissemination, and maintenance of PII. | A foundational principle in federal privacy law is that people have the right to know what information the government collects and retains about them and, to a great extent, the right to control how that information is used. Consider this principle and ensure the following before each occurrence of information collection or transmission: <br><br> •	Inform the user about which information elements you’ll collect. <br><br> •	Inform the user who will receive the information. <br><br> •	Inform the user about how you’ll use the information. <br><br> •	Allow the user to affirmatively choose to participate before you transmit any information. |
 
-### Complete a System of Records Notice (SORN)
+### Deployment Procedures
 
-A notice published by an agency in the Federal Register to notify the public of a system of record, a group of any records under the control of any agency from which information is retrieved by the name of an individual or by some identifying number, symbol, or other identifier assigned to the individual. The SORN includes basic information about the system, including system name, categories of individuals covered by the system, and categories of records in the system and addresses the policies and practices for storing, retrieving, accessing, retaining, and disposing of records in the system.
+<i class="fa fa-check-square-o"></i> &nbsp;**Complete a System of Records Notice (SORN)**
+- Agency publishes a notice in the Federal Register about a system of record.
+- What is a system of record?
+    - An agency-controlled group of records that includes PII.
+    - You can use an identifying data point, like a name or identifying number, to retrieve information about an individual.
 
-### Conduct a Privacy Impact Assessment (PIA)
+- What does the SORN include?
+    - Basic information about the system, like system name, categories of individuals the system covers, and categories of records in the system.
+    - Policies and practices to manage and maintain records in the system.
+    
+<i class="fa fa-check-square-o"></i> &nbsp;**Conduct a Privacy Impact Assessment (PIA)**
+- An internal agency review process that evaluates potential privacy risks in IT systems.
+- Perform this task every time you introduce a new system or substantially modify an existing system.
+- Generate a document with information about:
+    - Data in the system.
+    - Access to the data.
+    - Attributes of the data.
+    - Maintenance of administrative controls to protect the data.
 
-The process used to evaluate the potential ramifications to the protection of privacy within IT systems. The resulting document includes information related to the data in the system, access to the data, attributes of the data, and maintenance of administrative controls for protecting it. An agency must complete a PIA whenever a new system is being introduced or an existing system is substantially modified.
+<i class="fa fa-check-square-o"></i> &nbsp;**Establish Redress Procedures**
+- Create procedures that allow an individual to:
+    - Review his record in an IT system upon request.
+    - Request changes to record pertaining to him.
 
-### Establish Redress Procedures
-
-Procedures to allow an individual to review his record in an IT system upon request and permit the individual to request amendment of a record pertaining to him. In addition to enabling an agency to meet the requirements of the Privacy Act of 1974, redress procedures also help enhance transparency, raise the awareness of the mission, and promote user confidence.
+- What are the benefits of redress procedures?
+    - Meet requirements of Privacy Act of 1974.
+    - Enhance transparency.
+    - Raise awareness of the mission.
+    - Promote user confidence.
 
 ### Establish a Risk Assessment Process
 
