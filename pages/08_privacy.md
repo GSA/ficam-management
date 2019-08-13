@@ -33,6 +33,8 @@ The table below provides a description of each of the FIPPs and gives practical 
 
 ### Deployment Procedures
 
+The following checklist defines FIPPs for any program that collects PII.
+
 <i class="fa fa-check-square-o"></i> &nbsp;**Complete a System of Records Notice (SORN)**
 - Agency publishes a notice in the Federal Register about a system of record.
 - What is a system of record?
