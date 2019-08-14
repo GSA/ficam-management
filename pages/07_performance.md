@@ -4,7 +4,6 @@ title: Performance Management
 permalink: /performance/
 collection: pm-playbook
 ---
----
 
 Program leadership and stakeholders need tools to monitor progress, determine program effectiveness, and identify areas of improvement. To accomplish this, you should assign performance measurements to your agency’s Identity, Credential, and Access Management (ICAM) program.
 
