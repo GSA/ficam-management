@@ -81,6 +81,7 @@ navigation:
   url: comm
   internal: true
   coll: false
+  collname: cpic
 - text: Risk Management
   url: risk
   internal: true
