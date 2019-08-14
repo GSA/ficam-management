@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Capital Planning and Acquisitions
+collection: cpic
 permalink: /cpic/
 ---
 
