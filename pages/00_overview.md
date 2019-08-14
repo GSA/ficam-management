@@ -3,7 +3,6 @@ layout: default
 title: What is ICAM Program Management?
 permalink: /overview/
 ---
----
 
 > “The interwoven technical architecture of the Federal Government creates complexity in managing access to resources, safeguarding networks, and protecting information...each agency must harmonize its enterprise-wide approach to governance, architecture, and acquisition.” - *OMB Memorandum M-19-17*
 
