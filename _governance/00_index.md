@@ -20,6 +20,4 @@ The pages that follow explain how to establish a formal identity management gove
 
 You don’t have to start from scratch. Instead, model your agency’s ICAM governance structure after existing programs. See the [Governance Examples and Guidance]({{site.baseurl}}/governance/examples/) section for agency ESC and PMO examples, as well as other authorities to consider.
 
-### Executive Steering Committee vs. Program Management Office
-
-Executive Steering Committees traditionally provide top-down leadership support and guidance across the programs within an agency, while Program Management Offices provide operational support for the day-to-day execution of the tasks within the program.
+{% include alert-info.html heading="Executive Steering Committee vs. Program Management Office" content="Executive Steering Committees traditionally provide top-down leadership support and guidance across the programs within an agency, while Program Management Offices provide operational support for the day-to-day execution of the tasks within the program." %}
