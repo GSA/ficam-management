@@ -81,7 +81,6 @@ navigation:
   url: comm
   internal: true
   coll: false
-  collname: cpic
 - text: Risk Management
   url: risk
   internal: true
@@ -90,6 +89,7 @@ navigation:
   url: cpic/
   internal: true
   coll: true
+  collname: cpic
 - text: Performance Management
   url: performance
   internal: true
