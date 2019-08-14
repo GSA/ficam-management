@@ -4,7 +4,6 @@ title: Capital Planning and Acquisitions
 permalink: /cpic/
 collection: pm-playbook
 ---
----
 
 You should use the Capital Planning and Investment Control (CPIC) approach to align investments with your agency’s mission, support business needs, reduce risk, and increase returns. The CPIC process includes:
 
