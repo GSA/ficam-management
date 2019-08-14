@@ -3,7 +3,7 @@ layout: default
 navtitle: Acquire ICAM Products and Services
 title: Acquire ICAM Products and Services
 collection: cpic
-permalink: cpic/acquire/
+permalink: /cpic/acquire/
 ---
 
 When planning to acquire ICAM products and services, your agency must comply with specified regulations and policies, mainly the Federal Acquisition Regulation (FAR). The FAR sets the rules governing the federal acquisition process and includes several clauses particularly relevant to your agency’s ICAM program. OMB Memorandum M-06-18 guides federal agencies through acquiring products and services for HSPD-12 implementations. It introduced several amendments to the FAR, which were codified in 48 CFR Subpart 4.13, that require agencies to comply with HSPD-12 and FIPS 201 for contractors who require routine logical or physical access and include language to this effect in applicable solicitations and contracts.
