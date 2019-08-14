@@ -3,7 +3,6 @@ layout: default
 title: Stakeholder Management
 permalink: /stakeholders/
 ---
----
 
 A stakeholder is an individual or organization that has an interest in the program, either because the stakeholder is actively involved in the program, or might be affected by the program’s outcome.
 
