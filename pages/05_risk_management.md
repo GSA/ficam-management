@@ -3,7 +3,6 @@ layout: default
 title: Risk Management
 permalink: /risk/
 ---
----
 
 You’ll need to actively identify and mitigate threats to program operations, and involve the entire program management team in this process. Follow the recommendations below to learn how to develop an ICAM risk management program.
 
