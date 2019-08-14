@@ -9,6 +9,11 @@ A stakeholder is an individual or organization that has an interest in the progr
 This page describes how to work with stakeholders by doing the following:
 
 - [Identify Stakeholders](#identify-stakeholders) - determine the individuals or agencies that will be involved or actively interested in your Identity, Credential, and Access Management (ICAM) program.
+    - [Federal Governance Bodies](#federal-governance-bodies)
+    - [Internal Standards Body](#internal-standards-body)
+    - [ICAM Service Providers](#icam-service-providers)
+    - [External Service Customers](#external-service-customers)
+    - [Agency-Level Stakeholders](#agency-level-stakeholders)
 - [Manage Stakeholders](#manage-stakeholders) - establish effective communication and processes among your stakeholders.
 
 ## Identify Stakeholders
