@@ -73,7 +73,7 @@ navigation:
   url: workstreams
   internal: true
   coll: false
-- text: Program Stakeholder Management
+- text: Stakeholder Management
   url: stakeholders
   internal: true
   coll: false
