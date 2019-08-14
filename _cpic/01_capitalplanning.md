@@ -8,11 +8,11 @@ permalink: cpic/capitalplanning/
 
 The primary product of the CPIC process is the Exhibit 300, a document explaining the capital asset plan and business case. Your agency will write and review Exhibit 300s annually for both new and existing capital investments. The following sections describe the areas your agency will need to consider to construct an Exhibit 300.
 
-### Update Agency Approach to ICAM Investment
+## Update Agency Approach to ICAM Investment
 
 Traditionally, some agencies submit separate Exhibit 300 investment requests for various Identity, Credential, and Access Management (ICAM) activities, such as HSPD-12 or E-authentication. In future budget submissions, you should consider coordinating your capital planning efforts across ICAM projects and Exhibit 300 business cases. This coordination aligns projects to reduce redundant ICAM investments across agency components or bureaus.
 
-### Include ICAM Requirements in CPIC Processes
+## Include ICAM Requirements in CPIC Processes
 
 First, identify key criteria that aligns investments with Federal ICAM (FICAM) policy. Communicate any changes to the relevant stakeholders and CPIC process participants.
 
