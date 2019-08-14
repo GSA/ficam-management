@@ -3,7 +3,6 @@ layout: default
 title: Establish Workstreams
 permalink: /workstreams/
 ---
----
 
 A workstream is any one part of the whole of an agency’s business output. In the context of this playbook, workstreams are the individual projects within an Identity, Credential, and Access Management (ICAM) program.
 
