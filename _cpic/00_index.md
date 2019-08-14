@@ -5,7 +5,7 @@ collection: cpic
 permalink: /cpic/
 ---
 
-You should use the Capital Planning and Investment Control (CPIC) approach to align investments with your agency’s mission, support business needs, reduce risk, and increase returns. The CPIC process includes:
+Use the Capital Planning and Investment Control (CPIC) approach to align investments with your agency’s mission, support business needs, reduce risk, and increase returns. The CPIC process includes:
 
 - Strategic planning.
 - Enterprise architecture (EA).
