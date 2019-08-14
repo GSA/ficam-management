@@ -3,7 +3,6 @@ layout: default
 title: ICAM Program Communication Plan
 permalink: /comm/
 ---
----
 
 A communication plan outlines a program’s objectives, goals, themes, and approach. You should create a communication plan early in the program life cycle to communicate consistently and effectively with users and stakeholders.
 
