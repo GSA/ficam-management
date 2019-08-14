@@ -14,6 +14,8 @@ OMB Circular A-130 – Appendices I and II, establish requirements and guide age
 
 ICAM programs collect, store, share, and maintain PII. As such, your agency must actively support privacy protections and the widely-recognized Fair Information Practice Principles (FIPPS). Under the Privacy Act, based on FIPPs, your agency must have processes and procedures governing the use of PII. When you implement your ICAM program, determine whether you must adjust processes and procedures due to a new use of PII.
 
+{% include alert-info.html heading="Privacy Tip" content="We encourage you to provide redress mechanisms even when they’re not required by the Privacy Act. Promote confidence in your users’ interactions with the government by allowing them to provide feedback and rectify issues with their PII." %}
+
 The table below provides a description of each of the FIPPs and gives practical implementation considerations for applying them within an ICAM program.
 
 ### FIPPS Implementation Considerations
@@ -85,7 +87,3 @@ The following checklist defines FIPPs for any program that collects PII.
 <i class="fa fa-check-square-o"></i> &nbsp;**Apply Privacy Controls**
 - [NIST 800-53, Revision 4 (Appendix J)](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-53r4.pdf){:target="_blank"} is a catalog of effective privacy controls and practices to protect programs and systems that maintain PII.
 - Address processes and procedures related to consent, individual access, redress, and complaint management.
-
-### Privacy Tip
-
-We encourage you to provide redress mechanisms even when they’re not required by the Privacy Act. Promote confidence in your users’ interactions with the government by allowing them to provide feedback and rectify issues with their PII.
