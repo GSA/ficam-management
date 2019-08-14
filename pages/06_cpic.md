@@ -89,9 +89,7 @@ Logical access control system (LACS) projects give your agency the potential for
 | **Organizational IT Infrastructure** | Some platforms and operating environments, particularly ones that leverage legacy products, may require additional support or custom configuration to achieve the maximum benefit from LACS solutions. This includes potential costs associated with networking LACS components and high-availability components. Environments that use non-standard operating systems may require additional investment to integrate to a modernized LACS infrastructure. |
 | **Vendor Product Compatibility and Interoperability with Existing Infrastructure** | If your agency is considering a commercial off-the-shelf (COTS) identity and access management (IAM) product suite, you should assess the integration approach of these products for interoperability, and find the best fit for your agency. You should also investigate the availability of enterprise software licenses, as these can significantly lower acquisition costs and influence your agency’s make or buy decision. |
 
-#### Lesson Learned
-
-To drive adoption of its enterprise LACS and participation in pilot implementations, USDA offered to fund the initial LACS integration costs for a subset of agency applications that were candidates for early adoption. Doing so increased participation, since the department could demonstrate technical interoperability using real world examples.
+{% include alert-success.html heading = "Lesson Learned" content="To drive adoption of its enterprise LACS and participation in pilot implementations, USDA offered to fund the initial LACS integration costs for a subset of agency applications that were candidates for early adoption. Doing so increased participation, since the department could demonstrate technical interoperability using real world examples." %}
 
 ### Determine Funding for ICAM Solution
 
@@ -113,9 +111,7 @@ When you write solicitations and contracts, where applicable, include language r
 
 The [Approved Products List (APL)](https://www.idmanagement.gov/approved-products-list/){:target="_blank"} is a list of HSPD-12 related products and services that have been tested through procedures approved by the National Institute of Standards and Technology (NIST). You can use multiple GSA Schedules to purchase a resource that’s included on the APL. When you purchase products and services for HSPD-12 implementation, you must follow OMB Memorandum M-06-18 and use the FIPS 201 Evaluation Program APL. The APL is continuously updated with approved products and technologies. It’s your responsibility to stay current on these changes and incorporate them into your planning during regular technology refresh cycles as part of the capital planning and budget process. Find a complete inventory of government certified and approved services and product listings on [IDManagement.gov](https://www.idmanagement.gov){:target="_blank"}.
 
-#### Implementation Tip
-
-Before you purchase a product listed on the HSPD-12 APL, determine if the product is appropriate for the risk level and design of your agency's ICAM solution. A given product on the APL may not be interoperable or appropriate for your agency's implementation. You must properly integrate and configure purchased products to be interoperable with other ICAM programs and services.
+{% include alert-info.html heading="Implementation Tip" content="Before you purchase a product listed on the HSPD-12 APL, determine if the product is appropriate for the risk level and design of your agency's ICAM solution. A given product on the APL may not be interoperable or appropriate for your agency's implementation. You must properly integrate and configure purchased products to be interoperable with other ICAM programs and services." %}
 
 ### Identify Contract Vehicles for ICAM Products and Services
 
