@@ -3,7 +3,6 @@ layout: default
 title: Establish ICAM Privacy Requirements
 permalink: /privacy/
 ---
----
 
 All federal agencies and programs that collect, retain, or use personally identifiable information (PII) are required to complete and maintain program documents to support these activities.
 
