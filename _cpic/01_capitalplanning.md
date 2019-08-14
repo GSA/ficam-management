@@ -3,7 +3,7 @@ layout: default
 navtitle: Conduct Capital Planning for ICAM
 title: Conduct Capital Planning for ICAM
 collection: cpic
-permalink: /cpic/capitalplanning/
+permalink: cpic/capitalplanning/
 ---
 
 The primary product of the CPIC process is the Exhibit 300, a document explaining the capital asset plan and business case. Your agency will write and review Exhibit 300s annually for both new and existing capital investments. The following sections describe the areas your agency will need to consider to construct an Exhibit 300.
