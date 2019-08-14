@@ -12,11 +12,11 @@ An agency ICAM program requires leadership to manage and oversee the program's c
 
 The following list includes the necessary components of a federal ICAM program. This playbook offers guidance for each component:
 
-- **Program Governance and Leadership** - Establish operational policies and requirements.
-- **Workstreams** - Categorize tasks and assign them to the proper resources.
-- **Program Stakeholder Management** - Identify and communicate with stakeholders.
-- **ICAM Program Communication Plan** - Define and appropriately communicate program objectives and goals.
-- **Risk Management** - Define, analyze, and mitigate threats.
-- **Capital Planning and Acquisitions** - Plan, budget for, and acquire required products.
-- **Performance Management** - Measure and report progress, effectiveness, and improvements.
-- **ICAM Privacy Requirements** - Manage risks associated with handling personally identifiable information (PII).
+- [**Program Governance and Leadership**](governance/) - Establish operational policies and requirements.
+- [**Workstreams**](workstreams/) - Categorize tasks and assign them to the proper resources.
+- [**Program Stakeholder Management**](stakeholders/) - Identify and communicate with stakeholders.
+- [**ICAM Program Communication Plan**](comm/) - Define and appropriately communicate program objectives and goals.
+- [**Risk Management**](risk/) - Define, analyze, and mitigate threats.
+- [**Capital Planning and Acquisitions**](cpic) - Plan, budget for, and acquire required products.
+- [**Performance Management**](performance/) - Measure and report progress, effectiveness, and improvements.
+- [**ICAM Privacy Requirements**](privacy/) - Manage risks associated with handling personally identifiable information (PII).
