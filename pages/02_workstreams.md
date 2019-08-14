@@ -6,7 +6,7 @@ permalink: /workstreams/
 
 A workstream is any one part of the whole of an agency’s business output. In the context of this playbook, workstreams are the individual projects within an Identity, Credential, and Access Management (ICAM) program.
 
-Many of an ICAM program’s projects will overlap with various departments’ existing responsibilities. To promote the successful execution of your agency ICAM program’s initiatives, divide and assign each workstream to employees already actively involved in a related area outside of the ICAM program. Each workstream requires a task lead, who manages the day-to-day activities of the workstream, and provides the ICAM Program Management Office (PMO) with critical information about planning, development, deployment, and operations.
+Many of an ICAM program’s projects will overlap with various departments’ existing responsibilities. To promote the successful execution of your agency ICAM program’s initiatives, divide and assign each workstream to employees already actively involved in a related area outside of the ICAM program. Each workstream requires a task lead who manages the day-to-day activities of the workstream and provides the ICAM Program Management Office (PMO) with critical information about planning, development, deployment, and operations.
 
 Thoughtful workstreams lead to the following outcomes:
 
