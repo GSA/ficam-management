@@ -123,7 +123,7 @@ collections:
      permalink: governance/:path/
      output: true
   cpic:
-     label: Capital Planning and Acquisitions
+     label: "Capital Planning and Acquisitions"
      permalink: cpic/:path/
      output: true
 
