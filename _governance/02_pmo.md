@@ -5,7 +5,6 @@ title: Create a Program Management Office
 collection: governance
 permalink: governance/pmo/
 ---
----
 
 After you establish an Executive Steering Committee (ESC), you'll need to support the execution and operation of projects and workstreams with a Program Management Office (PMO).
 
