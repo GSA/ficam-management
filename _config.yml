@@ -56,7 +56,7 @@ exclude:
 - vendor
 
 navigation:
-- text: Welcome
+- text: Introduction
   url: ''
   internal: true
   coll: false
