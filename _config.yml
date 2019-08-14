@@ -88,7 +88,7 @@ navigation:
 - text: Capital Planning and Acquisitions
   url: cpic
   internal: true
-  coll: false
+  coll: true
 - text: Performance Management
   url: performance
   internal: true
@@ -121,6 +121,10 @@ collections:
   governance:
      label: "Program Governance and Leadership"
      permalink: governance/:path/
+     output: true
+  cpic:
+     label: Capital Planning and Acquisitions
+     permalink: cpic/:path/
      output: true
 
 include:
