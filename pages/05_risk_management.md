@@ -6,6 +6,13 @@ permalink: /risk/
 
 You’ll need to actively identify and mitigate threats to program operations, and involve the entire program management team in this process. Follow the recommendations below to learn how to develop an ICAM risk management program.
 
+- [Develop a Risk Management Program](#develop-a-risk-management-program)
+- [Develop a Risk Management Plan](#develop-a-risk-management-plan)
+- [Develop a Risk Registry](#develop-a-risk-registry)
+- [Perform a Security and Risk Management Assessment](#perform-a-security-and-risk-management-assessment)
+- [Apply the Risk Management Framework](#apply-the-risk-management-framework)
+- [Manage Accountability and Control](#manage-accountability-and-control)
+
 ## Develop a Risk Management Program
 
 First, identify your agency’s policies and practices surrounding risk management. You should also be proactive in threat assessment and avoidance to ensure the continued efficiency, profitability and success of your agency’s ICAM program.
