@@ -5,7 +5,6 @@ title: Create an ICAM Executive Steering Committee
 collection: governance
 permalink: governance/esc/
 ---
----
 
 The Identity, Credential, and Access Management (ICAM) Executive Steering Committee (ESC) governs your ICAM projects and workstreams, and aligns ICAM services and management with your agency’s mission. The agency’s executive leadership will charter the ESC.
 
