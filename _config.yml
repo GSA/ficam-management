@@ -86,7 +86,7 @@ navigation:
   internal: true
   coll: false
 - text: Capital Planning and Acquisitions
-  url: cpic
+  url: cpic/
   internal: true
   coll: true
 - text: Performance Management
