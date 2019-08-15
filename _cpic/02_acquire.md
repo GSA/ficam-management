@@ -15,7 +15,7 @@ The addition to the FAR also requires that agencies purchase only approved produ
 After you choose a solution, you can estimate costs. The following tables include common characteristics that you should examine not only to determine expenses but also to compare the potential cost savings of various solutions.
 
 ### PACS Evaluation Factors
->
+
 | <center> Evaluation Factor </center> | <center> Description </center> |
 |:-------------------------------------|--------------------------------|
 | **Facility Size** | The number of users requiring access to a facility impacts the level of administrative effort needed to provision user accounts and manage access privileges. |
@@ -31,7 +31,6 @@ After you choose a solution, you can estimate costs. The following tables includ
 
 Logical access control system (LACS) projects give your agency the potential for significant ROI in the form of cost avoidance, reallocation of resources, productivity gains, and reduced administrative burden. To realize these benefits, when you plan a new or modify an existing LACS investment, you should assess your agency’s organizational structure, identity stores, access control processes, and IT resources.
 
->
 | <center> Evaluation Factor </center> | <center> Description </center> |
 |:-------------------------------------|--------------------------------|
 | **Organizational Size** | The number and type of users requiring access to agency IT resources, as well as the turnover rate of users, significantly impacts the level of administrative effort required to provision user accounts and manage access privileges. |
