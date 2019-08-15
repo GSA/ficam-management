@@ -6,7 +6,7 @@ collection: cpic
 permalink: cpic/capitalplanning/
 ---
 
-The primary product of the CPIC process is the Exhibit 300, a document explaining the capital asset plan and business case. Your agency will write and review Exhibit 300s annually for both new and existing capital investments. The following sections describe the areas your agency will need to consider to construct an Exhibit 300.
+The primary product of the Capital Planning and Investment Control (CPIC) process is the Exhibit 300, a document explaining the capital asset plan and business case. Your agency will write and review Exhibit 300s annually for both new and existing capital investments. The following sections describe the areas your agency will need to consider to construct an Exhibit 300.
 
 ## Update Agency Approach to ICAM Investment
 
