@@ -12,7 +12,7 @@ This playbook answers the most common ICAM program organization and management q
 - Who are my key ICAM stakeholders?
 - What best practices support ICAM implementation?
 
-The playbook is organized by sections, each of which describes an essential features of ICAM program management, including recommendations and lessons learned from agencies who have implemented ICAM programs.
+The playbook is organized by sections, each of which describes an essential feature of ICAM program management, including recommendations and lessons learned from agencies who have implemented ICAM programs.
 
 The content for this playbook is based on the <a href="https://www.idmanagement.gov/wp-content/uploads/sites/1171/uploads/FICAM_Roadmap_and_Implem_Guid.pdf" target="_blank">Federal Identity, Credential, and Access Management (FICAM) Roadmap and Implementation Guidance v2.0</a>.
 
