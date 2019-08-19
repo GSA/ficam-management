@@ -10,7 +10,7 @@ An agency ICAM program requires leadership to manage and oversee the program's c
 
 ## Primary Components
 
-The following list includes the necessary components of a federal ICAM program. This playbook offers guidance for each component:
+The following list includes the necessary components of a federal ICAM program. This guide offers advice for each component:
 
 - [**Program Governance and Leadership**]({{site.baseurl}}/governance/) - Establish operational policies and requirements.
 - [**Workstreams**]({{site.baseurl}}/workstreams/) - Categorize tasks and assign them to the proper resources.
