@@ -9,7 +9,7 @@ In any Identity, Credential, and Access Management (ICAM) program, you’ll need
 
 ## About Governance
 
-Governance is the set of practices that your agency must take to ensure ICAM operations are successful. Governance helps your agency make decisions, manage enterprise policies, and improve efficiency.
+Governance is the set of practices that help your agency ensure ICAM operations are successful. Governance helps your agency make decisions, manage enterprise policies, and improve efficiency.
 
 An enterprise governance body develops and implements policies, rules, and procedures to manage the program. They collect data to monitor, analyze, and report on how well your ICAM program conforms with these policies, rules, and procedures. They also serve an important security role, to quickly remediate any problems or vulnerabilities within the program before a security or privacy breach occurs. You’ll need to establish a recovery plan to ensure continuity of service to prepare for such an occurrence.
 
