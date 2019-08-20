@@ -84,7 +84,7 @@ To find approved ICAM products and services and an updated list of organizations
 
 Stakeholder management involves coordination, collaboration, and communication within the agency. Each stakeholder group has a distinct mission requirement and performs duties in support of the overall agency mission. These stakeholders have different viewpoints that may conflict with one another or the overarching ICAM program objectives, and decisions made in one program area may impact another.
 
-### Collaborate Through Formal Tiger Geams and Working Groups
+### Collaborate Through Formal Tiger Teams and Working Groups
 
 To encourage collaboration, develop working groups comprised of stakeholders across the program. Stakeholders in these working groups incorporate their needs into the ICAM program, and share implementation lessons learned in other ICAM implementations to reduce overall program risk and increase efficiency in implementation.
 
