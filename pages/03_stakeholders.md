@@ -90,4 +90,4 @@ To encourage collaboration, develop working groups comprised of stakeholders acr
 
 ### Stand Up Focus Groups or Teams
 
-You can also stand up smaller focus groups or tiger teams devoted to specific program issues or direct implementation support. This promotes consistency and stakeholder buy-in by promoting better understanding, inclusion, and ownership in the program.
+You can also stand up smaller focus groups or tiger teams devoted to specific program issues or direct implementation support. You'll promote consistency and stakeholder buy-in by encouraging better understanding, inclusion, and ownership in the program.
