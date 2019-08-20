@@ -86,7 +86,7 @@ Stakeholder management involves coordination, collaboration, and communication w
 
 ### Collaborate Through Formal Tiger Teams and Working Groups
 
-To encourage collaboration, develop working groups comprised of stakeholders across the program. Stakeholders in these working groups incorporate their needs into the ICAM program, and share implementation lessons learned in other ICAM implementations to reduce overall program risk and increase efficiency in implementation.
+To encourage collaboration, develop working groups comprised of stakeholders across the program. Stakeholders in these working groups incorporate their needs into the ICAM program and share implementation lessons learned in other ICAM implementations to reduce overall program risk and increase efficiency in implementation.
 
 ### Stand Up Focus Groups or Teams
 
