@@ -6,7 +6,7 @@ collection: governance
 permalink: governance/esc/
 ---
 
-The Identity, Credential, and Access Management (ICAM) Executive Steering Committee (ESC) governs your ICAM projects and workstreams, and aligns ICAM services and management with your agency’s mission. The agency’s executive leadership will charter the ESC.
+The Identity, Credential, and Access Management (ICAM) Executive Steering Committee (ESC) governs your ICAM projects and workstreams and aligns ICAM services and management with your agency's mission. The agency's executive leadership will charter the ESC.
 
 An ICAM ESC should include the following personnel:
 
@@ -20,7 +20,7 @@ An ICAM ESC should include the following personnel:
 - Senior Agency Official for Physical Security (SAOPS)
 - Agency component organizations that manage ICAM programs and capabilities
 
-The ESC charter should specify the group‘s authority to enforce changes, when necessary, to align ICAM technology, policy, and execution with your agency‘s overall mission.
+The ESC charter should specify the group's authority to enforce changes, when necessary, to align ICAM technology, policy, and execution with your agency's overall mission.
 
 ## Roles and Responsibilities
 
@@ -39,7 +39,7 @@ Create a charter to govern the roles and responsibilities of your ESC. The ESC i
 
 ## Component Governance
 
-A component agency’s interdisciplinary team is usually comprised of the agency’s ICAM-related program managers and information technology (IT) experts. This team’s purpose is to provide ICAM-related recommendations to the ESC to help drive the ICAM program’s success via a bottom-up approach.
+A component agency's interdisciplinary team is usually comprised of the agency's ICAM-related program managers and information technology (IT) experts. This team's purpose is to provide ICAM-related recommendations to the ESC to help drive the ICAM program's success via a bottom-up approach.
 
 These groups leverage their experience and business context to provide the steering committee with strategies, insights, and lessons learned around the following subjects:
 
