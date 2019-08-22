@@ -4,7 +4,7 @@ title: Risk Management
 permalink: /risk/
 ---
 
-You'll need to actively identify and mitigate threats to program operations, and involve the entire program management team in this process. Follow the recommendations below to learn how to develop an ICAM risk management program.
+You'll need to actively identify and mitigate threats to program operations, and involve the entire program management team in this process. Follow the recommendations below to learn how to develop an Identity, Credential, and Access Management (ICAM) risk management program.
 
 - [Develop a Risk Management Program](#develop-a-risk-management-program)
 - [Develop a Risk Management Plan](#develop-a-risk-management-plan)
