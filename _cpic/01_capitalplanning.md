@@ -6,11 +6,11 @@ collection: cpic
 permalink: cpic/capitalplanning/
 ---
 
-The main product of the Capital Planning and Investment Control (CPIC) process is the Exhibit 300, a document explaining the capital asset plan and business case. Your agency will write and review Exhibit 300s annually for both new and existing capital investments. The following sections describe the areas your agency will need to consider to construct an Exhibit 300.
+The main product of the Capital Planning and Investment Control (CPIC) process is the Exhibit 300, a document explaining the capital asset plan and business case. Your agency will write and review Exhibit 300s annually for both new and existing capital investments. The following sections describe the areas your agency will need to consider to construct an Exhibit 300 for your Identity, Credential, and Access Management (ICAM) program.
 
 ## Update Agency Approach to ICAM Investment
 
-Traditionally, some agencies submit separate Exhibit 300 investment requests for various Identity, Credential, and Access Management (ICAM) activities, such as HSPD-12 or E-authentication. In future budget submissions, you should consider coordinating your capital planning efforts across ICAM projects and Exhibit 300 business cases. This coordination aligns projects to reduce redundant ICAM investments across agency components or bureaus.
+Traditionally, some agencies submit separate Exhibit 300 investment requests for various ICAM activities, such as HSPD-12 or E-authentication. In future budget submissions, you should consider coordinating your capital planning efforts across ICAM projects and Exhibit 300 business cases. This coordination aligns projects to reduce redundant ICAM investments across agency components or bureaus.
 
 ## Include ICAM Requirements in CPIC Processes
 
