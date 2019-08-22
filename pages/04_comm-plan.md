@@ -1,10 +1,10 @@
 ---
 layout: default
-title: ICAM Program Communication Plan
+title: Communication Plan
 permalink: /comm/
 ---
 
-A communication plan outlines a program's objectives, goals, themes, and approach. You should create a communication plan early in the program life cycle to communicate consistently and effectively with users and stakeholders.
+A communication plan outlines an Identity, Credential, and Access Management (ICAM) program's objectives, goals, themes, and approach. You should create a communication plan early in the program life cycle to communicate consistently and effectively with users and stakeholders.
 
 The following table includes a summary of some common communication activities you should prioritize in your program.
 
