@@ -13,6 +13,7 @@ An ICAM ESC should include the following personnel:
 - Chief Information Officer (CIO)
 - Chief Financial Officer (CFO)
 - Chief Security Officer (CSO)
+- Chief Data Officer (CDO)
 - Human Resources (HR)
 - General Counsel
 - Chief Acquisition Officer (CAO)
