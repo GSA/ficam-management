@@ -1,7 +1,9 @@
 ---
 layout: default
+navtitle: Edit a Page
 title: Edit a Page
-permalink: /editpage/
+collection: contribute
+permalink: contribute/editpage/
 ---
 
 If you wish to Edit a page, or submit changes via a pull request you must:
