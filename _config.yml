@@ -99,9 +99,10 @@ navigation:
   internal: true
   coll: false
 - text: Contribute
-  url: contribute
+  url: contribute/
   internal: true
-  coll: false
+  coll: true
+  collname: contribute
 
 
   #https://github.com/jekyll/jekyll/issues/2346
@@ -126,6 +127,10 @@ collections:
   cpic:
      label: "Capital Planning and Acquisitions"
      permalink: cpic/:path/
+     output: true
+  contribute:
+     label: "Contribute"
+     permalink: contribute/:path/
      output: true
 
 include:
