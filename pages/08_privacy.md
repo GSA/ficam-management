@@ -12,7 +12,7 @@ OMB Circular A-130 – Appendices I and II, establish requirements and guide age
 
 ## Apply Fair Information Practice Principles
 
-ICAM programs collect, store, share, and maintain PII. As such, your agency must actively support privacy protections and the widely-recognized Fair Information Practice Principles (FIPPS). Under the Privacy Act, based on FIPPs, your agency must have processes and procedures governing the use of PII. When you implement your ICAM program, determine whether you must adjust processes and procedures due to a new use of PII.
+ICAM programs collect, store, share, and maintain PII. As such, your agency must actively support privacy protections and the widely-recognized Fair Information Practice Principles (FIPPs). Under the Privacy Act of 1974, based on FIPPs, your agency must have processes and procedures governing the use of PII. When you implement your ICAM program, determine whether you must adjust processes and procedures due to a new use of PII.
 
 {% include alert-info.html heading="Privacy Tip" content="We encourage you to provide redress mechanisms even when the Privacy Act doesn't require them. Promote confidence in your users' interactions with the government by allowing them to provide feedback and rectify issues with their PII." %}
 
@@ -61,7 +61,7 @@ The following checklist defines FIPPs for any program that collects PII.
     - Request changes to a record pertaining to him.
 
 - What are the benefits of redress procedures?
-    - Meet requirements of Privacy Act of 1974.
+    - Meet requirements of the Privacy Act.
     - Enhance transparency.
     - Raise awareness of the mission.
     - Promote user confidence.
