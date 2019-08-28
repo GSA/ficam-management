@@ -25,4 +25,4 @@ Tie your agency's ICAM program accomplishments directly to the responsible indiv
 
 ### Additional Guidance
 
-<a href="ficam-management/docs/Draft_April_FY18_FISMA_ICAM_Metrics_Guidance_20180504.docx">Click here to view the FY18 FISMA ICAM Metrics Guidance</a> (MS Word, May 2018) developed by the GSA FICAM Program.
+<a href="{{site.baseurl}}/docs/Draft_April_FY18_FISMA_ICAM_Metrics_Guidance_20180504.docx">Click here to view the FY18 FISMA ICAM Metrics Guidance</a> (MS Word, May 2018) developed by the GSA FICAM Program.
