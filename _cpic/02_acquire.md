@@ -58,9 +58,9 @@ In addition to determining funding needs and obtaining funding, a key aspect of 
 
 ### Cost-Saving Tips
 
-Any product that uses cryptographic processes with the PIV card must comply with FIPS 140 and be approved by a NIST-validated laboratory. You should seek out manufacturers that provide architectures that minimize the cost of FIPS 140 by producing components in very high volume, or by amortizing the cost into common components, such as multi-door controllers.
+Any product that uses cryptographic processes with the PIV credential must comply with FIPS 140 and be approved by a NIST-validated laboratory. You should seek out manufacturers that provide architectures that minimize the cost of FIPS 140 by producing components in very high volume, or by amortizing the cost into common components, such as multi-door controllers.
 
-When you write solicitations and contracts, where applicable, include language requiring PIV cards where you provide encryption and digital signature services. This language supplements the existing FAR requirements for contractors to use PIV cards. This approach promotes governmentwide consistency in security services and offers greater ROI in leveraging your agency's existing PIV infrastructure.
+When you write solicitations and contracts, where applicable, include language requiring PIV credentials where you provide encryption and digital signature services. This language supplements the existing FAR requirements for contractors to use PIV credentials. This approach promotes governmentwide consistency in security services and offers greater ROI in leveraging your agency's existing PIV infrastructure.
 
 ## Review the Approved Products List
 
