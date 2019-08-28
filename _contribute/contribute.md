@@ -1,6 +1,7 @@
 ---
 layout: default
 title: How to Contribute
+collection: contribute
 permalink: /contribute/
 ---
 
