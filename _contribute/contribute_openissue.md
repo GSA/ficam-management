@@ -1,7 +1,9 @@
 ---
 layout: default
-title: Opening Issues
-permalink: /openissue/
+navtitle: Open an Issue
+title: Open an Issue
+collection: contribute
+permalink: contribute/openissue/
 ---
 
 If you wish to comment by opening an Issue, or submit changes via a pull request you must:
