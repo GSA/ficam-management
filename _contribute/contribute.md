@@ -26,18 +26,18 @@ Issues are the primary way to share information and discuss this site with the b
 
 To submit an issue, click **Submit Issues Here** in the left navigation bar. 
 
-For a quick guide on opening issues, read [how to open an issue.]({{site.baseurl}}/contribute/openissue/){:target="_blank"}
+For a quick guide on opening issues, read [how to open an issue]({{site.baseurl}}/contribute/openissue/).
 
 ## Edit an existing page
 
 You can submit direct changes and line edits to the content. Click **Edit this page** in the upper right corner of the page you want to modify.  You don't need to install any software to submit content; you can use GitHub's in-browser editor to edit files and submit the changes for discussion. 
 
-For a quick guide on editing a page, read [how to edit a page.]({{site.baseurl}}/contribute/editpage/){:target="_blank"}
+For a quick guide on editing a page, read [how to edit a page]({{site.baseurl}}/contribute/editpage/).
 
 ## Add a new page
 We welcome new pages and appreciate your contributions!  
 
-First, [open an issue]({{site.baseurl}}/contribute/#open-an-issue){:target="blank"} to propose a topic.  If you don't have a topic, a good place to start is by reviewing the existing **Issues** lists. 
+First, [open an issue]({{site.baseurl}}/contribute/#open-an-issue) to propose a topic.  If you don't have a topic, a good place to start is by reviewing the existing **Issues** lists. 
 
 * [PIV Guides Issues](https://github.com/GSA/piv-guides/issues){:target="blank"}.
 * [Federal PKI Guides Issues](https://github.com/GSA/fpki-guides/issues){:target="blank"}.
@@ -45,7 +45,7 @@ First, [open an issue]({{site.baseurl}}/contribute/#open-an-issue){:target="blan
 
 Choose one of the issues and start a conversation on the issue. By creating or discussing an issue, you can clarify the problem, identify the solution, and propose a format for the new page. When you're ready, post a comment on the issue that you want to write the solution!  We will create a new **branch** for you if needed.
 
-For a quick guide on adding a page, read [how to add a page.]({{site.baseurl}}/contribute/addpage/){:target="_blank"}
+For a quick guide on adding a page, read [how to add a page.]({{site.baseurl}}/contribute/addpage/)
 
 We have a [sample template with markdown samples]({{ site.repo_url }}/blob/{{ site.branch }}/pages/template.md){:target="blank"}.
 
