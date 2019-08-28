@@ -1,7 +1,9 @@
 ---
 layout: default
+navtitle: Add a Page
 title: Add a Page
-permalink: /addpage/
+collection: contribute
+permalink: contribute/addpage/
 ---
 
 If you wish to Add a Page, or submit changes via a pull request you must:
