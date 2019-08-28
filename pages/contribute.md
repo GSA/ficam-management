@@ -4,7 +4,7 @@ title: How to Contribute
 permalink: /contribute/
 ---
 
-Thank you for considering contributing to our development of open and transparent PACS Guides.  Everyone has tricks and tips and we want to share these with our colleagues! 
+Thank you for contributing to our development of an open and transparent Federal Identity, Credential, and Access Management (FICAM) Program Management Guide.  Everyone has tricks and tips and we want to share these with our colleagues! 
 
 To contribute to this site, you can:
 
@@ -18,7 +18,7 @@ Using GitHub as a first time user can be overwhelming.  An introduction video is
 
 ## Open an issue
 
-Issues are the primary way to share information and discuss this site with the broader community. You can use issues for:
+Issues are the primary way to share information and discuss this site with the broader community. You can use issues to make:
 
 * _Suggestions:_ You want to suggest an edit or addition to existing information on this site.
 * _Corrections:_ You identified a problem with existing information on the site and want to discuss a correction.
@@ -36,7 +36,7 @@ For a quick guide on editing a page, read [how to edit a page.]({{site.baseurl}}
 ## Add a new page
 We welcome new pages and appreciate your contributions!  
 
-First, propose a topic by [opening an issue]({{site.baseurl}}/contribute/#open-an-issue){:target="blank"}.  If you don't have a topic, a good place to start is by reviewing the existing **Issues** lists. 
+First, [open an issue]({{site.baseurl}}/contribute/#open-an-issue){:target="blank"} to propose a topic.  If you don't have a topic, a good place to start is by reviewing the existing **Issues** lists. 
 
 * [PIV Guides Issues](https://github.com/GSA/piv-guides/issues){:target="blank"}.
 * [Federal PKI Guides Issues](https://github.com/GSA/fpki-guides/issues){:target="blank"}.
