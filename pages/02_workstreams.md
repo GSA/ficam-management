@@ -45,7 +45,7 @@ Each project workstream is responsible for ICAM processes and systems related to
 | <center> Workstream </center> | <center> Description </center> |
 |:-----------------------------:|--------------------------------|
 | **Identity Management** | Digital identity data management. This includes modernizing the management of digital identities, such as HR modernization, per FICAM initiatives. |
-| **Credential Management** | Credential lifecycle management activities. You may identify separate workstreams for various credential types, including agency Personal Identity Verification (PIV) cards and local facility access cards. |
+| **Credential Management** | Credential lifecycle management activities. You may identify separate workstreams for various credential types, including agency Personal Identity Verification (PIV) and local facility access credentials. |
 | **Physical Access** | Physical access control, including modernization efforts and security priorities in accordance with FICAM and Interagency Security Committee (ISC) initiatives. |
 | **Logical Access** | Logical access control, including access policies, provisioning, and authentication technologies. |
 
