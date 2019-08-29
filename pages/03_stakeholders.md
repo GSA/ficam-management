@@ -66,7 +66,7 @@ To find approved ICAM products and services and an updated list of organizations
 
 | <center> Stakeholder Name </center> | <center> Stakeholder Role </center> |
 |-------------------------------------|-------------------------|
-| Agency Partners and Affiliates | Contractors working on behalf of the federal government and affiliates that do business with, or consume the services provided by federal agencies. <br><br> Portions of this population use the PIV card to access agency facilities and information systems, while others use non-PIV cards and require only occasional access to agency assets. |
+| Agency Partners and Affiliates | Contractors working on behalf of the federal government and affiliates that do business with, or consume the services provided by federal agencies. <br><br> Portions of this population use PIV credentials to access agency facilities and information systems, while others use non-PIV credentials and require only occasional access to agency assets. |
 | Business Process/System Owners | Individuals within an agency responsible for managing a set of activities, programs, and systems that are critical to operations and use ICAM services. |
 | General Counsel | Provides legal oversight over an agency’s ICAM program, administering security clearance review programs, and ensuring that ICAM programs abide by all applicable laws and regulations through an audit and accountability program led by the Inspector General (IG). |
 | Human Resources (HR) | Collects biographical information on federal employees. <br><br> Creates a digital identity for each employee within the agency’s HR application. |
@@ -75,7 +75,7 @@ To find approved ICAM products and services and an updated list of organizations
 | Office of the Chief Information Security Officer (OCISO) | Develops, employs, and publishes security policies, programs, and standards to guard the agency’s personnel, property, facilities, and information. <br><br> Oversees projects related to credentials, badges, emergency signaling devices, and more. <br><br> Has leadership and authority over security policy and programs within the agency, and can coordinate with the Personnel Security and Physical Security divisions. |
 | Personnel Security | Coordinates with managers’ HR departments to determine position sensitivity levels for each position occupied within the agency. <br><br> Coordinates with OPM to ensure all agency employees and contractors receive an appropriate background investigation and periodic reinvestigation. |
 | Physical Security | Manages the security of agency buildings, such as resolving conflicts concerning entry to facilities and verifying that those seeking to gain access to federal buildings are authorized to do so. |
-| PIV Credentialing Program | Manages the PIV card issuance process and infrastructure. |
+| PIV Credentialing Program | Manages the PIV credential issuance process and infrastructure. |
 | Privacy Office | Administers policy to govern the use, collection, storage, and dissemination of Personally Identifiable Information (PII) for all agency employees, contractors, and affiliates. <br><br> Maintains an agency’s System of Records Notices (SORNs), and supports Privacy Impact Assessments (PIAs) for all IT investments, including ICAM. |
 | Solution Providers | Industry partners or system integrators that provide ICAM services to federal agencies. |
 | Unions | Frequently involved in matters related to ICAM processes that collect personal information or introduce additional requirements for background investigations. |
