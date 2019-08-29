@@ -85,7 +85,7 @@ GSA Schedules are purchasing vehicles for a broad range of products and services
 
 > [IT Schedule 84](https://www.gsa.gov/buying-selling/purchasing-programs/gsa-schedules/list-of-gsa-schedules/schedule-84security-fire-law-enforcement){:target="_blank"} offers PACS-related security solutions for law enforcement, security, facility management, fire, rescue, clothing, marine craft, and emergency and disaster response.
 
-You can purchase resources from both schedules to meet your ICAM implementation needs. For example, you could buy new PIV card readers for access control points from Schedule 84 and services from the system integrator from Schedule 70.
+You can purchase resources from both schedules to meet your ICAM implementation needs. For example, you could buy new credential readers for access control points from Schedule 84 and services from the system integrator from Schedule 70.
 
 ## Benefits
 
