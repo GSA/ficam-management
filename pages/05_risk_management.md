@@ -53,7 +53,7 @@ The table below summarizes some common ICAM program risks and sample mitigation 
 | **Transition Deadlines:** If the agency doesn't meet the scheduled transition activity milestone dates, there may be funding impacts for ICAM and other agency systems. | Provide realistic completion targets to OMB for ICAM activities, based on an agency FICAM architecture analysis, in the ICAM transition plan. |
 | **Implementation Deadlines:** If the bureaus/components fail to adopt enterprise ICAM services in a timely manner, there will be delays to overall agency ICAM implementation and compliance. | Dedicate ICAM program management resources and program funding to gain stakeholder buy-in and support implementation requirements and efforts. |
 | **Staffing:** If the agency is unable to staff dedicated resources with the necessary technical knowledge, the agency will be unable to execute technical implementation successfully, and the program schedule will lag. | Leverage cross-agency ICAM expertise via working groups and outreach to supplement staff knowledge. <br><br> Include a hiring plan in the ICAM acquisition plan to ensure you have staff with the necessary skills. |
-| **Outreach:** If the user population doesn't accept ICAM effort, the agency won't be able to meet FICAM requirements and deadlines. | Dedicate additional ICAM program management resources and program funding to increase communication and promote awareness. |
+| **Outreach:** If the user population doesn't accept ICAM efforts, the agency won't be able to meet FICAM requirements and deadlines. | Dedicate additional ICAM program management resources and program funding to increase communication and promote awareness. |
 | **Supply Chain:** If the ICAM solution vendor(s) goes out of business, the agency may experience program delays or additional costs to migrate to new solutions. | Include supply chain risk management in the ICAM program acquisition plan and identify alternative solution providers. <br><br> Use approved vendors and products from established acquisition vehicles. <br><br> Include activities for compiled software escrow and source code escrow. |
 
 ## Perform a Security and Risk Management Assessment
@@ -75,7 +75,7 @@ You should model your criteria after the FICAM architecture for controlling ICAM
 Use the following criteria as a starting point to evaluate your ICAM program:
 
 - Elimination of manual, paper-based processes to collect identity data.
-- Compliance with acquisition guidance for PIV card products and services.
+- Compliance with acquisition guidance for PIV credential products and services.
 - Adoption of standards-based, commercially available ICAM products and services.
 - Streamlining of provisioning and authentication services through enterprise capabilities.
 - Coordination of ICAM program management and investment across supporting projects.
