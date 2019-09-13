@@ -33,7 +33,7 @@ Each administrative workstream is responsible for ICAM governance and both intra
 
 | <center> Workstream </center> | <center> Description </center> |
 |:-----------------------------:|--------------------------------|
-|**Outreach & Communications** | Program Communications Plan development and execution, including: <br><br> • Defining communication message types, media, target audience, and timing. <br><br> • Communicating ICAM program concepts, activities, and progress to promote support for the implementation of improved ICAM capabilities. |
+|**Outreach & Communications** | Program Communications Plan development and execution, including: <br><br> • Defining communication message types, media, target audience, and timing. <br><br> • Communicating ICAM program concepts, activities, and progress to promote support for the implementation of improved ICAM capabilities. <br><br> You should align with existing agency communication policies and leverage existing resources, if available, such as Business Relationship Managers. |
 | **Policy** | Program policy and standard operating procedure development and finalization. |
 | **Budget** | Program budget development, management, monitoring, and reporting. The Budget Workstream works closely with the agency's Office of the Chief Financial Officer during the budget development and submission cycles. |
 | **Performance Management** | Program performance and metrics tracking, management, and reporting. |
