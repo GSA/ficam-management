@@ -11,6 +11,7 @@ baseurl: '/ficam-management'
 branch: master
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
+search_site_handle: idmprod
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
 logourl: /ficam-management/img/logo.png
