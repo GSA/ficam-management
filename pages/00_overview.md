@@ -16,7 +16,5 @@ The following list includes the necessary components of a federal ICAM program. 
 - [**Workstreams**]({{site.baseurl}}/workstreams/) - Categorize tasks and assign them to the proper resources.
 - [**Stakeholder Management**]({{site.baseurl}}/stakeholders/) - Identify and communicate with stakeholders.
 - [**Communication Plan**]({{site.baseurl}}/comm/) - Define and appropriately communicate program objectives and goals.
-- [**Risk Management**]({{site.baseurl}}/risk/) - Define, analyze, and mitigate threats.
-- [**Capital Planning and Acquisitions**]({{site.baseurl}}/cpic/) - Plan, budget for, and acquire required products.
 - [**Performance Management**]({{site.baseurl}}/performance/) - Measure and report progress, effectiveness, and improvements.
 - [**Privacy Requirements**]({{site.baseurl}}/privacy/) - Manage risks associated with handling personally identifiable information (PII).
