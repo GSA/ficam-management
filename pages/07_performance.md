@@ -23,6 +23,3 @@ Incorporate relevant metrics in your Exhibit 300 for any ICAM investment to trac
 
 Tie your agency's ICAM program accomplishments directly to the responsible individual's yearly performance plan. This helps leadership and management feel ownership and accountability for the ICAM program's success.
 
-### Additional Guidance
-
-<a href="{{site.baseurl}}/docs/Draft_April_FY18_FISMA_ICAM_Metrics_Guidance_20180504.docx">Click here to view the FY18 FISMA ICAM Metrics Guidance</a> (MS Word, May 2018) developed by the GSA FICAM Program.
