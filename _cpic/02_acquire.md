@@ -1,7 +1,7 @@
 ---
 layout: default
-navtitle: Acquire ICAM Products and Services
-title: Acquire ICAM Products and Services
+navtitle: Acquisitions
+title: Acquisitions
 collection: cpic
 permalink: cpic/acquire/
 ---
