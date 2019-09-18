@@ -1,7 +1,7 @@
 ---
 layout: default
-navtitle: Create a Program Management Office
-title: Create a Program Management Office
+navtitle: Program Management Office
+title: Program Management Office
 collection: governance
 permalink: governance/pmo/
 ---
