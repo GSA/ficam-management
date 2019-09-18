@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Establish Workstreams
+title: Workstreams
 permalink: /workstreams/
 ---
 
