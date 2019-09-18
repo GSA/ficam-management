@@ -1,7 +1,7 @@
 ---
 layout: default
-navtitle: Conduct Capital Planning for ICAM
-title: Conduct Capital Planning for ICAM
+navtitle: Capital Planning
+title: Capital Planning
 collection: cpic
 permalink: cpic/capitalplanning/
 ---
