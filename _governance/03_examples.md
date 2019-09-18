@@ -1,7 +1,7 @@
 ---
 layout: default
-navtitle: Governance Examples and Guidance
-title: Governance Examples and Guidance
+navtitle: Examples and Guidance
+title: Examples and Guidance
 collection: governance
 permalink: governance/examples/
 ---
