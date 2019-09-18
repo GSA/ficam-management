@@ -78,7 +78,7 @@ navigation:
   url: stakeholders
   internal: true
   coll: false
-- text: ICAM Communication Plan
+- text: Communication Plan
   url: comm
   internal: true
   coll: false
@@ -95,7 +95,7 @@ navigation:
   url: performance
   internal: true
   coll: false
-- text: ICAM Privacy Requirements
+- text: Privacy Requirements
   url: privacy
   internal: true
   coll: false
