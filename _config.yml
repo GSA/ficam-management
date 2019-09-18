@@ -82,15 +82,6 @@ navigation:
   url: comm
   internal: true
   coll: false
-- text: Risk Management
-  url: risk
-  internal: true
-  coll: false
-- text: Capital Planning and Acquisitions
-  url: cpic/
-  internal: true
-  coll: true
-  collname: cpic
 - text: Performance Management
   url: performance
   internal: true
