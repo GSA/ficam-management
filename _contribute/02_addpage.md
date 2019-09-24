@@ -6,59 +6,54 @@ collection: contribute
 permalink: contribute/addpage/
 ---
 
-If you wish to Add a Page, or submit changes via a pull request you must:
+Before you add a new page, see the list of existing issues. You can add a new issue to propose a topic, or comment on an existing issue. By creating or discussing an issue, you can clarify a problem, identify a solution, and propose a format for a new page. When you’re ready, comment on the related issue that you want to write the new page.
 
-1. **Establish a GitHub account.** In order to submit a comment through the GitHub “Issues” feature, you will need to create a GitHub account.  
-You can create an account by browsing to this site: https://github.com/join  
-GitHub allows you to remain pseudonymous, just make sure you select the options that suit you on the “Profile” and “Emails” pages of your “Personal Settings”.  
-We also highly encourage you to turn on **two-factor authentication** in the “Security” page, also part of “Personal Settings”.  
-  ![How to create account]({{site.baseurl}}/assets/img/create_github_account.png)
+To add a page and open a pull request, you must first [create a GitHub account](https://github.com/join){:target="_blank"}. We recommend that you [configure two-factor authentication](https://help.github.com/en/articles/configuring-two-factor-authentication){:target="_blank"} for your GitHub account.
 
-### Adding Content
+## Create a Page
 
-*  To see an example of a topic, visit the Template sample [here](/pages/template.md).
-*  To find this template directly, you can browse the pages folder in the repository and select the 'template.md' file.
-*  Click the 'Raw' button towards the top right of the page to view the file as raw code. Within this file are helpful comments and instructions on where different parts of your content will be entered. Please note that you will not need to know how to code to contribute, as the only code within the file is simply to help format the final page.
-*  Copy all of the samples from the template.
-*  Navigate back to the pages folder and select the 'New file' button towards the top right of the page.
-*  Enter a name for your file in the text box that says 'Name your file...', which will also act as the permanent link for your page.
-*  Paste the samples and follow the instructions within the sample to populate the template with your content.
+1. (Optional) If you want to begin with a template page, navigate to the [template.md](https://github.com/GSA/ficam-management/blob/staging/template.md) file.
 
-#### How to Submit Your Draft Guide
-*  When your file is ready to be added to the repository, enter a title and quick description of your new page in the 'Commit new file' box at the bottom of the 'New file' page.
-*  Within this box are two radio button options. Be sure to select the 'Create a new branch for this commit and start a pull request' radio button, so that your content can go through the proper review process before going live on the Playbook site.
-*  Click the 'Propose new file' button. This will route you to the 'Open a pull request' page.
-*  Within the information box on the pull request page, create a title that reflects the nature of the content added, as well as a reference to the issue number that was opened stating the need for this topic, such as 'Issue #39 - Created a new page for how to enable PIV for logical access', entering any other relevant notes within the comment field.
-*  Click the 'Create pull request' button. This will send a notification to the site administrators that a new page has been added, which they can then review.
-*  Be sure to follow the progress of the issue that you opened stating what content you intended to add! This will allow you to see if others have comments or contributing information for the process, or if the site admin has responded with an updated status on your new page.
+	The template file includes some instructions for how to organize a page.
 
-If you have a question during the contribution process, do not hesitate to open an issue requesting clarification.  You can also email us at icam at gsa dot gov.
+2. In the upper right corner, click the **Raw** button to view the raw code.
 
+3. Copy the content of the template.
 
+4. Navigate to the ficam-management/pages folder, and in the upper right corner, click the **Create new file** button.
 
-
-If you wish to Edit a page, or submit changes via a pull request you must:
-
-1. **Establish a GitHub account.** In order to submit a comment through the GitHub “Issues” feature, you will need to create a GitHub account.  
-You can create an account by browsing to this site: https://github.com/join  
-GitHub allows you to remain pseudonymous, just make sure you select the options that suit you on the “Profile” and “Emails” pages of your “Personal Settings”.  
-We also highly encourage you to turn on **two-factor authentication** in the “Security” page, also part of “Personal Settings”.  
-  ![How to create account]({{site.baseurl}}/assets/img/create_github_account.png)
-
-2. As you are reading and identify comments you would like to make, you can open an Edit the page by clicking on the **Edit this page** link in the upper right hand corner of the **webpage**  
-
-2. Click on the "New Issue" button in the upper right of the screen.  
-    ![Create issue]({{site.baseurl}}/assets/img/create_new_issue.png)
-
-2. Provide a short description in the field labeled "Title" for the feedback being provided.  
-    ![Issue title]({{site.baseurl}}/assets/img/issue_title.png)
+	![Create new file]({{site.baseurl}}/img/CreateNewFile.png)
 	
-2. Enter information in the "Write" box and describe the issue.  
+5. At the top of the screen, enter a name for your new page with the extension **.md**.
 
-2. Hit “Submit New Issue” and you are done!  
-    ![Submit issue]({{site.baseurl}}/assets/img/submit_new_issue.png)
+	The **.md** extension identifies a markdown file.
+	
+	![Name new file]({{site.baseurl}}/img/NameNewFile.png)
+	
+6. In the body of the file, paste the content that you copied in step 3.
 
-2. If you want to keep up with others comments through email and monitor future changes, make sure you choose to “Watch” the project!  
-    ![Watch project]({{site.baseurl}}/assets/img/watch_project.png)
+	Use this template as a guideline for your page.
 
-If you are familiar with GitHub, you are also welcome to provide changes as a **Pull Request**.  
+## Submit a Page
+
+1. Scroll to the **Commit new file** box.
+
+	![Commit new file]({{site.baseurl}}/img/CommitNewFile.png)
+
+2. Enter a name and description for your new page.
+
+3. Select the **Create a new branch for this commit and start a pull request** radio button.
+
+	This allows the file to go through the proper review process before publishing.
+	
+4. Click the **Propose new file** button.
+
+	The **Open a pull request** page appears.
+	
+	![Open pull request]({{site.baseurl}}/img/OpenPullRequest.png)
+	
+5. If there is a corresponding issue that identifies a need for this page, include the issue number in the description.
+
+6. Click the **Create pull request** button.
+
+	The site administrators receive a notification about the new page, and they can revuew and publish the page.
