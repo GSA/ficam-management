@@ -20,6 +20,7 @@ To submit an issue, you must first [create a GitHub account](https://github.com/
 	![IssuesTab]({{site.baseurl}}/img/Issues.png)
 
 2. In the upper right corner, click the **New issue** button.
+
 3. Enter a title and description with your feedback, and click the **Submit new issue** button.
 
 	Your issue appears in the list on the **Issues** tab.
