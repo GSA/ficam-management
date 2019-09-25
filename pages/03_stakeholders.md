@@ -14,7 +14,6 @@ This page describes how to work with stakeholders by doing the following:
     - [Internal Standards Body](#internal-standards-body)
     - [External Service Customers](#external-service-customers)
     - [Agency-Level Stakeholders](#agency-level-stakeholders)
-    
 - [Manage Stakeholders](#manage-stakeholders) - establish effective communication and processes among your stakeholders.
 
 ## Identify Stakeholders
