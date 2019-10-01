@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Privacy Requirements
+title: Privacy Considerations
 permalink: /privacy/
 ---
 
