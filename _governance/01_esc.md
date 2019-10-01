@@ -8,7 +8,7 @@ permalink: governance/esc/
 
 The Identity, Credential, and Access Management (ICAM) Executive Steering Committee (ESC) governs your ICAM projects and workstreams and aligns ICAM services and management with your agency's mission. The agency's executive leadership will charter the ESC.
 
-An ICAM ESC should include the following personnel:
+An ICAM ESC can include the following personnel:
 
 - Chief Information Officer (CIO)
 - Chief Financial Officer (CFO)
@@ -21,22 +21,22 @@ An ICAM ESC should include the following personnel:
 - Senior Agency Official for Physical Security (SAOPS)
 - Agency component organizations that manage ICAM programs and capabilities
 
-The ESC charter should specify the group's authority to enforce changes, when necessary, to align ICAM technology, policy, and execution with your agency's overall mission.
+The ESC specifies the group's authority to enforce changes, when necessary, to align ICAM technology, policy, and execution with your agency's overall mission.
 
 ## Roles and Responsibilities
 
-Create a charter to govern the roles and responsibilities of your ESC. The ESC is typically responsible for the following functions:
+We recommend you create a charter to govern the roles and responsibilities of your ESC. The ESC typically performs the following functions:
 
-- Review and approve the program business architecture.
-- Ensure proper resource allocation to ICAM programs and projects.
-- Provide input for, or participate in, the critical development stages of the ICAM program.
-- Provide strategic guidance for cost, schedule, performance, and technical solutions to ensure program success.
-- Provide direction and counsel to the ICAM Program Management Office (PMO).
-- Establish cross-team collaboration to provide guidance, identify common agency challenges, establish best practices, and share solutions.
-- Take responsibility for overall stakeholder management, including stakeholders inside the agency, in other federal agencies, and outside the federal government.
-- Create and approve a process to review ICAM program changes and resolve disputes between ICAM and individual program offices.
-- Report on program status to oversight organizations, such as the Office of Management and Budget (OMB), Office of Inspector General (OIG), and Government Accountability Office (GAO).
-- Review post-implementation evaluations to ensure that ICAM services and programs meet forecasted benefits and outcomes.
+- Reviews and approves the program business architecture.
+- Ensures proper resource allocation to ICAM programs and projects.
+- Provides input for, or participates in, the critical development stages of the ICAM program.
+- Provides strategic guidance for cost, schedule, performance, and technical solutions to ensure program success.
+- Provides direction and counsel to the ICAM Program Management Office (PMO).
+- Establishes cross-team collaboration to provide guidance, identify common agency challenges, establish best practices, and share solutions.
+- Takes responsibility for overall stakeholder management, including stakeholders inside the agency, in other federal agencies, and outside the federal government.
+- Creates and approves a process to review ICAM program changes and resolve disputes between ICAM and individual program offices.
+- Reports on program status to oversight organizations, such as the Office of Management and Budget (OMB), Office of Inspector General (OIG), and Government Accountability Office (GAO).
+- Reviews post-implementation evaluations to ensure that ICAM services and programs meet forecasted benefits and outcomes.
 
 ## Component Governance
 
