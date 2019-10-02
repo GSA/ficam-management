@@ -1,9 +1,7 @@
 ---
 layout: default
-navtitle: Examples and Guidance
 title: Examples and Guidance
-collection: governance
-permalink: governance/examples/
+permalink: /examples/
 ---
 
 We recommend leveraging existing resources to establish organizational-level Identity, Credential, and Access Management (ICAM) governance and define roles and responsibilities across the enterprise.
