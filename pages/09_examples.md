@@ -4,13 +4,18 @@ title: Examples and Guidance
 permalink: /examples/
 ---
 
-We recommend leveraging existing resources to establish organizational-level Identity, Credential, and Access Management (ICAM) governance and define roles and responsibilities across the enterprise.
+We recommend leveraging existing resources to establish your Identity, Credential, and Access Management (ICAM) program and define roles and responsibilities across the enterprise.
+
+## Agency Examples
+
+### Governance Structure
 
 The figure below provides an example of an ICAM governance and program management structure implemented by the Department of Health and Human Services (HHS).
 
 ![HHS ICAM Governance Structure]({{site.baseurl}}/img/HHS-ICAM-Governance-And-Program-Management-Structure.png)
 
-For an agency example, <a href="{{site.baseurl}}/docs/HHS-Governance-Charter.doc">download the HHS ICAM PMO Governance Charter</a> (MS Word, May 2019)
+### ICAM PMO Charter
+<a href="{{site.baseurl}}/docs/HHS-Governance-Charter.doc">download the HHS ICAM PMO Governance Charter</a> (MS Word, May 2019)
 
 ## Authorities to Consider
 
