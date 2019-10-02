@@ -15,7 +15,7 @@ The figure below provides an example of an ICAM governance and program managemen
 ![HHS ICAM Governance Structure]({{site.baseurl}}/img/HHS-ICAM-Governance-And-Program-Management-Structure.png)
 
 ### ICAM PMO Charter
-<a href="{{site.baseurl}}/docs/HHS-Governance-Charter.doc">download the HHS ICAM PMO Governance Charter</a> (MS Word, May 2019)
+For an example of an ICAM Program Management Office (PMO) charter, <a href="{{site.baseurl}}/docs/HHS-Governance-Charter.doc">download the HHS ICAM PMO Governance Charter</a> (MS Word, May 2019)
 
 ## Authorities to Consider
 
