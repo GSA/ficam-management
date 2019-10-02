@@ -90,6 +90,10 @@ navigation:
   url: privacy
   internal: true
   coll: false
+- text: Examples and Guidance
+  url: examples
+  internal: true
+  coll: false
 - text: Contribute
   url: contribute/
   internal: true
