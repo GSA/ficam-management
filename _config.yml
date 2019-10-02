@@ -86,7 +86,7 @@ navigation:
   url: performance
   internal: true
   coll: false
-- text: Privacy Requirements
+- text: Privacy Considerations
   url: privacy
   internal: true
   coll: false
