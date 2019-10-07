@@ -13,6 +13,12 @@ branch: master
 #twitter_username: jekyllrb
 search_site_handle: idmprod
 
+# Lines below recommended by Search.gov team to allow indexing.
+url: "https://pm.idmanagement.gov"
+plugins:
+  - jekyll-sitemap
+
+
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
 logourl: /ficam-management/img/logo.png
 logoalt: Federal Identity Credential and Access Management
