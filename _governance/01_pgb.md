@@ -6,7 +6,7 @@ collection: governance
 permalink: governance/govbody/
 ---
 
-An Identity, Credential, and Access Management (ICAM) program governance body (for example, an Executive Steering Committee) oversees your ICAM projects and workstreams and aligns ICAM services and management with your agency's mission. The agency's executive leadership will charter the governance body.
+You can create an Identity, Credential, and Access Management (ICAM) program governance body (for example, an Executive Steering Committee) to oversee your ICAM projects and workstreams and align ICAM services and management with your agency's mission. The agency's executive leadership will charter the governance body.
 
 An ICAM program governance body can include the following personnel:
 
