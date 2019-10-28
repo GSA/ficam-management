@@ -15,9 +15,9 @@ An enterprise governance body develops and implements policies, rules, and proce
 
 The pages that follow explain how to establish a formal identity management governance structure within your agency.
 
-- [Create an ICAM Executive Steering Committee (ESC)]({{site.baseurl}}/governance/esc/)
+- [Create a Governance Body]({{site.baseurl}}/governance/govbody/)
 - [Create a Program Management Office (PMO)]({{site.baseurl}}/governance/pmo/)
 
-You don't have to start from scratch. Instead, model your agency's ICAM governance structure after existing programs. See the [Governance Examples and Guidance]({{site.baseurl}}/governance/examples/) section for agency ESC and PMO examples, as well as other authorities to consider.
+You don't have to start from scratch. Instead, model your agency's ICAM governance structure after existing programs. See the [Governance Examples and Guidance]({{site.baseurl}}/governance/examples/) section for agency steering committee and PMO examples, as well as other authorities to consider.
 
-{% include alert-info.html heading="Executive Steering Committee vs. Program Management Office" content="Executive Steering Committees traditionally provide top-down leadership support and guidance across the programs within an agency, while Program Management Offices provide operational support for the day-to-day execution of the tasks within the program." %}
+{% include alert-info.html heading="Governance Body vs. Program Management Office" content="Governance bodies provide top-down leadership support and guidance across the programs within an agency, while Program Management Offices provide operational support for the day-to-day execution of the tasks within the program." %}
