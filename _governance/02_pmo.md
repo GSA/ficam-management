@@ -6,7 +6,7 @@ collection: governance
 permalink: governance/pmo/
 ---
 
-After you establish a program governance body, you'll want to support the execution and operation of projects and workstreams with a Program Management Office (PMO).
+In addition to a program governance body, you can support the execution and operation of projects and workstreams with a Program Management Office (PMO).
 
 An Identity, Credential, and Access Management (ICAM) PMO complements the program governance body. Some agencies may not require both a program governance body and a PMO; however, larger agencies may need to separate governance and operational responsibility for effective ICAM operations. A PMO helps ensure that the individual components of the ICAM program operate efficiently and achieve the expected results within the defined budget and schedule.
 
