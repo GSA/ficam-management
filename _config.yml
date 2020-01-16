@@ -1,16 +1,23 @@
 # Site settings
-title: Program Management Playbook
-name: Program Management Playbook
+title: Federal Identity, Credential, and Access Management Program Management
+name: Federal Identity, Credential, and Access Management Program Management
 email: icam@gsa.gov
 author:
     name: FICAM
-description: Program Management Guidance
+description: Federal Identity, Credential, and Access Management Program Management Guidance
+highlighter: rouge
+repo_url: https://github.com/gsa/ficam-management
 baseurl: '/ficam-management'
+branch: master
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
-github_username:  lachellel
-highlighter: rouge
-branch: master
+search_site_handle: idmprod
+
+# Lines below recommended by Search.gov team to allow indexing.
+url: "https://pm.idmanagement.gov"
+plugins:
+  - jekyll-sitemap
+
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
 logourl: /ficam-management/img/logo.png
@@ -18,12 +25,27 @@ logoalt: Federal Identity Credential and Access Management
 
 ficam_playbooks_url: /ficam-guides/
 
-# Repo list
-# List repos that you would like to appear on the homepage here
-repos:
-- name: ficam-management
-  description: FICAM Playbook - Program Management Guidance
-  url: https://github.com/gsa/program-guides
+# Links
+# List links that you would like to appear on the top navigation bar here
+navbar:
+- title: IDmanagement.gov
+  description: IDmanagement.gov
+  url: https://www.idmanagement.gov
+- title: Federal ICAM Architecture
+  description: Federal ICAM Architecture
+  url: https://arch.idmanagement.gov
+- title: PIV Guides
+  description: PIV Guides
+  url: https://piv.idmanagement.gov
+- title: Federal PKI Guides
+  description: Federal PKI Guides
+  url: https://fpki.idmanagement.gov
+- title: PACS Playbook
+  description: Physical Access Control System Playbook
+  url: https://pacs.idmanagement.gov
+
+# Put the information about your site's GitHub repository if it is public
+repo_url: https://github.com/gsa/ficam-management
 
 # Build settings
 markdown: kramdown
@@ -41,55 +63,77 @@ exclude:
 - vendor
 
 navigation:
-navigation:
-- text: Home
-  url: index.html
+- text: Introduction
+  url: ''
   internal: true
   coll: false
-- text: Step 1 - Establish Program Governance
-  url: 1_step-1
+- text: What is ICAM Program Management?
+  url: overview
   internal: true
   coll: false
-- text: Step 2 - Establish Project Management Office
-  url: 2_step-2
+- text: Program Governance and Leadership
+  url: governance/
+  internal: true
+  coll: true
+  collname: governance
+- text: Workstreams
+  url: workstreams
   internal: true
   coll: false
-- text: Step 3 - Establish Workstreams
-  url: 3_step-3
+- text: Stakeholder Management
+  url: stakeholders
   internal: true
   coll: false
-- text: Step 4 - Develop ICAM Program Communications Plan
-  url: 4_step-4
+- text: Communication Plan
+  url: comm
   internal: true
   coll: false
-- text: Step 5 - Identify Program Stakeholders
-  url: 5_step-5
+- text: Performance Management
+  url: performance
   internal: true
   coll: false
-- text: Step 6 - Manage Stakeholders
-  url: 6_step-6
+- text: Privacy Considerations
+  url: privacy
   internal: true
-- text: Step 7 - Establish ICAM Privacy Requirements 
-  url: 7_step-7
+  coll: false
+- text: Examples and Guidance
+  url: examples
   internal: true
-- text: Step 8 - Manage Program Risk 
-  url: 8_step-8
-  internal: true
-- text: Step 9 - Conduct Capital Planning for ICAM
-  url: 9_step-9
-  internal: true
-- text: Step 10 - Plan and Conduct Acquisition
-  url: 10_step-10
-  internal: true
-- text: Step 11 - Measure and Report Performance 
-  url: 11_step-11
-  internal: true
-- text: Step 12 - Manage Accountability and Control  
-  url: 12_step-12
-  internal: true
+  coll: false
 - text: Contribute
-  url: contribute
+  url: contribute/
   internal: true
+  coll: true
+  collname: contribute
+
+
+  #https://github.com/jekyll/jekyll/issues/2346
+#- text: Developer Guides
+#  url: devconfig/index/
+#  internal: true
+#  coll: true
+#  collname: devconfig
+#- text: User Guides
+#  url: userconfig/index/
+#  internal: true
+#  coll: true
+#  collname: userconfig
+
+  #https://github.com/jekyll/jekyll/issues/2346
+  
+collections:
+  governance:
+     label: "Program Governance and Leadership"
+     permalink: governance/:path/
+     output: true
+  cpic:
+     label: "Capital Planning and Acquisitions"
+     permalink: cpic/:path/
+     output: true
+  contribute:
+     label: "Contribute"
+     permalink: contribute/:path/
+     output: true
 
 include:
 - _stylesheets
