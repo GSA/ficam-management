@@ -12,11 +12,11 @@
 <!-- Title and meta description
 ================================================== -->
 {% if page.title %}
-  <title>{{ page.title }} | {{ site.title }}</title>
-  <meta property="og:title" content="{{ page.title | xml_escape }} | {{ site.name | xml_escape }}" />
+  <title>{{ site.title }} | {{ page.title }}</title>
+  <meta property="og:title" content="{{ site.name | xml_escape }} | {{ page.title | xml_escape }}" />
 {% else %}
   <title>{{ site.title }}</title>
-  <meta property="og:title" content="{{ site.title | xml_escape }} | {{ site.name | xml_escape }}" />
+  <meta property="og:title" content="{{ site.name | xml_escape }} | {{ site.title | xml_escape }}" />
 {% endif %}
 
 {% if page.description %}
@@ -53,4 +53,4 @@
 <!-- CSS
 ================================================== -->
   <link rel="stylesheet" href="{{ "/assets/css/styleguide.css" | prepend: site.baseurl }}">
-<script src="https://use.fontawesome.com/31c6dd7025.js"></script>
+<script src="https://use.fontawesome.com/31c6dd7025.js"></script> 

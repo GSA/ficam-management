@@ -1,0 +1,12 @@
+name: 'Identity, Credential, and Access Management Program Management Playbook'
+description: 'This Playbook provides agency-level guidance on how to plan and implement an Identity, Credential, and Access Management (ICAM) Program, as outlined in the ICAM segment architecture.'
+openSourceProject: 1
+governmentWideReuseProject: 1
+tags:
+    - icam
+    - pmo
+    - program management
+    - playbook
+    - Identity, Credential, and Access Management
+contact:
+    email: icam@gsa.gov

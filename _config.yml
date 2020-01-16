@@ -1,16 +1,23 @@
 # Site settings
-title: Program Management Playbook
-name: Program Management Playbook
+title: Federal Identity, Credential, and Access Management Program Management
+name: Federal Identity, Credential, and Access Management Program Management
 email: icam@gsa.gov
 author:
     name: FICAM
-description: Program Management Guidance
+description: Federal Identity, Credential, and Access Management Program Management Guidance
 highlighter: rouge
-repo_url: https://github.com/gsa/program-guides
+repo_url: https://github.com/gsa/ficam-management
 baseurl: '/ficam-management'
 branch: master
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
+search_site_handle: idmprod
+
+# Lines below recommended by Search.gov team to allow indexing.
+url: "https://pm.idmanagement.gov"
+plugins:
+  - jekyll-sitemap
+
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization
 logourl: /ficam-management/img/logo.png
@@ -22,20 +29,23 @@ ficam_playbooks_url: /ficam-guides/
 # List links that you would like to appear on the top navigation bar here
 navbar:
 - title: IDmanagement.gov
-  description: Idmanagement.gov
+  description: IDmanagement.gov
   url: https://www.idmanagement.gov
-#- title: Federal ICAM Architecture
-#  description: Federal ICAM Architecture
-#  url: https://arch.idmanagement.gov
+- title: Federal ICAM Architecture
+  description: Federal ICAM Architecture
+  url: https://arch.idmanagement.gov
 - title: PIV Guides
   description: PIV Guides
   url: https://piv.idmanagement.gov
 - title: Federal PKI Guides
   description: Federal PKI Guides
   url: https://fpki.idmanagement.gov
+- title: PACS Playbook
+  description: Physical Access Control System Playbook
+  url: https://pacs.idmanagement.gov
 
 # Put the information about your site's GitHub repository if it is public
-repo_url: https://github.com/gsa/program-guides
+repo_url: https://github.com/gsa/ficam-management
 
 # Build settings
 markdown: kramdown
@@ -53,7 +63,7 @@ exclude:
 - vendor
 
 navigation:
-- text: Welcome
+- text: Introduction
   url: ''
   internal: true
   coll: false
@@ -62,41 +72,39 @@ navigation:
   internal: true
   coll: false
 - text: Program Governance and Leadership
-  url: governance
+  url: governance/
   internal: true
-  coll: false
+  coll: true
+  collname: governance
 - text: Workstreams
   url: workstreams
   internal: true
   coll: false
-- text: Program Stakeholder Management
+- text: Stakeholder Management
   url: stakeholders
   internal: true
   coll: false
-- text: ICAM Communication Plan
+- text: Communication Plan
   url: comm
-  internal: true
-  coll: false
-- text: Risk Management
-  url: risk
-  internal: true
-  coll: false
-- text: Capital Planning and Acquisitions
-  url: cpic
   internal: true
   coll: false
 - text: Performance Management
   url: performance
   internal: true
   coll: false
-- text: ICAM Privacy Requirements
+- text: Privacy Considerations
   url: privacy
   internal: true
   coll: false
-- text: Contribute
-  url: contribute
+- text: Examples and Guidance
+  url: examples
   internal: true
   coll: false
+- text: Contribute
+  url: contribute/
+  internal: true
+  coll: true
+  collname: contribute
 
 
   #https://github.com/jekyll/jekyll/issues/2346
@@ -112,6 +120,20 @@ navigation:
 #  collname: userconfig
 
   #https://github.com/jekyll/jekyll/issues/2346
+  
+collections:
+  governance:
+     label: "Program Governance and Leadership"
+     permalink: governance/:path/
+     output: true
+  cpic:
+     label: "Capital Planning and Acquisitions"
+     permalink: cpic/:path/
+     output: true
+  contribute:
+     label: "Contribute"
+     permalink: contribute/:path/
+     output: true
 
 include:
 - _stylesheets
