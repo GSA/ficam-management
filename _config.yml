@@ -8,7 +8,8 @@ description: Federal Identity, Credential, and Access Management Program Managem
 highlighter: rouge
 repo_url: https://github.com/gsa/ficam-management
 baseurl: '/ficam-management'
-branch: master
+branch: federalist-pages
+editbranch: staging
 #url: "http://yourdomain.com" # the base hostname & protocol for your site
 #twitter_username: jekyllrb
 search_site_handle: idmprod
