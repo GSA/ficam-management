@@ -13,7 +13,7 @@ To contribute to this site, you can:
 - [Add a new page]({{site.baseurl}}/contribute/addpage) - create a new page to add to this site.
 - [Edit an existing page]({{site.baseurl}}/contribute/editpage) - submit direct changes and line edits to content on this site.
 
-Using GitHub as a first-time user can be overwhelming. An introduction video is available from DigitalGov on YouTube: [Introduction to GitHub](https://youtu.be/uNa9GOtM6NE){:target="_blank"}.
+Using GitHub as a first-time user can be overwhelming. An introduction video is available from DigitalGov on YouTube: [Introduction to GitHub](https://youtu.be/uNa9GOtM6NE){:target="_blank"}{:rel="noopener noreferrer"}.
 
 ## About This Repository
 
@@ -44,9 +44,9 @@ Consider the audience when you submit content. Plain language benefits a broad a
 
 The following are useful resources for plain language, writing, and style:
 
-- [18F Content Guide](https://content-guide.18f.gov/){:target="_blank"}
-- [Federal Plain Language Guidelines](http://www.plainlanguage.gov/){:target="_blank"}
+- [18F Content Guide](https://content-guide.18f.gov/){:target="_blank"}{:rel="noopener noreferrer"}
+- [Federal Plain Language Guidelines](http://www.plainlanguage.gov/){:target="_blank"}{:rel="noopener noreferrer"}
 
 ## Thanks
 
-The contributing framework, the licensing framework, and the idea for providing this content as open-source are based on work from [18F](https://18f.gsa.gov/){:target="_blank"}.
+The contributing framework, the licensing framework, and the idea for providing this content as open-source are based on work from [18F](https://18f.gsa.gov/){:target="_blank"}{:rel="noopener noreferrer"}.
