@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Workstreams
-permalink: /workstreams/
 redirect_to: https://playbooks.idmanagement.gov/ficampm/workstreams/
+permalink: /workstreams/
 ---
 
 In the context of this playbook, workstreams are the focus areas or projects within an Identity, Credential, and Access Management (ICAM) framework.
