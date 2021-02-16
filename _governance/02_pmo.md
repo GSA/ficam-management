@@ -3,6 +3,7 @@ layout: default
 navtitle: Program Management Office
 title: Program Management Office
 collection: governance
+redirect_to: https://playbooks.idmanagement.gov/ficampm/governance/#program-management-office
 permalink: governance/pmo/
 ---
 
