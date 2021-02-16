@@ -3,6 +3,7 @@ layout: default
 navtitle: Add a Page
 title: Add a Page
 collection: contribute
+redirect_to: https://playbooks.idmanagement.gov/contribute/#add-a-page
 permalink: contribute/addpage/
 ---
 
