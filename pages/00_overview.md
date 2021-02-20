@@ -1,6 +1,7 @@
 ---
 layout: default
 title: What is ICAM Program Management?
+redirect_to: https://playbooks.idmanagement.gov/ficampm/intro-pm/
 permalink: /overview/
 ---
 

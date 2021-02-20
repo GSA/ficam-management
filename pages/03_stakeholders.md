@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Stakeholder Management
+redirect_to: https://playbooks.idmanagement.gov/ficampm/stakeholders/
 permalink: /stakeholders/
 ---
 

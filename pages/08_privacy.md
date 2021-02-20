@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Privacy Considerations
+redirect_to: https://playbooks.idmanagement.gov/ficampm/privacy/
 permalink: /privacy/
 ---
 

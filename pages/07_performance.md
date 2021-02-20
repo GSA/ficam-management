@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Performance Management
+redirect_to: https://playbooks.idmanagement.gov/ficampm/performance/
 permalink: /performance/
 ---
 
