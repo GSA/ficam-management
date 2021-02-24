@@ -18,6 +18,7 @@ search_site_handle: idmprod
 url: "https://pm.idmanagement.gov"
 plugins:
   - jekyll-sitemap
+  - jekyll-redirect-from
 
 
 # Point the logo URL at a file in your repo or hosted elsewhere by your organization

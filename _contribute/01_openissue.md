@@ -3,6 +3,7 @@ layout: default
 navtitle: Open an Issue
 title: Open an Issue
 collection: contribute
+redirect_to: https://playbooks.idmanagement.gov/contribute/#open-an-issue
 permalink: contribute/openissue/
 ---
 

@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Workstreams
+redirect_to: https://playbooks.idmanagement.gov/ficampm/workstreams/
 permalink: /workstreams/
 ---
 
