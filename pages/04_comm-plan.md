@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Communication Plan
-redirect_to: https://playbooks.idmanagement.gov/ficampm/comm/
+redirect_to: https://playbooks.idmanagement.gov/pm/comm/
 permalink: /comm/
 ---
 
