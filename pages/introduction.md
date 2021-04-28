@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Introduction
-redirect_to: https://playbooks.idmanagement.gov/ficampm/intro-pm/
+redirect_to: https://playbooks.idmanagement.gov/pm/
 permalink: /
 ---
 
