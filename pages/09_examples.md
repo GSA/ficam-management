@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Examples and Guidance
-redirect_to: https://playbooks.idmanagement.gov/ficampm/examples/
+redirect_to: https://playbooks.idmanagement.gov/pm/examples/
 permalink: /examples/
 ---
 
