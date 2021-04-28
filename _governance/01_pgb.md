@@ -3,7 +3,7 @@ layout: default
 navtitle: Program Governance Body
 title: Program Governance Body
 collection: governance
-redirect_to: https://playbooks.idmanagement.gov/ficampm/governance/#program-governance-body
+redirect_to: https://playbooks.idmanagement.gov/pm/governance/#program-governance-body
 permalink: governance/govbody/
 ---
 
