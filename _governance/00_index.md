@@ -2,7 +2,7 @@
 layout: default
 title: Program Governance and Leadership
 collection: governance
-redirect_to: https://playbooks.idmanagement.gov/ficampm/governance/
+redirect_to: https://playbooks.idmanagement.gov/pm/governance/
 permalink: /governance/
 ---
 
